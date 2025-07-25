@@ -1,0 +1,12 @@
+{
+  "name": "auto-cal",
+  "version": "1.0.0",
+  "main": "login-fetch.js",
+  "scripts": {
+    "start": "node login-fetch.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8",
+    "fs-extra": "^11.2.0"
+  }
+}
