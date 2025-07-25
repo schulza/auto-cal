@@ -3,26 +3,28 @@ const fs = require('fs-extra');
 
 const EMAIL = process.env.MYFXBOOK_EMAIL;
 const PASSWORD = process.env.MYFXBOOK_PASSWORD;
-const XML_URL = 'https://www.myfxbook.com/economic-calendar.xml';
+const XML_URL = 'https://www.myfxbook.com/feeds/economic-calendar.xml';
 
 (async () => {
   const browser = await puppeteer.launch({
-      headless: 'new',
-      executablePath: '/usr/bin/google-chrome',
-      args: ['--no-sandbox', '--disable-setuid-sandbox']
-    });
+    headless: 'new',
+    executablePath: '/usr/bin/google-chrome',
+    args: ['--no-sandbox', '--disable-setuid-sandbox']
+  });
   const page = await browser.newPage();
 
   try {
+    console.log('🔐 Logging in...');
     await page.goto('https://www.myfxbook.com/login', { waitUntil: 'networkidle2' });
 
     await page.type('input[name="loginEmail"]', EMAIL);
     await page.type('input[name="loginPassword"]', PASSWORD);
     await Promise.all([
-      await page.click('#login-btn'),
-      page.waitForNavigation({ waitUntil: 'networkidle2' }),
+      page.click('#login-btn'),
+      page.waitForNavigation({ waitUntil: 'networkidle2' })
     ]);
 
+    console.log('📥 Fetching XML...');
     const cookies = await page.cookies();
     const cookieHeader = cookies.map(c => `${c.name}=${c.value}`).join('; ');
 
