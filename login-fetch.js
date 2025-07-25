@@ -8,6 +8,7 @@ const XML_URL = 'https://www.myfxbook.com/feeds/economic-calendar.xml';
 (async () => {
   const browser = await puppeteer.launch({
       headless: 'new',
+      executablePath: '/usr/bin/google-chrome',
       args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
   const page = await browser.newPage();
