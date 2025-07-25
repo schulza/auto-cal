@@ -3,7 +3,7 @@ const fs = require('fs-extra');
 
 const EMAIL = process.env.MYFXBOOK_EMAIL;
 const PASSWORD = process.env.MYFXBOOK_PASSWORD;
-const XML_URL = 'https://www.myfxbook.com/economic-calendar.xml';
+const XML_URL = 'https://www.myfxbook.com/calendar_statement.xml';
 
 (async () => {
   const browser = await puppeteer.launch({
