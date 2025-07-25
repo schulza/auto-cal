@@ -16,8 +16,8 @@ const XML_URL = 'https://www.myfxbook.com/feeds/economic-calendar.xml';
   try {
     await page.goto('https://www.myfxbook.com/login', { waitUntil: 'networkidle2' });
 
-    await page.type('input[name="email"]', EMAIL);
-    await page.type('input[name="password"]', PASSWORD);
+    await page.type('input[name="loginEmail"]', EMAIL);
+    await page.type('input[name="loginPassword"]', PASSWORD);
     await Promise.all([
       await page.click('#login-btn'),
       page.waitForNavigation({ waitUntil: 'networkidle2' }),
