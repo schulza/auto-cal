@@ -19,7 +19,7 @@ const XML_URL = 'https://www.myfxbook.com/feeds/economic-calendar.xml';
     await page.type('input[name="email"]', EMAIL);
     await page.type('input[name="password"]', PASSWORD);
     await Promise.all([
-      page.click('input[name="loginButton"]'),
+      await page.click('#login-btn');
       page.waitForNavigation({ waitUntil: 'networkidle2' }),
     ]);
 
