@@ -1,68 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, July 25, 03:35</date>
-<name>(Japan) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, July 25, 05:00</date>
-<name>(Japan) Coincident Index</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, July 25, 05:00</date>
-<name>(Japan) Leading Economic Index</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, July 25, 06:00</date>
-<name>(United Kingdom) Retail Sales YoY</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, July 25, 06:00</date>
-<name>(United Kingdom) Retail Sales MoM</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, July 25, 06:00</date>
-<name>(United Kingdom) Retail Sales ex Fuel MoM</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, July 25, 06:00</date>
-<name>(United Kingdom) Retail Sales ex Fuel YoY</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, July 25, 06:45</date>
-<name>(France) Consumer Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, July 25, 08:00</date>
-<name>(Euro Area) Loans to Households YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 25, 08:00</date>
-<name>(Euro Area) M3 Money Supply YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 25, 08:00</date>
-<name>(Euro Area) Loans to Companies YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 25, 08:00</date>
-<name>(Germany) Ifo Business Climate</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 25, 08:00</date>
-<name>(Germany) Ifo Current Conditions</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 25, 08:00</date>
-<name>(Germany) Ifo Expectations</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 25, 08:00</date>
-<name>(Italy) Business Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, July 25, 08:00</date>
-<name>(Italy) Consumer Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, July 25, 08:00</date>
-<name>(Euro Area) ECB Survey of Professional Forecasters</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, July 25, 08:30</date>
-<name>(Slovenia) Tourist Arrivals YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 25, 08:30</date>
-<name>(Slovenia) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 25, 10:00</date>
-<name>(Spain) Consumer Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, July 25, 10:00</date>
-<name>(Greece) Total Credit YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 25, 10:00</date>
-<name>(Luxembourg) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 25, 12:30</date>
-<name>(United States) Durable Goods Orders Ex Transp MoM</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, July 25, 12:30</date>
-<name>(United States) Durable Goods Orders MoM</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, July 25, 12:30</date>
-<name>(United States) Durable Goods Orders ex Defense MoM</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, July 25, 12:30</date>
-<name>(United States) Non Defense Goods Orders Ex Air</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 25, 13:00</date>
-<name>(Belgium) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 25, 15:00</date>
-<name>(Canada) Budget Balance</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, July 25, 15:00</date>
-<name>(Canada) Budget Balance</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, July 25, 17:00</date>
-<name>(United States) Baker Hughes Oil Rig Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 25, 17:00</date>
-<name>(United States) Baker Hughes Total Rigs Count</name>
-<impact>Low</impact><currency>USD</currency></event>
+       <event><date>2025, July 27, 01:30</date>
+<name>(China) Industrial Profits (YTD) YoY</name>
+<impact>Low</impact><currency>CNY</currency></event>
     </events>
 </response>
