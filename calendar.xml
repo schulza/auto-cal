@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, July 27, 01:30</date>
-<name>(China) Industrial Profits (YTD) YoY</name>
-<impact>Low</impact><currency>CNY</currency></event><event><date>2025, July 28, 03:35</date>
+       <event><date>2025, July 28, 03:35</date>
 <name>(Japan) BoJ JGB Purchases</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, July 28, 05:00</date>
 <name>(Finland) Consumer Confidence</name>
@@ -43,6 +41,96 @@
 <name>(United States) 5-Year Note Auction</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, July 28, 19:00</date>
 <name>(United States) Treasury Refunding Financing Estimates</name>
-<impact>Low</impact><currency>USD</currency></event>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 02:35</date>
+<name>(New Zealand) 1-Year Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, July 29, 02:35</date>
+<name>(New Zealand) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, July 29, 02:35</date>
+<name>(New Zealand) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, July 29, 03:35</date>
+<name>(Japan) 2-Year JGB Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, July 29, 05:00</date>
+<name>(Finland) GDP YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 05:00</date>
+<name>(Finland) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 05:00</date>
+<name>(Finland) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 07:00</date>
+<name>(Spain) Retail Sales YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 29, 07:00</date>
+<name>(Spain) Retail Sales MoM</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 29, 07:00</date>
+<name>(Spain) GDP Growth Rate QoQ</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 29, 07:00</date>
+<name>(Spain) GDP Growth Rate YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 29, 08:00</date>
+<name>(Euro Area) ECB Consumer Inflation Expectations</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 08:00</date>
+<name>(Austria) Bank Austria Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 29, 08:30</date>
+<name>(United Kingdom) Mortgage Lending</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, July 29, 08:30</date>
+<name>(United Kingdom) M4 Money Supply MoM</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, July 29, 08:30</date>
+<name>(United Kingdom) BoE Consumer Credit</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, July 29, 08:30</date>
+<name>(United Kingdom) Mortgage Approvals</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, July 29, 08:30</date>
+<name>(United Kingdom) Net Lending to Individuals MoM</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, July 29, 09:00</date>
+<name>(Belgium) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 09:00</date>
+<name>(Belgium) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 09:00</date>
+<name>(United Kingdom) Treasury Gilt 2028</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, July 29, 09:10</date>
+<name>(Italy) 6-Month BOT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 09:30</date>
+<name>(Germany) 5-Year Bobl Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 10:00</date>
+<name>(Cyprus) Wage Growth YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 10:00</date>
+<name>(France) Jobseekers Total</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 10:00</date>
+<name>(France) Unemployment Benefit Claims</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, July 29, 10:00</date>
+<name>(Latvia) Retail Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 10:00</date>
+<name>(Latvia) Retail Sales MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 29, 12:30</date>
+<name>(United States) Wholesale Inventories MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 29, 12:30</date>
+<name>(United States) Retail Inventories Ex Autos MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 29, 12:30</date>
+<name>(United States) Goods Trade Balance</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, July 29, 12:55</date>
+<name>(United States) Redbook YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 13:00</date>
+<name>(United States) S&amp;P/Case-Shiller Home Price YoY</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 29, 13:00</date>
+<name>(United States) House Price Index MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 13:00</date>
+<name>(United States) S&amp;P/Case-Shiller Home Price MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 13:00</date>
+<name>(United States) House Price Index YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 13:00</date>
+<name>(United States) House Price Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 14:00</date>
+<name>(United States) JOLTs Job Openings</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, July 29, 14:00</date>
+<name>(United States) CB Consumer Confidence</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 29, 14:00</date>
+<name>(United States) JOLTs Job Quits</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 14:30</date>
+<name>(United States) Dallas Fed Services Revenues Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 14:30</date>
+<name>(United States) Dallas Fed Services Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 15:30</date>
+<name>(United States) 2-Year FRN Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 17:00</date>
+<name>(United States) 7-Year Note Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 20:30</date>
+<name>(United States) API Crude Oil Stock Change</name>
+<impact>Medium</impact><currency>USD</currency></event>
     </events>
 </response>
