@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, July 28, 03:35</date>
-<name>(Japan) BoJ JGB Purchases</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, July 28, 05:00</date>
-<name>(Finland) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 28, 05:00</date>
-<name>(Finland) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 28, 06:00</date>
-<name>(Lithuania) Retail Sales YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 28, 08:30</date>
-<name>(Slovenia) Retail Sales MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 28, 08:30</date>
-<name>(Slovenia) Retail Sales YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 28, 10:00</date>
-<name>(Spain) Consumer Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, July 28, 10:00</date>
-<name>(Ireland) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 28, 10:00</date>
-<name>(Ireland) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 28, 10:00</date>
-<name>(United Kingdom) CBI Distributive Trades</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, July 28, 12:30</date>
-<name>(Canada) Wholesale Sales MoM</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, July 28, 13:00</date>
-<name>(France) 12-Month BTF Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 28, 13:00</date>
-<name>(France) 3-Month BTF Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 28, 13:00</date>
-<name>(France) 6-Month BTF Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 28, 14:30</date>
-<name>(United States) Dallas Fed Manufacturing Index</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 28, 15:30</date>
-<name>(United States) 6-Month Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 28, 15:30</date>
-<name>(United States) 2-Year Note Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 28, 17:00</date>
-<name>(United States) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 28, 17:00</date>
-<name>(United States) 5-Year Note Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 28, 19:00</date>
-<name>(United States) Treasury Refunding Financing Estimates</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 02:35</date>
+       <event><date>2025, July 29, 02:35</date>
 <name>(New Zealand) 1-Year Bill Auction</name>
 <impact>Low</impact><currency>NZD</currency></event><event><date>2025, July 29, 02:35</date>
 <name>(New Zealand) 6-Month Bill Auction</name>
@@ -131,6 +91,200 @@
 <name>(United States) 7-Year Note Auction</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, July 29, 20:30</date>
 <name>(United States) API Crude Oil Stock Change</name>
-<impact>Medium</impact><currency>USD</currency></event>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 30, 01:00</date>
+<name>(New Zealand) ANZ Business Confidence</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, July 30, 01:30</date>
+<name>(Australia) Monthly CPI Indicator</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, July 30, 01:30</date>
+<name>(Australia) RBA Trimmed Mean CPI QoQ</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, July 30, 01:30</date>
+<name>(Australia) RBA Weighted Median CPI YoY</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, July 30, 01:30</date>
+<name>(Australia) CPI</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, July 30, 01:30</date>
+<name>(Australia) RBA Weighted Median CPI QoQ</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, July 30, 01:30</date>
+<name>(Australia) Inflation Rate QoQ</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, July 30, 01:30</date>
+<name>(Australia) Inflation Rate YoY</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, July 30, 01:30</date>
+<name>(Australia) RBA Trimmed Mean CPI YoY</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, July 30, 04:30</date>
+<name>(Netherlands) Business Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 05:30</date>
+<name>(France) GDP Growth Rate QoQ</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 30, 05:30</date>
+<name>(France) GDP Growth Rate YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 30, 05:30</date>
+<name>(France) Household Consumption MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 06:00</date>
+<name>(Germany) Retail Sales YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 30, 06:00</date>
+<name>(Germany) Retail Sales MoM</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 30, 06:00</date>
+<name>(Lithuania) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 06:00</date>
+<name>(Lithuania) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Austria) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Austria) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Austria) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Austria) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Slovakia) Consumer Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Slovakia) Business Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Spain) Core Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Spain) Inflation Rate YoY</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Spain) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Spain) Inflation Rate MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Spain) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 07:00</date>
+<name>(Switzerland) KOF Leading Indicators</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, July 30, 08:00</date>
+<name>(Germany) GDP Growth Rate YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 30, 08:00</date>
+<name>(Germany) GDP Growth Rate QoQ</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 30, 08:00</date>
+<name>(Italy) GDP Growth Rate YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 30, 08:00</date>
+<name>(Italy) GDP Growth Rate QoQ</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 30, 08:00</date>
+<name>(Switzerland) Economic Sentiment Index</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, July 30, 08:30</date>
+<name>(Portugal) Business Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 08:30</date>
+<name>(Portugal) Consumer Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 08:30</date>
+<name>(Portugal) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 08:30</date>
+<name>(Portugal) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Italy) Industrial Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Italy) Industrial Sales MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Cyprus) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Euro Area) Consumer Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Euro Area) Economic Sentiment</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Euro Area) Industrial Sentiment</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Euro Area) Services Sentiment</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Euro Area) Selling Price Expectations</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Euro Area) GDP Growth Rate YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Euro Area) GDP Growth Rate QoQ</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Euro Area) Consumer Inflation Expectations</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Greece) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Montenegro) Tourist Arrivals YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:00</date>
+<name>(Montenegro) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:10</date>
+<name>(Italy) 5-Year BTP Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:10</date>
+<name>(Italy) 10-Year BTP Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:30</date>
+<name>(Belgium) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 09:30</date>
+<name>(Belgium) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 10:00</date>
+<name>(Ireland) Retail Sales MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 10:00</date>
+<name>(Ireland) Retail Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 10:00</date>
+<name>(Portugal) Unemployment Rate</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, July 30, 11:00</date>
+<name>(Spain) Business Confidence</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, July 30, 11:00</date>
+<name>(United States) MBA Mortgage Refinance Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 11:00</date>
+<name>(United States) MBA Mortgage Applications</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 11:00</date>
+<name>(United States) MBA Mortgage Market Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 11:00</date>
+<name>(United States) MBA 30-Year Mortgage Rate</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 30, 11:00</date>
+<name>(United States) MBA Purchase Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 12:15</date>
+<name>(United States) ADP Employment Change</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, July 30, 12:30</date>
+<name>(United States) PCE Prices QoQ</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 12:30</date>
+<name>(United States) Core PCE Prices QoQ</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 12:30</date>
+<name>(United States) Real Consumer Spending QoQ</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 12:30</date>
+<name>(United States) GDP Sales QoQ</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 12:30</date>
+<name>(United States) GDP Price Index QoQ</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 30, 12:30</date>
+<name>(United States) GDP Growth Rate QoQ</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, July 30, 12:30</date>
+<name>(United States) Treasury Refunding Announcement</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 13:45</date>
+<name>(Canada) BoC Interest Rate Decision</name>
+<impact>High</impact><currency>CAD</currency></event><event><date>2025, July 30, 13:45</date>
+<name>(Canada) BoC Monetary Policy Report</name>
+<impact>High</impact><currency>CAD</currency></event><event><date>2025, July 30, 14:00</date>
+<name>(United States) Pending Home Sales YoY</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 30, 14:00</date>
+<name>(United States) Pending Home Sales MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 30, 14:30</date>
+<name>(Canada) BoC Press Conference</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, July 30, 14:30</date>
+<name>(United States) EIA Gasoline Production Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 14:30</date>
+<name>(United States) EIA Distillate Fuel Production Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 14:30</date>
+<name>(United States) EIA Heating Oil Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 14:30</date>
+<name>(United States) EIA Refinery Crude Runs Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 14:30</date>
+<name>(United States) EIA Crude Oil Stocks Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 30, 14:30</date>
+<name>(United States) EIA Gasoline Stocks Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, July 30, 14:30</date>
+<name>(United States) EIA Crude Oil Imports Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 14:30</date>
+<name>(United States) EIA Cushing Crude Oil Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 14:30</date>
+<name>(United States) EIA Distillate Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 15:30</date>
+<name>(United States) 17-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, July 30, 18:00</date>
+<name>(United States) Fed Interest Rate Decision</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, July 30, 18:30</date>
+<name>(United States) Fed Press Conference</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, July 30, 23:20</date>
+<name>(Australia) RBA Hauser Speech</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, July 30, 23:50</date>
+<name>(Japan) Foreign Bond Investment</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, July 30, 23:50</date>
+<name>(Japan) Stock Investment by Foreigners</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, July 30, 23:50</date>
+<name>(Japan) Industrial Production MoM</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, July 30, 23:50</date>
+<name>(Japan) Industrial Production YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, July 30, 23:50</date>
+<name>(Japan) Retail Sales MoM</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, July 30, 23:50</date>
+<name>(Japan) Retail Sales YoY</name>
+<impact>Medium</impact><currency>JPY</currency></event>
     </events>
 </response>
