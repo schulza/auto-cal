@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       
+       <event><date>2025, August 04, 00:00</date>
+<name>(Ireland) August Bank Holiday</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, August 04, 01:00</date>
+<name>(Australia) TD-MI Inflation Gauge MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 04, 06:30</date>
+<name>(Switzerland) Inflation Rate MoM</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, August 04, 06:30</date>
+<name>(Switzerland) Inflation Rate YoY</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, August 04, 07:00</date>
+<name>(Spain) Unemployment Change</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 04, 07:00</date>
+<name>(France) New Car Registrations YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 04, 07:30</date>
+<name>(Switzerland) procure.ch Manufacturing PMI</name>
+<impact>High</impact><currency>CHF</currency></event><event><date>2025, August 04, 08:30</date>
+<name>(Slovenia) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 04, 09:30</date>
+<name>(Netherlands) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 04, 09:30</date>
+<name>(Netherlands) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 04, 10:00</date>
+<name>(Latvia) Industrial Production MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 04, 10:00</date>
+<name>(Latvia) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 04, 10:30</date>
+<name>(Portugal) Budget Balance</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 04, 13:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 04, 13:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 04, 13:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 04, 14:00</date>
+<name>(United States) Factory Orders MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 04, 14:00</date>
+<name>(United States) Total Vehicle Sales</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 04, 14:00</date>
+<name>(United States) Factory Orders ex Transportation</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 04, 15:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 04, 15:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 04, 23:00</date>
+<name>(Australia) S&amp;P Global Services PMI</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, August 04, 23:00</date>
+<name>(Australia) S&amp;P Global Composite PMI</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 04, 23:50</date>
+<name>(Japan) BoJ Monetary Policy Meeting Minutes</name>
+<impact>Medium</impact><currency>JPY</currency></event>
     </events>
 </response>
