@@ -1,145 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, August 05, 00:00</date>
-<name>(El Salvador) Celebrations of San Salvador</name>
-<impact>None</impact><currency>USD</currency></event><event><date>2025, August 05, 00:30</date>
-<name>(Japan) Jibun Bank Services PMI</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 05, 00:30</date>
-<name>(Japan) Jibun Bank Composite PMI</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 05, 01:30</date>
-<name>(Australia) ANZ-Indeed Job Ads MoM</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 05, 01:30</date>
-<name>(Australia) Household Spending MoM</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 05, 01:30</date>
-<name>(Australia) Household Spending YoY</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 05, 01:45</date>
-<name>(China) Caixin Composite PMI</name>
-<impact>Low</impact><currency>CNY</currency></event><event><date>2025, August 05, 01:45</date>
-<name>(China) Caixin Services PMI</name>
-<impact>High</impact><currency>CNY</currency></event><event><date>2025, August 05, 02:35</date>
-<name>(New Zealand) 1-Year Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 05, 02:35</date>
-<name>(New Zealand) 6-Month Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 05, 02:35</date>
-<name>(New Zealand) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 05, 03:35</date>
-<name>(Japan) 10-Year JGB Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 05, 05:00</date>
-<name>(Estonia) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 05:00</date>
-<name>(Estonia) Industrial Production MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 06:00</date>
-<name>(Finland) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 06:45</date>
-<name>(France) Industrial Production MoM</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 05, 06:45</date>
-<name>(France) Budget Balance</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 07:00</date>
-<name>(Spain) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 07:15</date>
-<name>(Spain) HCOB Composite PMI</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 07:15</date>
-<name>(Spain) HCOB Services PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 05, 07:45</date>
-<name>(Italy) HCOB Services PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 05, 07:45</date>
-<name>(Italy) HCOB Composite PMI</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 07:50</date>
-<name>(France) HCOB Services PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 05, 07:50</date>
-<name>(France) HCOB Composite PMI</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 07:55</date>
-<name>(Germany) HCOB Services PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 05, 07:55</date>
-<name>(Germany) HCOB Composite PMI</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 08:00</date>
-<name>(Euro Area) HCOB Composite PMI</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 08:00</date>
-<name>(Euro Area) HCOB Services PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 05, 08:00</date>
-<name>(United Kingdom) New Car Sales YoY</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 05, 08:30</date>
-<name>(United Kingdom) S&amp;P Global Services PMI</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 05, 08:30</date>
-<name>(United Kingdom) S&amp;P Global Composite PMI</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 05, 08:40</date>
-<name>(Spain) 6-Month Letras Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 08:40</date>
-<name>(Spain) 12-Month Letras Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 09:00</date>
-<name>(Euro Area) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 09:00</date>
-<name>(Euro Area) PPI MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 09:00</date>
-<name>(United Kingdom) Treasury Gilt 2035</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 05, 09:30</date>
-<name>(Germany) 2-Year Schatz Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 10:00</date>
-<name>(Germany) New Car Registrations YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 05, 10:00</date>
-<name>(United States) LMI Logistics Managers Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 05, 12:00</date>
-<name>(New Zealand) Global Dairy Trade Price Index</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 05, 12:30</date>
-<name>(Canada) Balance of Trade</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, August 05, 12:30</date>
-<name>(Canada) Imports</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 05, 12:30</date>
-<name>(Canada) Exports</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 05, 12:30</date>
-<name>(United States) Exports</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 05, 12:30</date>
-<name>(United States) Imports</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 05, 12:30</date>
-<name>(United States) Balance of Trade</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 05, 12:55</date>
-<name>(United States) Redbook YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 05, 13:45</date>
-<name>(United States) S&amp;P Global Services PMI</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 05, 13:45</date>
-<name>(United States) S&amp;P Global Composite PMI</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 05, 14:00</date>
-<name>(United States) ISM Services Employment</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 05, 14:00</date>
-<name>(United States) ISM Services Business Activity</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 05, 14:00</date>
-<name>(United States) ISM Services PMI</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 05, 14:00</date>
-<name>(United States) ISM Services Prices</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 05, 14:00</date>
-<name>(United States) ISM Services New Orders</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 05, 14:10</date>
-<name>(United States) RCM/TIPP Economic Optimism Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 05, 15:00</date>
-<name>(United States) Total Household Debt</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 05, 15:30</date>
-<name>(United States) 52-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 05, 17:00</date>
-<name>(United States) 3-Year Note Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 05, 20:30</date>
-<name>(United States) API Crude Oil Stock Change</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 05, 22:45</date>
-<name>(New Zealand) Labour Costs Index YoY</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 05, 22:45</date>
-<name>(New Zealand) Employment Change QoQ</name>
-<impact>High</impact><currency>NZD</currency></event><event><date>2025, August 05, 22:45</date>
-<name>(New Zealand) Labour Costs Index QoQ</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 05, 22:45</date>
-<name>(New Zealand) Unemployment Rate</name>
-<impact>High</impact><currency>NZD</currency></event><event><date>2025, August 05, 22:45</date>
-<name>(New Zealand) Participation Rate</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 05, 23:00</date>
-<name>(Australia) Ai Group Industry Index</name>
-<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, August 05, 23:00</date>
-<name>(Australia) Ai Group Manufacturing Index</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 05, 23:00</date>
-<name>(Australia) Ai Group Construction Index</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 05, 23:30</date>
-<name>(Japan) Overtime Pay YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 05, 23:30</date>
-<name>(Japan) Average Cash Earnings YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 06, 00:00</date>
+       <event><date>2025, August 06, 00:00</date>
 <name>(El Salvador) Celebrations of San Salvador</name>
 <impact>None</impact><currency>USD</currency></event><event><date>2025, August 06, 00:01</date>
 <name>(Ireland) AIB Services PMI</name>
@@ -235,6 +97,174 @@
 <name>(Japan) Stock Investment by Foreigners</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 06, 23:50</date>
 <name>(Japan) Foreign Exchange Reserves</name>
-<impact>Low</impact><currency>JPY</currency></event>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 07, 00:45</date>
+<name>(Australia) RBA Connolly Speech</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, August 07, 01:30</date>
+<name>(Australia) Private House Approvals MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 07, 01:30</date>
+<name>(Australia) Building Permits MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 07, 01:30</date>
+<name>(Australia) Imports MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 07, 01:30</date>
+<name>(Australia) Exports MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 07, 01:30</date>
+<name>(Australia) Balance of Trade</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, August 07, 03:00</date>
+<name>(China) Exports YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, August 07, 03:00</date>
+<name>(China) Balance of Trade</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, August 07, 03:00</date>
+<name>(China) Imports YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, August 07, 03:00</date>
+<name>(New Zealand) Business Inflation Expectations</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 07, 03:35</date>
+<name>(Japan) 30-Year JGB Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 07, 03:35</date>
+<name>(Japan) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 07, 05:00</date>
+<name>(Estonia) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 05:00</date>
+<name>(Estonia) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 05:00</date>
+<name>(Japan) Coincident Index</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 07, 05:00</date>
+<name>(Japan) Leading Economic Index</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 07, 05:45</date>
+<name>(Switzerland) Unemployment Rate</name>
+<impact>High</impact><currency>CHF</currency></event><event><date>2025, August 07, 06:00</date>
+<name>(Germany) Balance of Trade</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 07, 06:00</date>
+<name>(Germany) Imports MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 06:00</date>
+<name>(Germany) Industrial Production MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 07, 06:00</date>
+<name>(Germany) Exports MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 07, 06:00</date>
+<name>(United Kingdom) Halifax House Price Index YoY</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 07, 06:00</date>
+<name>(United Kingdom) Halifax House Price Index MoM</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 07, 06:45</date>
+<name>(France) Exports</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 06:45</date>
+<name>(France) Foreign Exchange Reserves</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 06:45</date>
+<name>(France) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 06:45</date>
+<name>(France) Imports</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 06:45</date>
+<name>(France) Balance of Trade</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 07, 07:00</date>
+<name>(Austria) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 07:00</date>
+<name>(Austria) Bundesanleihe Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 07:00</date>
+<name>(Switzerland) Foreign Exchange Reserves</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, August 07, 07:00</date>
+<name>(Austria) Bundesanleihe 2025-2035/1 Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 08:00</date>
+<name>(China) Foreign Exchange Reserves</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, August 07, 08:30</date>
+<name>(United Kingdom) DMP 1Y CPI Expectations</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 07, 08:30</date>
+<name>(United Kingdom) DMP 3M Output Price Expectations</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 07, 08:40</date>
+<name>(Spain) Obligacion Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 08:40</date>
+<name>(Spain) Index-Linked Obligacion Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 08:40</date>
+<name>(Spain) 10-Year Obligacion Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 08:40</date>
+<name>(Spain) 3-Year Bonos Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 09:00</date>
+<name>(Cyprus) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 09:00</date>
+<name>(Cyprus) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 09:00</date>
+<name>(France) OAT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 09:00</date>
+<name>(Greece) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 09:00</date>
+<name>(United Kingdom) BBA Mortgage Rate</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 07, 09:00</date>
+<name>(France) 2036 OAT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 09:00</date>
+<name>(France) 2045 OAT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 09:00</date>
+<name>(France) 2055 OAT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 10:00</date>
+<name>(Ireland) Unemployment Rate</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 10:00</date>
+<name>(Ireland) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 10:00</date>
+<name>(Ireland) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 10:00</date>
+<name>(Ireland) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 10:00</date>
+<name>(Ireland) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 07, 11:00</date>
+<name>(United Kingdom) BoE Interest Rate Decision</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 07, 11:00</date>
+<name>(United Kingdom) MPC Meeting Minutes</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 07, 11:00</date>
+<name>(United Kingdom) BoE MPC Vote Cut</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 07, 11:00</date>
+<name>(United Kingdom) BoE MPC Vote Hike</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 07, 11:00</date>
+<name>(United Kingdom) BoE MPC Vote Unchanged</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 07, 11:00</date>
+<name>(United Kingdom) BoE Monetary Policy Report</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 07, 12:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 07, 12:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 07, 12:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 07, 12:30</date>
+<name>(United States) Unit Labour Costs QoQ</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 07, 12:30</date>
+<name>(United States) Nonfarm Productivity QoQ</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 07, 13:00</date>
+<name>(United States) Used Car Prices MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 13:00</date>
+<name>(United States) Used Car Prices YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 14:00</date>
+<name>(Canada) Ivey PMI s.a</name>
+<impact>High</impact><currency>CAD</currency></event><event><date>2025, August 07, 14:00</date>
+<name>(United States) Wholesale Inventories MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 14:00</date>
+<name>(United States) Fed Bostic Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 07, 14:20</date>
+<name>(United States) Fed Musalem Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 07, 14:30</date>
+<name>(United States) EIA Natural Gas Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 15:00</date>
+<name>(United States) Consumer Inflation Expectations</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 15:30</date>
+<name>(United States) 4-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 15:30</date>
+<name>(United States) 8-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 16:00</date>
+<name>(United States) 30-Year Mortgage Rate</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 16:00</date>
+<name>(United States) 15-Year Mortgage Rate</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 16:00</date>
+<name>(Canada) 10-Year Bond Auction</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 07, 17:00</date>
+<name>(United States) 30-Year Bond Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 19:00</date>
+<name>(United States) Consumer Credit Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 20:30</date>
+<name>(United States) Fed Balance Sheet</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 07, 23:30</date>
+<name>(Japan) Household Spending MoM</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, August 07, 23:30</date>
+<name>(Japan) Household Spending YoY</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, August 07, 23:50</date>
+<name>(Japan) Bank Lending YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 07, 23:50</date>
+<name>(Japan) Current Account</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, August 07, 23:50</date>
+<name>(Japan) BoJ Summary of Opinions</name>
+<impact>Medium</impact><currency>JPY</currency></event>
     </events>
 </response>
