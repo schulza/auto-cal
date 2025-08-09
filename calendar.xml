@@ -1,71 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, August 08, 03:35</date>
-<name>(Japan) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 08, 04:30</date>
-<name>(Netherlands) Manufacturing Production MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 04:30</date>
-<name>(Netherlands) Household Consumption YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 05:00</date>
-<name>(Finland) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 05:00</date>
-<name>(Japan) Eco Watchers Survey Current</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 08, 05:00</date>
-<name>(Japan) Eco Watchers Survey Outlook</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 08, 05:30</date>
-<name>(France) Unemployment Rate</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 08, 06:00</date>
-<name>(Lithuania) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 06:00</date>
-<name>(Lithuania) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 06:00</date>
-<name>(Lithuania) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 07:00</date>
-<name>(Austria) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 07:00</date>
-<name>(Slovakia) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 07:00</date>
-<name>(Slovakia) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 07:00</date>
-<name>(Switzerland) Consumer Confidence</name>
-<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, August 08, 09:00</date>
-<name>(China) Current Account</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, August 08, 09:00</date>
-<name>(Greece) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 09:00</date>
-<name>(Greece) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 09:00</date>
-<name>(Greece) Harmonised Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 09:00</date>
-<name>(Greece) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 09:00</date>
-<name>(Malta) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 10:00</date>
-<name>(Ireland) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 10:00</date>
-<name>(Latvia) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 10:00</date>
-<name>(Latvia) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 10:00</date>
-<name>(Portugal) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 08, 12:30</date>
-<name>(Canada) Average Hourly Wages YoY</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 08, 12:30</date>
-<name>(Canada) Participation Rate</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, August 08, 12:30</date>
-<name>(Canada) Unemployment Rate</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, August 08, 12:30</date>
-<name>(Canada) Employment Change</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, August 08, 12:30</date>
-<name>(Canada) Full Time Employment Chg</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, August 08, 12:30</date>
-<name>(Canada) Part Time Employment Chg</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, August 08, 17:00</date>
-<name>(United States) Baker Hughes Total Rigs Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 08, 17:00</date>
-<name>(United States) Baker Hughes Oil Rig Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 09, 01:30</date>
+       <event><date>2025, August 09, 01:30</date>
 <name>(China) PPI YoY</name>
 <impact>Medium</impact><currency>CNY</currency></event><event><date>2025, August 09, 01:30</date>
 <name>(China) Inflation Rate MoM</name>
