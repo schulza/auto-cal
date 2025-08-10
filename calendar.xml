@@ -1,14 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, August 09, 01:30</date>
-<name>(China) PPI YoY</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, August 09, 01:30</date>
-<name>(China) Inflation Rate MoM</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, August 09, 01:30</date>
-<name>(China) Inflation Rate YoY</name>
-<impact>High</impact><currency>CNY</currency></event><event><date>2025, August 09, 16:15</date>
-<name>(United States) Fed Bowman Speech</name>
-<impact>Medium</impact><currency>USD</currency></event>
+       <event><date>2025, August 11, 00:00</date>
+<name>(Ecuador) National Day</name>
+<impact>None</impact><currency>USD</currency></event><event><date>2025, August 11, 00:00</date>
+<name>(Japan) Mountain Day</name>
+<impact>None</impact><currency>JPY</currency></event><event><date>2025, August 11, 05:00</date>
+<name>(Estonia) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 06:00</date>
+<name>(Lithuania) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 06:00</date>
+<name>(Lithuania) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 07:00</date>
+<name>(Slovakia) Construction Output YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 08:00</date>
+<name>(Italy) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 08:00</date>
+<name>(Italy) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 08:00</date>
+<name>(Italy) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 08:00</date>
+<name>(Italy) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 08:30</date>
+<name>(Slovenia) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 09:00</date>
+<name>(Greece) Unemployment Rate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 11, 09:00</date>
+<name>(Cyprus) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 09:00</date>
+<name>(Italy) Balance of Trade</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 11, 09:00</date>
+<name>(Malta) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 13:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 13:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 13:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 14:00</date>
+<name>(Kosovo) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 14:30</date>
+<name>(Canada) BoC Market Participants Survey</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 11, 15:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 11, 15:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 11, 23:01</date>
+<name>(United Kingdom) BRC Retail Sales Monitor YoY</name>
+<impact>High</impact><currency>GBP</currency></event>
     </events>
 </response>
