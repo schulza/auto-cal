@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, August 11, 00:00</date>
-<name>(Ecuador) National Day</name>
-<impact>None</impact><currency>USD</currency></event><event><date>2025, August 11, 00:00</date>
-<name>(Japan) Mountain Day</name>
-<impact>None</impact><currency>JPY</currency></event><event><date>2025, August 11, 05:00</date>
-<name>(Estonia) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 06:00</date>
-<name>(Lithuania) PPI MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 06:00</date>
-<name>(Lithuania) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 07:00</date>
-<name>(Slovakia) Construction Output YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 08:00</date>
-<name>(Italy) Harmonised Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 08:00</date>
-<name>(Italy) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 08:00</date>
-<name>(Italy) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 08:00</date>
-<name>(Italy) Harmonised Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 08:30</date>
-<name>(Slovenia) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 09:00</date>
-<name>(Greece) Unemployment Rate</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 11, 09:00</date>
-<name>(Cyprus) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 09:00</date>
-<name>(Italy) Balance of Trade</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 11, 09:00</date>
-<name>(Malta) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 13:00</date>
-<name>(France) 12-Month BTF Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 13:00</date>
-<name>(France) 3-Month BTF Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 13:00</date>
-<name>(France) 6-Month BTF Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 14:00</date>
-<name>(Kosovo) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 11, 14:30</date>
-<name>(Canada) BoC Market Participants Survey</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 11, 15:30</date>
-<name>(United States) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 11, 15:30</date>
-<name>(United States) 6-Month Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 11, 23:01</date>
-<name>(United Kingdom) BRC Retail Sales Monitor YoY</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 12, 01:01</date>
+       <event><date>2025, August 12, 00:01</date>
 <name>(Ireland) Construction PMI</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 12, 01:30</date>
 <name>(Australia) NAB Business Confidence</name>
@@ -84,6 +38,8 @@
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 12, 08:40</date>
 <name>(Spain) 3-Month Letras Auction</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 12, 09:00</date>
+<name>(Greece) Unemployment Rate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 12, 09:00</date>
 <name>(Euro Area) ZEW Economic Sentiment Index</name>
 <impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 12, 09:00</date>
 <name>(Germany) ZEW Current Conditions</name>
@@ -145,6 +101,96 @@
 <name>(Japan) PPI YoY</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 12, 23:50</date>
 <name>(Japan) PPI MoM</name>
-<impact>Low</impact><currency>JPY</currency></event>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 13, 01:30</date>
+<name>(Australia) Home Loans QoQ</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, August 13, 01:30</date>
+<name>(Australia) Investment Lending for Homes</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, August 13, 01:30</date>
+<name>(Australia) Wage Price Index QoQ</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 13, 01:30</date>
+<name>(Australia) Wage Price Index YoY</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 13, 01:30</date>
+<name>(Australia) RBA Chart Pack</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 13, 03:35</date>
+<name>(Japan) 5-Year JGB Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 13, 06:00</date>
+<name>(Germany) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 06:00</date>
+<name>(Germany) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 06:00</date>
+<name>(Germany) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 06:00</date>
+<name>(Germany) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 06:00</date>
+<name>(Japan) Machine Tool Orders YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 13, 06:00</date>
+<name>(Germany) Wholesale Prices YoY</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 13, 06:00</date>
+<name>(Germany) Wholesale Prices MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 13, 07:00</date>
+<name>(Lithuania) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 07:00</date>
+<name>(Spain) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 07:00</date>
+<name>(Spain) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 07:00</date>
+<name>(Spain) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 07:00</date>
+<name>(Spain) Core Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 07:00</date>
+<name>(Spain) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 08:00</date>
+<name>(France) IEA Oil Market Report</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 13, 08:30</date>
+<name>(Latvia) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 09:30</date>
+<name>(Belgium) Industrial Production MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 09:30</date>
+<name>(Belgium) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 09:30</date>
+<name>(Germany) 10-Year Bund Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 13, 11:00</date>
+<name>(United States) MBA Purchase Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 11:00</date>
+<name>(United States) MBA Mortgage Applications</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 11:00</date>
+<name>(United States) MBA Mortgage Market Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 11:00</date>
+<name>(United States) MBA 30-Year Mortgage Rate</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 13, 11:00</date>
+<name>(United States) MBA Mortgage Refinance Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 11:30</date>
+<name>(United States) Fed Barkin Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 13, 14:30</date>
+<name>(United States) EIA Gasoline Stocks Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 13, 14:30</date>
+<name>(United States) EIA Heating Oil Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 14:30</date>
+<name>(United States) EIA Distillate Fuel Production Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 14:30</date>
+<name>(United States) EIA Cushing Crude Oil Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 14:30</date>
+<name>(United States) EIA Distillate Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 14:30</date>
+<name>(United States) EIA Crude Oil Stocks Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 13, 14:30</date>
+<name>(United States) EIA Refinery Crude Runs Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 14:30</date>
+<name>(United States) EIA Gasoline Production Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 14:30</date>
+<name>(United States) EIA Crude Oil Imports Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 15:00</date>
+<name>(Ecuador) Balance of Trade</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 15:30</date>
+<name>(United States) 17-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 13, 17:00</date>
+<name>(United States) Fed Goolsbee Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 13, 17:30</date>
+<name>(Canada) BoC Summary of Deliberations</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, August 13, 17:30</date>
+<name>(United States) Fed Bostic Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 13, 23:01</date>
+<name>(United Kingdom) RICS House Price Balance</name>
+<impact>Medium</impact><currency>GBP</currency></event>
     </events>
 </response>
