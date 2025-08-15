@@ -1,171 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, August 14, 01:30</date>
-<name>(Australia) Part Time Employment Chg</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 14, 01:30</date>
-<name>(Australia) Participation Rate</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 14, 01:30</date>
-<name>(Australia) Full Time Employment Chg</name>
-<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, August 14, 01:30</date>
-<name>(Australia) Employment Change</name>
-<impact>High</impact><currency>AUD</currency></event><event><date>2025, August 14, 01:30</date>
-<name>(Australia) Unemployment Rate</name>
-<impact>High</impact><currency>AUD</currency></event><event><date>2025, August 14, 03:35</date>
-<name>(Japan) BoJ JGB Purchases</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 14, 04:30</date>
-<name>(Netherlands) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 05:00</date>
-<name>(Finland) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 05:00</date>
-<name>(Finland) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 05:00</date>
-<name>(Finland) Harmonised Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 05:00</date>
-<name>(Finland) Harmonised Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) Construction Orders YoY</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) GDP MoM</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) GDP 3-Month Avg</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) Construction Output YoY</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) Business Investment YoY</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) GDP Growth Rate QoQ</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) Business Investment QoQ</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) GDP Growth Rate YoY</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) GDP YoY</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) Goods Trade Balance Non-EU</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) Industrial Production MoM</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) Manufacturing Production YoY</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) Industrial Production YoY</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) Manufacturing Production MoM</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) Balance of Trade</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:00</date>
-<name>(United Kingdom) Goods Trade Balance</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 14, 06:30</date>
-<name>(Switzerland) Producer &amp; Import Prices MoM</name>
-<impact>Low</impact><currency>CHF</currency></event><event><date>2025, August 14, 06:30</date>
-<name>(Switzerland) Producer &amp; Import Prices YoY</name>
-<impact>Low</impact><currency>CHF</currency></event><event><date>2025, August 14, 06:45</date>
-<name>(France) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 06:45</date>
-<name>(France) Harmonised Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 06:45</date>
-<name>(France) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 06:45</date>
-<name>(France) Harmonised Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 07:00</date>
-<name>(Slovakia) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 07:00</date>
-<name>(Slovakia) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 08:30</date>
-<name>(Slovenia) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 08:30</date>
-<name>(Slovenia) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 08:30</date>
-<name>(United Kingdom) Labour Productivity QoQ</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 14, 09:00</date>
-<name>(Belgium) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 09:00</date>
-<name>(Cyprus) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 09:00</date>
-<name>(Cyprus) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 09:00</date>
-<name>(Euro Area) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 09:00</date>
-<name>(Euro Area) Employment Change YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 14, 09:00</date>
-<name>(Euro Area) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 09:00</date>
-<name>(Euro Area) Industrial Production MoM</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 14, 09:00</date>
-<name>(Euro Area) Employment Change QoQ</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 14, 09:00</date>
-<name>(Euro Area) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 10:00</date>
-<name>(Latvia) Unemployment Rate</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 10:30</date>
-<name>(Portugal) Private Consumption YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 10:30</date>
-<name>(Portugal) Economic Activity YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 14, 12:00</date>
-<name>(United Kingdom) NIESR Monthly GDP Tracker</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 14, 12:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 14, 12:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 14, 12:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 14, 12:30</date>
-<name>(United States) PPI YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 12:30</date>
-<name>(United States) PPI Ex Food, Energy and Trade YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 12:30</date>
-<name>(United States) PPI Ex Food, Energy and Trade MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 12:30</date>
-<name>(United States) PPI MoM</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 14, 12:30</date>
-<name>(United States) Core PPI MoM</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 14, 12:30</date>
-<name>(United States) Core PPI YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 12:30</date>
-<name>(United States) PPI</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 14:30</date>
-<name>(United States) EIA Natural Gas Stocks Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 15:30</date>
-<name>(United States) 4-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 15:30</date>
-<name>(United States) 8-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 16:00</date>
-<name>(United States) 30-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 16:00</date>
-<name>(United States) 15-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 16:00</date>
-<name>(Canada) 2-Year Bond Auction</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 14, 18:00</date>
-<name>(United States) Fed Barkin Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 14, 20:30</date>
-<name>(United States) Fed Balance Sheet</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 21:00</date>
-<name>(El Salvador) Inflation Rate MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 21:00</date>
-<name>(El Salvador) Inflation Rate YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 14, 22:30</date>
-<name>(New Zealand) Business NZ PMI</name>
-<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, August 14, 22:45</date>
-<name>(New Zealand) Visitor Arrivals YoY</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 14, 22:45</date>
-<name>(New Zealand) Food Inflation YoY</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 14, 23:50</date>
-<name>(Japan) Stock Investment by Foreigners</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 14, 23:50</date>
-<name>(Japan) Foreign Bond Investment</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 14, 23:50</date>
-<name>(Japan) GDP Price Index YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 14, 23:50</date>
-<name>(Japan) GDP Private Consumption QoQ</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 14, 23:50</date>
-<name>(Japan) GDP Capital Expenditure QoQ</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 14, 23:50</date>
-<name>(Japan) GDP Growth Annualized</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, August 14, 23:50</date>
-<name>(Japan) GDP External Demand QoQ</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 14, 23:50</date>
-<name>(Japan) GDP Growth Rate QoQ</name>
-<impact>High</impact><currency>JPY</currency></event><event><date>2025, August 15, 00:00</date>
+       <event><date>2025, August 15, 00:00</date>
 <name>(Austria) Assumption of Mary</name>
 <impact>None</impact><currency>EUR</currency></event><event><date>2025, August 15, 00:00</date>
 <name>(Belgium) Assumption of Mary</name>
@@ -185,9 +21,7 @@
 <name>(Portugal) Assumption of Mary</name>
 <impact>None</impact><currency>EUR</currency></event><event><date>2025, August 15, 00:00</date>
 <name>(Slovenia) Assumption of Mary</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, August 15, 01:00</date>
-<name>(Australia) Consumer Inflation Expectations</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 15, 01:30</date>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, August 15, 01:30</date>
 <name>(China) House Price Index YoY</name>
 <impact>Medium</impact><currency>CNY</currency></event><event><date>2025, August 15, 02:00</date>
 <name>(China) Retail Sales YoY</name>
@@ -223,6 +57,10 @@
 <name>(Switzerland) GDP Growth Rate QoQ</name>
 <impact>Medium</impact><currency>CHF</currency></event><event><date>2025, August 15, 10:00</date>
 <name>(Ireland) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 15, 10:30</date>
+<name>(Portugal) Private Consumption YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 15, 10:30</date>
+<name>(Portugal) Economic Activity YoY</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 15, 12:30</date>
 <name>(Canada) Manufacturing Sales MoM</name>
 <impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 15, 12:30</date>
