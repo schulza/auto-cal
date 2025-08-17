@@ -5,6 +5,48 @@
 <name>(New Zealand) Composite NZ PCI</name>
 <impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 17, 22:30</date>
 <name>(New Zealand) Services NZ PSI</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 18, 01:30</date>
+<name>(Australia) Consumer Inflation Expectations</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 18, 04:30</date>
+<name>(Japan) Tertiary Industry Index MoM</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 18, 06:30</date>
+<name>(Switzerland) Industrial Production YoY</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, August 18, 07:00</date>
+<name>(China) FDI (YTD) YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, August 18, 08:00</date>
+<name>(Spain) Balance of Trade</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 18, 09:00</date>
+<name>(Euro Area) Balance of Trade</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 18, 09:30</date>
+<name>(Germany) 12-Month Bubill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 18, 09:30</date>
+<name>(Netherlands) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 18, 09:30</date>
+<name>(Netherlands) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 18, 12:15</date>
+<name>(Canada) Housing Starts</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, August 18, 12:30</date>
+<name>(Canada) Foreign Securities Purchases by Canadians</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 18, 12:30</date>
+<name>(Canada) Foreign Securities Purchases</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 18, 13:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 18, 13:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 18, 13:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 18, 14:00</date>
+<name>(United States) NAHB Housing Market Index</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 18, 15:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 18, 15:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 18, 22:00</date>
+<name>(El Salvador) PPI YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 18, 22:45</date>
+<name>(New Zealand) PPI Output QoQ</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 18, 22:45</date>
+<name>(New Zealand) PPI Input QoQ</name>
 <impact>Low</impact><currency>NZD</currency></event>
     </events>
 </response>
