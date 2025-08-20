@@ -1,85 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, August 19, 00:30</date>
-<name>(Australia) Westpac Consumer Confidence Index</name>
-<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, August 19, 00:30</date>
-<name>(Australia) Westpac Consumer Confidence Change</name>
-<impact>High</impact><currency>AUD</currency></event><event><date>2025, August 19, 02:35</date>
-<name>(New Zealand) 1-Year Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 19, 02:35</date>
-<name>(New Zealand) 6-Month Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 19, 02:35</date>
-<name>(New Zealand) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 19, 03:35</date>
-<name>(Japan) 52-Week Bill Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 19, 03:35</date>
-<name>(Japan) 20-Year JGB Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 19, 04:50</date>
-<name>(Australia) RBA Hunter Speech</name>
-<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, August 19, 07:00</date>
-<name>(Slovakia) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 19, 08:00</date>
-<name>(Euro Area) Current Account s.a</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 19, 08:00</date>
-<name>(Euro Area) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 19, 09:00</date>
-<name>(United Kingdom) Index-linked Treasury Gilt 2035</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 19, 09:30</date>
-<name>(Belgium) Construction Output YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 19, 09:30</date>
-<name>(Germany) 5-Year Bobl Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 19, 10:00</date>
-<name>(Portugal) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 19, 12:00</date>
-<name>(Montenegro) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 19, 12:00</date>
-<name>(New Zealand) Global Dairy Trade Price Index</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 19, 12:30</date>
-<name>(Canada) Core Inflation Rate MoM</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 19, 12:30</date>
-<name>(Canada) Inflation Rate MoM</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, August 19, 12:30</date>
-<name>(Canada) Inflation Rate YoY</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, August 19, 12:30</date>
-<name>(Canada) CPI Median YoY</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, August 19, 12:30</date>
-<name>(Canada) Core Inflation Rate YoY</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, August 19, 12:30</date>
-<name>(Canada) CPI Trimmed-Mean YoY</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, August 19, 12:30</date>
-<name>(United States) Housing Starts MoM</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 19, 12:30</date>
-<name>(United States) Building Permits</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 19, 12:30</date>
-<name>(United States) Building Permits MoM</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 19, 12:30</date>
-<name>(United States) Housing Starts</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 19, 12:55</date>
-<name>(United States) Redbook YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 19, 18:10</date>
-<name>(United States) Fed Bowman Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 19, 20:30</date>
-<name>(United States) API Crude Oil Stock Change</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 19, 23:50</date>
-<name>(Japan) Machinery Orders YoY</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, August 19, 23:50</date>
-<name>(Japan) Machinery Orders MoM</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, August 19, 23:50</date>
-<name>(Japan) Balance of Trade</name>
-<impact>High</impact><currency>JPY</currency></event><event><date>2025, August 19, 23:50</date>
-<name>(Japan) Imports YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 19, 23:50</date>
-<name>(Japan) Exports YoY</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, August 20, 00:00</date>
+       <event><date>2025, August 20, 00:00</date>
 <name>(Estonia) Restoration Day</name>
 <impact>None</impact><currency>EUR</currency></event><event><date>2025, August 20, 01:15</date>
 <name>(China) Loan Prime Rate 1Y</name>
 <impact>Medium</impact><currency>CNY</currency></event><event><date>2025, August 20, 01:15</date>
 <name>(China) Loan Prime Rate 5Y</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, August 20, 01:30</date>
-<name>(Australia) Consumer Inflation Expectations</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 20, 02:00</date>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, August 20, 02:00</date>
 <name>(New Zealand) RBNZ Interest Rate Decision</name>
 <impact>Medium</impact><currency>NZD</currency></event><event><date>2025, August 20, 02:00</date>
 <name>(Australia) RBA McPhee Speech</name>
@@ -217,6 +145,148 @@
 <name>(Japan) Stock Investment by Foreigners</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 20, 23:50</date>
 <name>(Japan) Foreign Bond Investment</name>
-<impact>Low</impact><currency>JPY</currency></event>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 21, 00:00</date>
+<name>(United States) Jackson Hole Symposium</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 21, 00:30</date>
+<name>(Japan) Jibun Bank Manufacturing PMI</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, August 21, 00:30</date>
+<name>(Japan) Jibun Bank Composite PMI</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 21, 00:30</date>
+<name>(Japan) Jibun Bank Services PMI</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, August 21, 01:30</date>
+<name>(Australia) Consumer Inflation Expectations</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 21, 03:00</date>
+<name>(New Zealand) Credit Card Spending YoY</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 21, 04:30</date>
+<name>(Netherlands) Unemployment Rate</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 21, 04:30</date>
+<name>(Netherlands) Consumer Confidence</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 21, 05:00</date>
+<name>(Estonia) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 05:00</date>
+<name>(Estonia) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 06:00</date>
+<name>(Switzerland) Balance of Trade</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, August 21, 06:00</date>
+<name>(United Kingdom) Public Sector Net Borrowing Ex Banks</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 21, 07:15</date>
+<name>(France) HCOB Composite PMI</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 21, 07:15</date>
+<name>(France) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 21, 07:15</date>
+<name>(France) HCOB Services PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 21, 07:30</date>
+<name>(Germany) HCOB Services PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 21, 07:30</date>
+<name>(Germany) HCOB Composite PMI</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 21, 07:30</date>
+<name>(Germany) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 21, 08:00</date>
+<name>(Euro Area) HCOB Composite PMI</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 21, 08:00</date>
+<name>(Euro Area) HCOB Services PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 21, 08:00</date>
+<name>(Euro Area) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 21, 08:30</date>
+<name>(Slovenia) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 08:30</date>
+<name>(United Kingdom) S&amp;P Global Composite PMI</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 21, 08:30</date>
+<name>(United Kingdom) S&amp;P Global Services PMI</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 21, 08:30</date>
+<name>(United Kingdom) S&amp;P Global Manufacturing PMI</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, August 21, 09:00</date>
+<name>(Belgium) Consumer Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 09:00</date>
+<name>(Euro Area) Construction Output YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 09:00</date>
+<name>(France) OAT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 09:00</date>
+<name>(France) 2028 OAT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 09:00</date>
+<name>(France) 2030 OAT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 10:00</date>
+<name>(France) Index-Linked OAT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 10:00</date>
+<name>(France) OATi Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 10:00</date>
+<name>(Latvia) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 10:00</date>
+<name>(Latvia) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 10:00</date>
+<name>(United Kingdom) CBI Industrial Trends Orders</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 21, 10:00</date>
+<name>(Germany) Bundesbank Monthly Report</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 10:00</date>
+<name>(France) 2053 Index-Linked OAT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 21, 11:00</date>
+<name>(Canada) CFIB Business Barometer</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 21, 11:30</date>
+<name>(United States) Fed Bostic Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(Canada) PPI YoY</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(Canada) Raw Materials Prices MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(Canada) PPI MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(Canada) Raw Materials Prices YoY</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(United States) Philly Fed Employment</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(United States) Philly Fed CAPEX Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(United States) Philly Fed Prices Paid</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(United States) Philly Fed Business Conditions</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(United States) Philly Fed New Orders</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 12:30</date>
+<name>(United States) Philadelphia Fed Manufacturing Index</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 21, 13:45</date>
+<name>(United States) S&amp;P Global Manufacturing PMI</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 21, 13:45</date>
+<name>(United States) S&amp;P Global Services PMI</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 21, 13:45</date>
+<name>(United States) S&amp;P Global Composite PMI</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 21, 14:00</date>
+<name>(Euro Area) Consumer Confidence</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 21, 14:00</date>
+<name>(United States) Existing Home Sales</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 21, 14:00</date>
+<name>(United States) CB Leading Index MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 14:00</date>
+<name>(United States) Existing Home Sales MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 21, 14:30</date>
+<name>(United States) EIA Natural Gas Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 15:30</date>
+<name>(United States) 4-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 15:30</date>
+<name>(United States) 8-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 16:00</date>
+<name>(United States) 30-Year Mortgage Rate</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 16:00</date>
+<name>(United States) 15-Year Mortgage Rate</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 17:00</date>
+<name>(United States) 30-Year TIPS Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 20:30</date>
+<name>(United States) Fed Balance Sheet</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 21, 23:01</date>
+<name>(United Kingdom) Gfk Consumer Confidence</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 21, 23:30</date>
+<name>(Japan) Inflation Rate MoM</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 21, 23:30</date>
+<name>(Japan) Inflation Rate Ex-Food and Energy YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 21, 23:30</date>
+<name>(Japan) Core Inflation Rate YoY</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, August 21, 23:30</date>
+<name>(Japan) Inflation Rate YoY</name>
+<impact>High</impact><currency>JPY</currency></event>
     </events>
 </response>
