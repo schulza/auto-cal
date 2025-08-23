@@ -1,58 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, August 22, 00:00</date>
+       <event><date>2025, August 23, 00:00</date>
 <name>(United States) Jackson Hole Symposium</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 22, 02:30</date>
-<name>(East Timor) Inflation Rate YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 22, 02:30</date>
-<name>(East Timor) Inflation Rate MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 22, 03:35</date>
-<name>(Japan) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 22, 06:00</date>
-<name>(Germany) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 22, 06:00</date>
-<name>(Germany) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 22, 06:45</date>
-<name>(France) Business Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 22, 06:45</date>
-<name>(France) Business Climate Indicator</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 22, 07:00</date>
-<name>(China) FDI (YTD) YoY</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, August 22, 08:00</date>
-<name>(Euro Area) ECB Consumer Inflation Expectations</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 22, 08:30</date>
-<name>(Slovenia) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 22, 09:00</date>
-<name>(Euro area) Negotiated Wage Growth</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 22, 09:00</date>
-<name>(Slovenia) Unemployment Rate</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 22, 10:00</date>
-<name>(Ireland) Wholesale Prices YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 22, 10:00</date>
-<name>(Ireland) Wholesale Prices MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 22, 12:30</date>
-<name>(Canada) Retail Sales MoM</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, August 22, 12:30</date>
-<name>(Canada) Manufacturing Sales MoM</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 22, 12:30</date>
-<name>(Canada) Retail Sales Ex Autos MoM</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, August 22, 12:30</date>
-<name>(Canada) Retail Sales YoY</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, August 22, 12:30</date>
-<name>(Canada) Retail Sales MoM</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, August 22, 14:00</date>
-<name>(United States) Fed Chair Powell Speech</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 22, 14:30</date>
-<name>(Canada) Senior Loan Officer Survey</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, August 22, 17:00</date>
-<name>(United States) Baker Hughes Total Rigs Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 22, 17:00</date>
-<name>(United States) Baker Hughes Oil Rig Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 22, 21:00</date>
-<name>(El Salvador) Balance of Trade</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 23, 00:00</date>
-<name>(United States) Jackson Hole Symposium</name>
-<impact>High</impact><currency>USD</currency></event>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 23, 16:25</date>
+<name>(Euro Area) ECB President Lagarde Speech</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 24, 22:45</date>
+<name>(New Zealand) Retail Sales YoY</name>
+<impact>High</impact><currency>NZD</currency></event><event><date>2025, August 24, 22:45</date>
+<name>(New Zealand) Retail Sales QoQ</name>
+<impact>High</impact><currency>NZD</currency></event>
     </events>
 </response>
