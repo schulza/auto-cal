@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, August 24, 22:45</date>
-<name>(New Zealand) Retail Sales YoY</name>
-<impact>High</impact><currency>NZD</currency></event><event><date>2025, August 24, 22:45</date>
-<name>(New Zealand) Retail Sales QoQ</name>
-<impact>High</impact><currency>NZD</currency></event><event><date>2025, August 25, 00:00</date>
+       <event><date>2025, August 25, 00:00</date>
 <name>(United Kingdom) Late Summer Bank Holiday</name>
 <impact>None</impact><currency>GBP</currency></event><event><date>2025, August 25, 05:00</date>
 <name>(Finland) Export Prices YoY</name>
@@ -77,6 +73,68 @@
 <name>(United States) 6-Month Bill Auction</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, August 25, 21:00</date>
 <name>(El Salvador) Balance of Trade</name>
-<impact>Low</impact><currency>USD</currency></event>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 01:30</date>
+<name>(Australia) RBA Meeting Minutes</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, August 26, 02:35</date>
+<name>(New Zealand) 1-Year Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 26, 02:35</date>
+<name>(New Zealand) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 26, 02:35</date>
+<name>(New Zealand) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, August 26, 05:00</date>
+<name>(Finland) Unemployment Rate</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 26, 06:45</date>
+<name>(France) Consumer Confidence</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 26, 09:10</date>
+<name>(Italy) 2-Year BTP Short Term Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 26, 12:30</date>
+<name>(Canada) Manufacturing Sales MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 26, 12:30</date>
+<name>(United States) Durable Goods Orders Ex Transp MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 26, 12:30</date>
+<name>(United States) Non Defense Goods Orders Ex Air</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 12:30</date>
+<name>(United States) Durable Goods Orders ex Defense MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 26, 12:30</date>
+<name>(United States) Durable Goods Orders MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, August 26, 12:30</date>
+<name>(United States) Fed Barkin Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 26, 12:55</date>
+<name>(United States) Redbook YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 13:00</date>
+<name>(United States) S&amp;P/Case-Shiller Home Price MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 13:00</date>
+<name>(United States) S&amp;P/Case-Shiller Home Price YoY</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 26, 13:00</date>
+<name>(United States) House Price Index MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 13:00</date>
+<name>(United States) House Price Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 13:00</date>
+<name>(United States) House Price Index YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 14:00</date>
+<name>(United States) CB Consumer Confidence</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 26, 14:00</date>
+<name>(United States) Richmond Fed Services Revenues Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 14:00</date>
+<name>(United States) Richmond Fed Manufacturing Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 14:00</date>
+<name>(United States) Richmond Fed Manufacturing Shipments Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 14:30</date>
+<name>(United States) Dallas Fed Services Revenues Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 14:30</date>
+<name>(United States) Dallas Fed Services Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 16:00</date>
+<name>(United Kingdom) BoE L Mann Speech</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 26, 17:00</date>
+<name>(United States) Money Supply</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 17:00</date>
+<name>(United States) 2-Year Note Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 18:45</date>
+<name>(Canada) BoC Macklem Speech</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, August 26, 20:30</date>
+<name>(United States) API Crude Oil Stock Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 26, 23:01</date>
+<name>(Ireland) Consumer Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event>
     </events>
 </response>
