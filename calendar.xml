@@ -1,79 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, August 25, 00:00</date>
-<name>(United Kingdom) Late Summer Bank Holiday</name>
-<impact>None</impact><currency>GBP</currency></event><event><date>2025, August 25, 05:00</date>
-<name>(Finland) Export Prices YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 05:00</date>
-<name>(Finland) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 05:00</date>
-<name>(Finland) Import Prices YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 05:00</date>
-<name>(Japan) Coincident Index</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 25, 05:00</date>
-<name>(Japan) Leading Economic Index</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 25, 06:00</date>
-<name>(Lithuania) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 06:00</date>
-<name>(Lithuania) Industrial Production MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 06:30</date>
-<name>(Switzerland) Non Farm Payrolls</name>
-<impact>Low</impact><currency>CHF</currency></event><event><date>2025, August 25, 07:00</date>
-<name>(Spain) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 08:00</date>
-<name>(Germany) Ifo Business Climate</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 25, 08:00</date>
-<name>(Germany) Ifo Expectations</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 08:00</date>
-<name>(Germany) Ifo Current Conditions</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 08:30</date>
-<name>(Slovenia) Tourist Arrivals YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 08:30</date>
-<name>(Slovenia) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 09:30</date>
-<name>(Germany) 9-Month Bubill Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 09:30</date>
-<name>(Germany) 3-Month Bubill Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 09:45</date>
-<name>(European Union) 2035 Bond Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 09:45</date>
-<name>(European Union) 2038 Bond Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 09:45</date>
-<name>(European Union) 2027 Bond Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 10:00</date>
-<name>(Spain) Consumer Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 25, 10:30</date>
-<name>(Luxembourg) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 11:00</date>
-<name>(Kosovo) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 12:00</date>
-<name>(United States) Building Permits MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 25, 12:00</date>
-<name>(United States) Building Permits</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 25, 12:30</date>
-<name>(United States) Chicago Fed National Activity Index</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 25, 13:00</date>
-<name>(Belgium) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 13:00</date>
-<name>(France) 12-Month BTF Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 13:00</date>
-<name>(France) 3-Month BTF Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 13:00</date>
-<name>(France) 6-Month BTF Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 25, 14:00</date>
-<name>(United States) New Home Sales</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 25, 14:00</date>
-<name>(United States) New Home Sales MoM</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, August 25, 14:30</date>
-<name>(United States) Dallas Fed Manufacturing Index</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 25, 15:30</date>
-<name>(United States) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 25, 15:30</date>
-<name>(United States) 6-Month Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 25, 21:00</date>
-<name>(El Salvador) Balance of Trade</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 26, 01:30</date>
+       <event><date>2025, August 26, 00:01</date>
+<name>(Ireland) Consumer Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 26, 01:30</date>
 <name>(Australia) RBA Meeting Minutes</name>
 <impact>High</impact><currency>AUD</currency></event><event><date>2025, August 26, 02:35</date>
 <name>(New Zealand) 1-Year Bill Auction</name>
@@ -87,6 +17,10 @@
 <name>(France) Consumer Confidence</name>
 <impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 26, 09:10</date>
 <name>(Italy) 2-Year BTP Short Term Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 26, 10:30</date>
+<name>(Luxembourg) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 26, 11:00</date>
+<name>(Kosovo) Balance of Trade</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 26, 12:30</date>
 <name>(Canada) Manufacturing Sales MoM</name>
 <impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 26, 12:30</date>
@@ -133,8 +67,88 @@
 <name>(Canada) BoC Macklem Speech</name>
 <impact>Medium</impact><currency>CAD</currency></event><event><date>2025, August 26, 20:30</date>
 <name>(United States) API Crude Oil Stock Change</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 26, 23:01</date>
-<name>(Ireland) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 27, 01:00</date>
+<name>(Australia) Westpac Leading Index MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, August 27, 01:30</date>
+<name>(Australia) Monthly CPI Indicator</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, August 27, 01:30</date>
+<name>(Australia) Construction Work Done QoQ</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, August 27, 01:30</date>
+<name>(China) Industrial Profits (YTD) YoY</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, August 27, 03:35</date>
+<name>(Japan) BoJ JGB Purchases</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 27, 05:00</date>
+<name>(Finland) Consumer Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 27, 05:00</date>
+<name>(Finland) Business Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 27, 06:00</date>
+<name>(Germany) GfK Consumer Confidence</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 27, 07:00</date>
+<name>(Slovakia) Consumer Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 27, 07:00</date>
+<name>(Slovakia) Business Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 27, 08:00</date>
+<name>(Austria) Bank Austria Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, August 27, 08:00</date>
+<name>(Switzerland) Economic Sentiment Index</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, August 27, 09:00</date>
+<name>(Montenegro) Tourist Arrivals YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 27, 09:00</date>
+<name>(United Kingdom) Treasury Gilt 2028 Auction</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, August 27, 09:10</date>
+<name>(Italy) 6-Month BOT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 27, 09:30</date>
+<name>(Germany) 7-Year Bund Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 27, 10:00</date>
+<name>(France) Unemployment Benefit Claims</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, August 27, 10:00</date>
+<name>(France) Jobseekers Total</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, August 27, 10:00</date>
+<name>(United Kingdom) CBI Distributive Trades</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, August 27, 11:00</date>
+<name>(United States) MBA Purchase Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 11:00</date>
+<name>(United States) MBA Mortgage Applications</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 11:00</date>
+<name>(United States) MBA Mortgage Market Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 11:00</date>
+<name>(United States) MBA 30-Year Mortgage Rate</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 27, 11:00</date>
+<name>(United States) MBA Mortgage Refinance Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 12:30</date>
+<name>(Canada) Wholesale Sales MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 27, 14:30</date>
+<name>(United States) EIA Gasoline Stocks Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 27, 14:30</date>
+<name>(United States) EIA Heating Oil Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 14:30</date>
+<name>(United States) EIA Distillate Fuel Production Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 14:30</date>
+<name>(United States) EIA Cushing Crude Oil Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 14:30</date>
+<name>(United States) EIA Crude Oil Stocks Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 27, 14:30</date>
+<name>(United States) EIA Crude Oil Imports Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 14:30</date>
+<name>(United States) EIA Distillate Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 14:30</date>
+<name>(United States) EIA Gasoline Production Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 14:30</date>
+<name>(United States) EIA Refinery Crude Runs Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 15:30</date>
+<name>(United States) 17-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 15:30</date>
+<name>(United States) 2-Year FRN Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 16:00</date>
+<name>(Canada) 10-Year Bond Auction</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, August 27, 16:45</date>
+<name>(United States) Fed Barkin Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, August 27, 17:00</date>
+<name>(United States) 5-Year Note Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, August 27, 23:50</date>
+<name>(Japan) Foreign Bond Investment</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, August 27, 23:50</date>
+<name>(Japan) Stock Investment by Foreigners</name>
+<impact>Low</impact><currency>JPY</currency></event>
     </events>
 </response>
