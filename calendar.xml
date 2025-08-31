@@ -13,6 +13,114 @@
 <name>(Australia) S&amp;P Global Manufacturing PMI</name>
 <impact>High</impact><currency>AUD</currency></event><event><date>2025, August 31, 23:50</date>
 <name>(Japan) Capital Spending YoY</name>
-<impact>Medium</impact><currency>JPY</currency></event>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, September 01, 00:00</date>
+<name>(Canada) Labor Day</name>
+<impact>None</impact><currency>CAD</currency></event><event><date>2025, September 01, 00:00</date>
+<name>(Slovakia) Constitution Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, September 01, 00:00</date>
+<name>(United States) Labor Day</name>
+<impact>None</impact><currency>USD</currency></event><event><date>2025, September 01, 00:01</date>
+<name>(Ireland) AIB Manufacturing PMI</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 00:30</date>
+<name>(Japan) Jibun Bank Manufacturing PMI</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 01, 01:30</date>
+<name>(Australia) Company Gross Profits QoQ</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, September 01, 01:30</date>
+<name>(Australia) Business Inventories QoQ</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 01, 01:30</date>
+<name>(Australia) ANZ-Indeed Job Ads MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 01, 01:30</date>
+<name>(Australia) Building Permits MoM</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, September 01, 01:30</date>
+<name>(Australia) Private House Approvals MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 01, 01:45</date>
+<name>(China) Caixin Manufacturing PMI</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, September 01, 04:30</date>
+<name>(Netherlands) Retail Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 05:00</date>
+<name>(Netherlands) NEVI Manufacturing PMI</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 06:00</date>
+<name>(United Kingdom) Nationwide Housing Prices YoY</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, September 01, 06:00</date>
+<name>(United Kingdom) Nationwide Housing Prices MoM</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, September 01, 06:00</date>
+<name>(Lithuania) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 06:00</date>
+<name>(Lithuania) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 06:30</date>
+<name>(Australia) Commodity Prices YoY</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 01, 07:00</date>
+<name>(Spain) Tourist Arrivals YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 07:15</date>
+<name>(Spain) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 01, 07:30</date>
+<name>(Switzerland) procure.ch Manufacturing PMI</name>
+<impact>High</impact><currency>CHF</currency></event><event><date>2025, September 01, 07:45</date>
+<name>(Italy) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 01, 07:50</date>
+<name>(France) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 01, 07:55</date>
+<name>(Germany) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 01, 08:00</date>
+<name>(Austria) Unemployed Persons</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 08:00</date>
+<name>(Austria) Unemployment Rate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 01, 08:00</date>
+<name>(Euro Area) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 01, 08:00</date>
+<name>(Greece) S&amp;P Global Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 01, 08:00</date>
+<name>(Italy) Unemployment Rate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 01, 08:30</date>
+<name>(United Kingdom) Net Lending to Individuals MoM</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 01, 08:30</date>
+<name>(United Kingdom) Mortgage Approvals</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, September 01, 08:30</date>
+<name>(United Kingdom) Mortgage Lending</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, September 01, 08:30</date>
+<name>(United Kingdom) M4 Money Supply MoM</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 01, 08:30</date>
+<name>(United Kingdom) BoE Consumer Credit</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, September 01, 08:30</date>
+<name>(United Kingdom) S&amp;P Global Manufacturing PMI</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, September 01, 09:00</date>
+<name>(Greece) Unemployment Rate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 01, 09:00</date>
+<name>(Cyprus) Unemployment Rate</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 09:00</date>
+<name>(Euro Area) Unemployment Rate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 01, 09:00</date>
+<name>(Greece) Unemployment Rate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 01, 09:30</date>
+<name>(Netherlands) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 09:30</date>
+<name>(Netherlands) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 10:00</date>
+<name>(Portugal) Retail Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 10:00</date>
+<name>(Portugal) Retail Sales MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 10:00</date>
+<name>(Ireland) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 10:00</date>
+<name>(Ireland) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 12:00</date>
+<name>(Euro Area) ECB Schnabel Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 13:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 13:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 13:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 14:00</date>
+<name>(Euro Area) ECB Cipollone Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 01, 17:30</date>
+<name>(Euro Area) ECB President Lagarde Speech</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 01, 22:45</date>
+<name>(New Zealand) Export Prices QoQ</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 01, 22:45</date>
+<name>(New Zealand) Terms of Trade QoQ</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 01, 22:45</date>
+<name>(New Zealand) Import Prices QoQ</name>
+<impact>Low</impact><currency>NZD</currency></event>
     </events>
 </response>
