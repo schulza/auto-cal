@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, September 07, 08:00</date>
+       <event><date>2025, September 07, 03:00</date>
 <name>(China) Foreign Exchange Reserves</name>
 <impact>Low</impact><currency>CNY</currency></event><event><date>2025, September 07, 23:50</date>
 <name>(Japan) GDP Private Consumption QoQ</name>
@@ -19,6 +19,70 @@
 <name>(Japan) GDP Growth Annualized</name>
 <impact>Medium</impact><currency>JPY</currency></event><event><date>2025, September 07, 23:50</date>
 <name>(Japan) Bank Lending YoY</name>
-<impact>Low</impact><currency>JPY</currency></event>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 08, 00:00</date>
+<name>(Malta) Feast of Our Lady of Victories</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, September 08, 00:00</date>
+<name>(China) Standing Committee National People&apos;s Congress</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, September 08, 01:30</date>
+<name>(Australia) Building Permits MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 08, 01:30</date>
+<name>(Australia) Private House Approvals MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 08, 03:00</date>
+<name>(China) Exports YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, September 08, 03:00</date>
+<name>(China) Balance of Trade</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, September 08, 03:00</date>
+<name>(China) Imports YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, September 08, 05:00</date>
+<name>(Japan) Eco Watchers Survey Current</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 08, 05:00</date>
+<name>(Japan) Eco Watchers Survey Outlook</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 08, 06:00</date>
+<name>(Germany) Balance of Trade</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 08, 06:00</date>
+<name>(Germany) Exports MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 08, 06:00</date>
+<name>(Germany) Industrial Production MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 08, 06:00</date>
+<name>(Germany) Imports MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 08, 06:00</date>
+<name>(Lithuania) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 08, 06:00</date>
+<name>(Lithuania) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 08, 07:00</date>
+<name>(Slovakia) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 08, 10:00</date>
+<name>(Spain) Consumer Confidence</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 08, 10:00</date>
+<name>(Luxembourg) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 08, 10:00</date>
+<name>(Luxembourg) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 08, 10:00</date>
+<name>(Latvia) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 08, 10:00</date>
+<name>(Latvia) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 08, 13:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 08, 13:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 08, 13:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 08, 13:00</date>
+<name>(United States) Used Car Prices YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 08, 13:00</date>
+<name>(United States) Used Car Prices MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 08, 15:00</date>
+<name>(United States) Consumer Inflation Expectations</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 08, 15:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 08, 15:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 08, 19:00</date>
+<name>(United States) Consumer Credit Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 08, 22:45</date>
+<name>(New Zealand) Manufacturing Sales YoY</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 08, 23:01</date>
+<name>(United Kingdom) BRC Retail Sales Monitor YoY</name>
+<impact>High</impact><currency>GBP</currency></event>
     </events>
 </response>
