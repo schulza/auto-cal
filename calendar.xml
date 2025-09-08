@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, September 07, 03:00</date>
-<name>(China) Foreign Exchange Reserves</name>
-<impact>Low</impact><currency>CNY</currency></event><event><date>2025, September 07, 23:50</date>
-<name>(Japan) GDP Private Consumption QoQ</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 07, 23:50</date>
-<name>(Japan) GDP Price Index YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 07, 23:50</date>
-<name>(Japan) Current Account</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, September 07, 23:50</date>
-<name>(Japan) GDP External Demand QoQ</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 07, 23:50</date>
-<name>(Japan) GDP Growth Rate QoQ</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, September 07, 23:50</date>
-<name>(Japan) GDP Capital Expenditure QoQ</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 07, 23:50</date>
-<name>(Japan) GDP Growth Annualized</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, September 07, 23:50</date>
-<name>(Japan) Bank Lending YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 08, 00:00</date>
+       <event><date>2025, September 08, 00:00</date>
 <name>(Malta) Feast of Our Lady of Victories</name>
 <impact>None</impact><currency>EUR</currency></event><event><date>2025, September 08, 00:00</date>
 <name>(China) Standing Committee National People&apos;s Congress</name>
@@ -83,6 +65,76 @@
 <name>(New Zealand) Manufacturing Sales YoY</name>
 <impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 08, 23:01</date>
 <name>(United Kingdom) BRC Retail Sales Monitor YoY</name>
-<impact>High</impact><currency>GBP</currency></event>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, September 09, 00:00</date>
+<name>(China) Standing Committee National People&apos;s Congress</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, September 09, 00:01</date>
+<name>(Ireland) Construction PMI</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 00:30</date>
+<name>(Australia) Westpac Consumer Confidence Change</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, September 09, 00:30</date>
+<name>(Australia) Westpac Consumer Confidence Index</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, September 09, 01:30</date>
+<name>(Australia) NAB Business Confidence</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, September 09, 02:35</date>
+<name>(New Zealand) 1-Year Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 09, 02:35</date>
+<name>(New Zealand) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 09, 02:35</date>
+<name>(New Zealand) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 09, 03:35</date>
+<name>(Japan) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 09, 04:30</date>
+<name>(Netherlands) Household Consumption YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 04:30</date>
+<name>(Netherlands) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 04:30</date>
+<name>(Netherlands) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 05:00</date>
+<name>(Estonia) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 06:00</date>
+<name>(Lithuania) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 06:00</date>
+<name>(Lithuania) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 06:00</date>
+<name>(Lithuania) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 06:00</date>
+<name>(Japan) Machine Tool Orders YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 09, 06:30</date>
+<name>(Euro Area) ECB Montagner Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 06:45</date>
+<name>(France) Industrial Production MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 09, 08:40</date>
+<name>(Spain) 9-Month Letras Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 08:40</date>
+<name>(Spain) 3-Month Letras Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 09:00</date>
+<name>(Cyprus) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 09:00</date>
+<name>(Malta) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 09:00</date>
+<name>(United Kingdom) Treasury Gilt 2043 Auction</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 09, 09:30</date>
+<name>(Germany) Bund/g Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 09:30</date>
+<name>(Netherlands) DSL Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 10:00</date>
+<name>(Latvia) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 10:00</date>
+<name>(Portugal) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 09, 10:00</date>
+<name>(United States) NFIB Business Optimism Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 09, 12:55</date>
+<name>(United States) Redbook YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 09, 14:00</date>
+<name>(United States) Non Farm Payrolls Annual Revision</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 09, 14:30</date>
+<name>(United States) NY Fed Treasury Purchases 22.5 to 30 yrs</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 09, 17:00</date>
+<name>(United States) 3-Year Note Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 09, 20:30</date>
+<name>(United States) API Crude Oil Stock Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 09, 22:45</date>
+<name>(New Zealand) Visitor Arrivals YoY</name>
+<impact>Low</impact><currency>NZD</currency></event>
     </events>
 </response>
