@@ -5,6 +5,90 @@
 <name>(New Zealand) Composite NZ PCI</name>
 <impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 14, 22:30</date>
 <name>(New Zealand) Services NZ PSI</name>
-<impact>Low</impact><currency>NZD</currency></event>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 15, 00:00</date>
+<name>(El Salvador) Independence Day</name>
+<impact>None</impact><currency>USD</currency></event><event><date>2025, September 15, 00:00</date>
+<name>(Japan) Respect for the Aged Day</name>
+<impact>None</impact><currency>JPY</currency></event><event><date>2025, September 15, 00:00</date>
+<name>(Slovakia) The Day of the Virgin Mary of the Seven Sorrows</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, September 15, 01:30</date>
+<name>(China) House Price Index YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, September 15, 02:00</date>
+<name>(China) Fixed Asset Investment (YTD) YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, September 15, 02:00</date>
+<name>(China) Unemployment Rate</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, September 15, 02:00</date>
+<name>(China) Industrial Production YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, September 15, 02:00</date>
+<name>(China) Retail Sales YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, September 15, 05:00</date>
+<name>(Finland) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 05:00</date>
+<name>(Finland) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 05:00</date>
+<name>(Finland) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 05:00</date>
+<name>(Finland) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 06:00</date>
+<name>(Germany) Wholesale Prices MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 15, 06:00</date>
+<name>(Germany) Wholesale Prices YoY</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 15, 06:30</date>
+<name>(Switzerland) Producer &amp; Import Prices MoM</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, September 15, 06:30</date>
+<name>(Switzerland) Producer &amp; Import Prices YoY</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, September 15, 07:00</date>
+<name>(China) FDI (YTD) YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, September 15, 08:00</date>
+<name>(Italy) Balance of Trade</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 15, 08:00</date>
+<name>(Euro Area) ECB Survey of Monetary Analysts</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 09:00</date>
+<name>(Malta) Unemployment Rate</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 09:00</date>
+<name>(Belgium) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 09:00</date>
+<name>(Euro Area) Balance of Trade</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 15, 09:00</date>
+<name>(Greece) Construction Output YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 09:30</date>
+<name>(Germany) 12-Month Bubill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 09:30</date>
+<name>(Netherlands) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 09:30</date>
+<name>(Netherlands) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 09:30</date>
+<name>(Belgium) Construction Output YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 10:00</date>
+<name>(Ireland) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 11:30</date>
+<name>(Euro Area) ECB Schnabel Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 12:30</date>
+<name>(Canada) Wholesale Sales MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, September 15, 12:30</date>
+<name>(United States) NY Empire State Manufacturing Index</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 15, 12:30</date>
+<name>(Canada) Manufacturing Sales MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, September 15, 12:30</date>
+<name>(Canada) New Motor Vehicle Sales</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, September 15, 13:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 13:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 13:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 15, 15:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 15, 15:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 15, 16:00</date>
+<name>(United States) NOPA Crush Report</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 15, 18:10</date>
+<name>(Euro Area) ECB President Lagarde Speech</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 15, 22:45</date>
+<name>(New Zealand) Food Inflation YoY</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 15, 23:50</date>
+<name>(Australia) RBA Hunter Speech</name>
+<impact>Medium</impact><currency>AUD</currency></event>
     </events>
 </response>
