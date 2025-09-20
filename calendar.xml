@@ -1,74 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, September 19, 00:00</date>
+       <event><date>2025, September 20, 00:00</date>
 <name>(Euro Area) ECOFIN Meeting</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 00:00</date>
-<name>(Euro Area) Eurogroup Meeting</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 03:00</date>
-<name>(New Zealand) Credit Card Spending YoY</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 19, 03:50</date>
-<name>(Japan) BoJ Interest Rate Decision</name>
-<impact>High</impact><currency>JPY</currency></event><event><date>2025, September 19, 06:00</date>
-<name>(Germany) PPI YoY</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 19, 06:00</date>
-<name>(Germany) PPI MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 06:00</date>
-<name>(United Kingdom) Retail Sales ex Fuel YoY</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, September 19, 06:00</date>
-<name>(United Kingdom) Retail Sales ex Fuel MoM</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, September 19, 06:00</date>
-<name>(United Kingdom) Public Sector Net Borrowing Ex Banks</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 19, 06:00</date>
-<name>(United Kingdom) Retail Sales MoM</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, September 19, 06:00</date>
-<name>(United Kingdom) Retail Sales YoY</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, September 19, 06:45</date>
-<name>(France) Business Climate Indicator</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 06:45</date>
-<name>(France) Business Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 19, 07:00</date>
-<name>(China) FDI (YTD) YoY</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, September 19, 07:40</date>
-<name>(Euro Area) ECB Montagner Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 08:00</date>
-<name>(Greece) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 08:00</date>
-<name>(Italy) Construction Output YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 08:00</date>
-<name>(Italy) Construction Output YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 08:30</date>
-<name>(Slovenia) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 08:30</date>
-<name>(Slovenia) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 09:30</date>
-<name>(Euro Area) ECB Tuominen Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 10:00</date>
-<name>(Latvia) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 10:00</date>
-<name>(Latvia) PPI MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 10:00</date>
-<name>(Slovakia) Unemployment Rate</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 12:30</date>
-<name>(Canada) Retail Sales MoM</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, September 19, 12:30</date>
-<name>(Canada) Retail Sales MoM</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, September 19, 12:30</date>
-<name>(Canada) Retail Sales YoY</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, September 19, 12:30</date>
-<name>(Canada) Retail Sales Ex Autos MoM</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, September 19, 13:00</date>
-<name>(Kosovo) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 19, 17:00</date>
-<name>(United States) Baker Hughes Total Rigs Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 19, 17:00</date>
-<name>(United States) Baker Hughes Oil Rig Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 20, 00:00</date>
-<name>(Euro Area) ECOFIN Meeting</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 20, 01:15</date>
-<name>(China) Loan Prime Rate 5Y</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, September 20, 01:15</date>
-<name>(China) Loan Prime Rate 1Y</name>
-<impact>Medium</impact><currency>CNY</currency></event>
+<impact>Low</impact><currency>EUR</currency></event>
     </events>
 </response>
