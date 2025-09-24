@@ -1,103 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, September 23, 00:00</date>
-<name>(Japan) Autumnal Equinox Day</name>
-<impact>None</impact><currency>JPY</currency></event><event><date>2025, September 23, 00:00</date>
-<name>(United States) UN General Assembly</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 23, 02:35</date>
-<name>(New Zealand) 1-Year Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 23, 02:35</date>
-<name>(New Zealand) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 23, 02:35</date>
-<name>(New Zealand) 6-Month Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 23, 02:35</date>
-<name>(Luxembourg) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 23, 04:30</date>
-<name>(Netherlands) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 23, 04:30</date>
-<name>(Netherlands) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 23, 05:00</date>
-<name>(Finland) Unemployment Rate</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 23, 06:00</date>
-<name>(Lithuania) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 23, 06:00</date>
-<name>(Lithuania) Industrial Production MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 23, 07:00</date>
-<name>(Switzerland) Current Account</name>
-<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, September 23, 07:15</date>
-<name>(France) HCOB Composite PMI</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 23, 07:15</date>
-<name>(France) HCOB Services PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 23, 07:15</date>
-<name>(France) HCOB Manufacturing PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 23, 07:30</date>
-<name>(Germany) HCOB Composite PMI</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 23, 07:30</date>
-<name>(Germany) HCOB Services PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 23, 07:30</date>
-<name>(Germany) HCOB Manufacturing PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 23, 08:00</date>
-<name>(Euro Area) HCOB Services PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 23, 08:00</date>
-<name>(Euro Area) HCOB Composite PMI</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 23, 08:00</date>
-<name>(Euro Area) HCOB Manufacturing PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 23, 08:00</date>
-<name>(Spain) Balance of Trade</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 23, 08:30</date>
-<name>(United Kingdom) S&amp;P Global Services PMI</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, September 23, 08:30</date>
-<name>(United Kingdom) S&amp;P Global Composite PMI</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 23, 08:30</date>
-<name>(United Kingdom) S&amp;P Global Manufacturing PMI</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, September 23, 09:00</date>
-<name>(United Kingdom) Treasury Gilt 2056 Auction</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 23, 09:00</date>
-<name>(United Kingdom) BoE Pill Speech</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, September 23, 09:30</date>
-<name>(Germany) 2-Year Schatz Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 23, 10:00</date>
-<name>(Netherlands) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 23, 10:00</date>
-<name>(United Kingdom) CBI Industrial Trends Orders</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, September 23, 11:00</date>
-<name>(Kosovo) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 23, 12:30</date>
-<name>(Canada) New Housing Price Index MoM</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, September 23, 12:30</date>
-<name>(United States) Current Account</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 23, 12:55</date>
-<name>(United States) Redbook YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 23, 13:00</date>
-<name>(United States) Fed Bowman Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 23, 13:45</date>
-<name>(United States) S&amp;P Global Services PMI</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, September 23, 13:45</date>
-<name>(United States) S&amp;P Global Composite PMI</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 23, 13:45</date>
-<name>(United States) S&amp;P Global Manufacturing PMI</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, September 23, 14:00</date>
-<name>(United States) Richmond Fed Manufacturing Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 23, 14:00</date>
-<name>(United States) Richmond Fed Manufacturing Shipments Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 23, 14:00</date>
-<name>(United States) Richmond Fed Services Revenues Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 23, 14:00</date>
-<name>(United States) Fed Bostic Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 23, 14:20</date>
-<name>(Euro Area) ECB Cipollone Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 23, 16:35</date>
-<name>(United States) Fed Chair Powell Speech</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, September 23, 17:00</date>
-<name>(United States) Money Supply</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 23, 17:00</date>
-<name>(United States) 2-Year Note Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 23, 18:30</date>
-<name>(Canada) BoC Macklem Speech</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, September 23, 20:30</date>
-<name>(United States) API Crude Oil Stock Change</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 24, 00:00</date>
+       <event><date>2025, September 24, 00:00</date>
 <name>(United States) UN General Assembly</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, September 24, 00:30</date>
 <name>(Japan) S&amp;P Global Composite PMI</name>
@@ -109,11 +13,7 @@
 <name>(Australia) Monthly CPI Indicator</name>
 <impact>High</impact><currency>AUD</currency></event><event><date>2025, September 24, 01:30</date>
 <name>(Australia) RBA Payments System Board Annual Report 2025</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 24, 02:00</date>
-<name>(East Timor) Inflation Rate MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 24, 02:00</date>
-<name>(East Timor) Inflation Rate YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 24, 03:35</date>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 24, 03:35</date>
 <name>(Japan) BoJ JGB Purchases</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 24, 05:00</date>
 <name>(Finland) PPI YoY</name>
@@ -201,6 +101,130 @@
 <name>(United Kingdom) Car Production YoY</name>
 <impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 24, 23:50</date>
 <name>(Japan) BoJ Monetary Policy Meeting Minutes</name>
-<impact>Medium</impact><currency>JPY</currency></event>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, September 25, 00:00</date>
+<name>(United States) UN General Assembly</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 02:00</date>
+<name>(East Timor) Inflation Rate MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 02:00</date>
+<name>(East Timor) Inflation Rate YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 03:35</date>
+<name>(Japan) 40-Year JGB Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 25, 04:00</date>
+<name>(European Union) New Car Registrations YoY</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 25, 06:00</date>
+<name>(Germany) GfK Consumer Confidence</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 25, 06:45</date>
+<name>(France) Consumer Confidence</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 25, 07:30</date>
+<name>(Switzerland) SNB Interest Rate Decision</name>
+<impact>High</impact><currency>CHF</currency></event><event><date>2025, September 25, 08:00</date>
+<name>(Austria) 4-Month ATB Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 25, 08:00</date>
+<name>(Austria) 6-Month Green ATB Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 25, 08:00</date>
+<name>(Euro Area) Loans to Households YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 25, 08:00</date>
+<name>(Euro Area) M3 Money Supply YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 25, 08:00</date>
+<name>(Euro Area) Loans to Companies YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 25, 08:30</date>
+<name>(Slovenia) Tourist Arrivals YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 25, 09:00</date>
+<name>(United Kingdom) Treasury Gilt 2034 Auction</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 25, 09:10</date>
+<name>(Italy) 6-Month BOT Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 25, 10:00</date>
+<name>(Greece) Total Credit YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 25, 10:00</date>
+<name>(Luxembourg) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 25, 10:00</date>
+<name>(United Kingdom) CBI Distributive Trades</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, September 25, 10:00</date>
+<name>(United Kingdom) Treasury Stock 2038 Auction</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 25, 12:20</date>
+<name>(United States) Fed Goolsbee Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) PCE Prices QoQ</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Core PCE Prices QoQ</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) GDP Sales QoQ</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Goods Trade Balance</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) GDP Growth Rate QoQ</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) GDP Price Index QoQ</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Durable Goods Orders ex Defense MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Real Consumer Spending QoQ</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Non Defense Goods Orders Ex Air</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Corporate Profits QoQ</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Durable Goods Orders Ex Transp MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Durable Goods Orders MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Retail Inventories Ex Autos MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(United States) Wholesale Inventories MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 25, 12:30</date>
+<name>(Canada) Average Weekly Earnings YoY</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, September 25, 13:00</date>
+<name>(United States) Fed Williams Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 25, 14:00</date>
+<name>(United States) Existing Home Sales</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 25, 14:00</date>
+<name>(United States) Existing Home Sales MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 25, 14:00</date>
+<name>(United States) Fed Bowman Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 25, 14:30</date>
+<name>(United States) EIA Natural Gas Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 15:00</date>
+<name>(United States) Kansas Fed Composite Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 15:00</date>
+<name>(United States) Kansas Fed Manufacturing Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 15:30</date>
+<name>(United States) 4-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 15:30</date>
+<name>(United States) 8-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 16:00</date>
+<name>(Canada) 30-Year Bond Auction</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, September 25, 16:00</date>
+<name>(United States) 30-Year Mortgage Rate</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 16:00</date>
+<name>(United States) 15-Year Mortgage Rate</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 17:00</date>
+<name>(United States) 7-Year Note Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 17:00</date>
+<name>(United States) Fed Barr Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 25, 19:30</date>
+<name>(United States) Fed Daly Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 25, 20:30</date>
+<name>(United States) Fed Balance Sheet</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 25, 22:00</date>
+<name>(New Zealand) ANZ Roy Morgan Consumer Confidence</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 25, 23:01</date>
+<name>(Ireland) Consumer Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 25, 23:30</date>
+<name>(Japan) Tokyo CPI Ex Food and Energy YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 25, 23:30</date>
+<name>(Japan) Tokyo Core CPI YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 25, 23:30</date>
+<name>(Japan) Tokyo CPI YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 25, 23:50</date>
+<name>(Japan) Foreign Bond Investment</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 25, 23:50</date>
+<name>(Japan) Stock Investment by Foreigners</name>
+<impact>Low</impact><currency>JPY</currency></event>
     </events>
 </response>
