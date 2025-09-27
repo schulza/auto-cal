@@ -1,86 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, September 26, 00:00</date>
-<name>(United States) UN General Assembly</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 26, 03:35</date>
-<name>(Japan) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 26, 05:30</date>
-<name>(Japan) BoJ Noguchi Speech</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, September 26, 06:00</date>
-<name>(Lithuania) Retail Sales YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 26, 07:00</date>
-<name>(Spain) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 26, 07:00</date>
-<name>(Spain) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 26, 08:00</date>
-<name>(Austria) UniCredit Bank Manufacturing PMI</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 26, 08:00</date>
-<name>(Italy) Business Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 26, 08:00</date>
-<name>(Italy) Consumer Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 26, 09:00</date>
-<name>(Cyprus) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 26, 09:00</date>
-<name>(Euro Area) ECB Consumer Inflation Expectations</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 26, 09:10</date>
-<name>(Italy) 10-Year BTP Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 26, 09:10</date>
-<name>(Italy) 5-Year BTP Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 26, 09:30</date>
-<name>(Euro Area) ECB President Lagarde Speech</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 26, 10:00</date>
-<name>(France) Unemployment Benefit Claims</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 26, 10:00</date>
-<name>(France) Jobseekers Total</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 26, 12:00</date>
-<name>(United States) Fed Hammack Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 26, 12:30</date>
-<name>(Canada) GDP MoM</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, September 26, 12:30</date>
-<name>(Canada) GDP MoM</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, September 26, 12:30</date>
-<name>(Canada) Wholesale Sales MoM</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, September 26, 12:30</date>
-<name>(United States) Personal Income MoM</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, September 26, 12:30</date>
-<name>(United States) Core PCE Price Index MoM</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, September 26, 12:30</date>
-<name>(United States) PCE Price Index MoM</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 26, 12:30</date>
-<name>(United States) Core PCE Price Index YoY</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, September 26, 12:30</date>
-<name>(United States) PCE Price Index YoY</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 26, 12:30</date>
-<name>(United States) Personal Spending MoM</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, September 26, 13:00</date>
-<name>(United States) Fed Barkin Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 26, 14:00</date>
-<name>(United States) Michigan Inflation Expectations</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 26, 14:00</date>
-<name>(United States) Michigan Current Conditions</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 26, 14:00</date>
-<name>(United States) Michigan 5 Year Inflation Expectations</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 26, 14:00</date>
-<name>(United States) Michigan Consumer Expectations</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 26, 14:00</date>
-<name>(United States) Michigan Consumer Sentiment</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, September 26, 15:00</date>
-<name>(Canada) Budget Balance</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, September 26, 17:00</date>
-<name>(United States) Baker Hughes Oil Rig Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 26, 17:00</date>
-<name>(United States) Baker Hughes Total Rigs Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 26, 17:00</date>
-<name>(United States) Fed Bowman Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 26, 17:30</date>
-<name>(United States) Fed Musalem Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 26, 22:00</date>
-<name>(United States) Fed Bostic Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 27, 00:00</date>
+       <event><date>2025, September 27, 00:00</date>
 <name>(United States) UN General Assembly</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, September 27, 01:30</date>
 <name>(China) Industrial Profits (YTD) YoY</name>
-<impact>Low</impact><currency>CNY</currency></event>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, September 28, 00:00</date>
+<name>(United States) UN General Assembly</name>
+<impact>Low</impact><currency>USD</currency></event>
     </events>
 </response>
