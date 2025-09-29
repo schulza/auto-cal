@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, September 28, 00:00</date>
-<name>(United States) UN General Assembly</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 29, 00:00</date>
+       <event><date>2025, September 29, 00:00</date>
 <name>(United States) UN General Assembly</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, September 29, 00:00</date>
 <name>(United Kingdom) FM Reeves Speech</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 29, 02:00</date>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 29, 01:35</date>
 <name>(East Timor) Inflation Rate MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 29, 02:00</date>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 29, 01:35</date>
 <name>(East Timor) Inflation Rate YoY</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, September 29, 03:35</date>
 <name>(Japan) BoJ JGB Purchases</name>
@@ -139,6 +137,262 @@
 <name>(Japan) Industrial Production MoM</name>
 <impact>Medium</impact><currency>JPY</currency></event><event><date>2025, September 29, 23:50</date>
 <name>(Japan) BoJ Summary of Opinions</name>
-<impact>Medium</impact><currency>JPY</currency></event>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, September 30, 00:00</date>
+<name>(Canada) National Day for Truth and Reconciliation</name>
+<impact>None</impact><currency>CAD</currency></event><event><date>2025, September 30, 00:00</date>
+<name>(New Zealand) ANZ Business Confidence</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, September 30, 01:30</date>
+<name>(Australia) Housing Credit MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 30, 01:30</date>
+<name>(Australia) Private House Approvals MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 30, 01:30</date>
+<name>(Australia) Building Permits MoM</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, September 30, 01:30</date>
+<name>(Australia) Private Sector Credit MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 30, 01:30</date>
+<name>(Australia) Private Sector Credit YoY</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 30, 01:30</date>
+<name>(China) NBS Manufacturing PMI</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, September 30, 01:30</date>
+<name>(China) NBS General PMI</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, September 30, 01:30</date>
+<name>(China) NBS Non Manufacturing PMI</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, September 30, 01:45</date>
+<name>(China) Caixin Manufacturing PMI</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, September 30, 01:45</date>
+<name>(China) Caixin Composite PMI</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, September 30, 01:45</date>
+<name>(China) Caixin Services PMI</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, September 30, 02:35</date>
+<name>(New Zealand) 1-Year Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 30, 02:35</date>
+<name>(New Zealand) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 30, 02:35</date>
+<name>(New Zealand) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 30, 03:35</date>
+<name>(Japan) 2-Year JGB Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 30, 04:30</date>
+<name>(Australia) RBA Interest Rate Decision</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, September 30, 05:00</date>
+<name>(Estonia) Retail Sales MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 05:00</date>
+<name>(Estonia) Retail Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 05:00</date>
+<name>(Finland) GDP YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 05:00</date>
+<name>(Japan) Housing Starts YoY</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, September 30, 05:00</date>
+<name>(Japan) Construction Orders YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 30, 05:30</date>
+<name>(Australia) RBA Press Conference</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, September 30, 06:00</date>
+<name>(Germany) Retail Sales YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 06:00</date>
+<name>(Germany) Retail Sales MoM</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 06:00</date>
+<name>(Germany) Import Prices MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 06:00</date>
+<name>(Germany) Import Prices YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 06:00</date>
+<name>(United Kingdom) Current Account</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, September 30, 06:00</date>
+<name>(United Kingdom) Business Investment QoQ</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 30, 06:00</date>
+<name>(United Kingdom) Business Investment YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 30, 06:00</date>
+<name>(United Kingdom) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 30, 06:00</date>
+<name>(United Kingdom) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 30, 06:45</date>
+<name>(France) Household Consumption MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 06:45</date>
+<name>(France) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 06:45</date>
+<name>(France) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 06:45</date>
+<name>(France) Inflation Rate MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 30, 06:45</date>
+<name>(France) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 06:45</date>
+<name>(France) Inflation Rate YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 06:45</date>
+<name>(France) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 07:00</date>
+<name>(Austria) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 07:00</date>
+<name>(Austria) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 07:00</date>
+<name>(Switzerland) KOF Leading Indicators</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, September 30, 07:55</date>
+<name>(Germany) Unemployment Change</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 07:55</date>
+<name>(Germany) Unemployed Persons</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 30, 07:55</date>
+<name>(Germany) Unemployment Rate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Austria) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) North Rhine Westphalia CPI MoM</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) Saxony CPI YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) Saxony CPI MoM</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) North Rhine Westphalia CPI YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) Brandenburg CPI MoM</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) Hesse CPI MoM</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) Hesse CPI YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) Baden Wuerttemberg CPI YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) Baden Wuerttemberg CPI MoM</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) Bavaria CPI YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) Bavaria CPI MoM</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Germany) Brandenburg CPI YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Italy) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:00</date>
+<name>(Italy) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:30</date>
+<name>(Slovenia) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:30</date>
+<name>(Slovenia) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:30</date>
+<name>(Slovenia) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 08:30</date>
+<name>(Spain) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 09:00</date>
+<name>(China) Current Account</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, September 30, 09:00</date>
+<name>(Greece) Retail Sales YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 09:00</date>
+<name>(Greece) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 09:00</date>
+<name>(Italy) Inflation Rate MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 30, 09:00</date>
+<name>(Italy) Inflation Rate YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 09:00</date>
+<name>(Italy) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 09:00</date>
+<name>(Italy) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 09:00</date>
+<name>(Malta) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 09:00</date>
+<name>(Montenegro) Tourist Arrivals YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 10:00</date>
+<name>(Italy) Industrial Sales MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 10:00</date>
+<name>(Italy) Industrial Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 10:00</date>
+<name>(Belgium) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 10:00</date>
+<name>(Cyprus) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 10:00</date>
+<name>(Ireland) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 10:00</date>
+<name>(Ireland) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 10:00</date>
+<name>(Luxembourg) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 10:00</date>
+<name>(Portugal) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 10:00</date>
+<name>(Portugal) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 10:00</date>
+<name>(United States) Fed Jefferson Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 30, 10:15</date>
+<name>(Euro Area) ECB Machado Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 11:00</date>
+<name>(Euro Area) ECB Cipollone Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 11:50</date>
+<name>(United Kingdom) BoE Lombardelli Speech</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 30, 12:00</date>
+<name>(Germany) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 12:00</date>
+<name>(Germany) Inflation Rate MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 30, 12:00</date>
+<name>(Germany) Inflation Rate YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, September 30, 12:00</date>
+<name>(Germany) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 12:00</date>
+<name>(United Kingdom) BoE Ramsden Speech</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, September 30, 12:50</date>
+<name>(Euro Area) ECB President Lagarde Speech</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, September 30, 12:55</date>
+<name>(United States) Redbook YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 13:00</date>
+<name>(United States) S&amp;P/Case-Shiller Home Price MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 13:00</date>
+<name>(United States) House Price Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 13:00</date>
+<name>(United States) S&amp;P/Case-Shiller Home Price YoY</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 30, 13:00</date>
+<name>(United States) House Price Index YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 13:00</date>
+<name>(United States) House Price Index MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 13:00</date>
+<name>(Euro Area) ECB Elderson Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, September 30, 13:25</date>
+<name>(United Kingdom) BoE L Mann Speech</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 30, 13:45</date>
+<name>(United States) Chicago PMI</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 30, 14:00</date>
+<name>(United States) JOLTs Job Quits</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 14:00</date>
+<name>(United States) JOLTs Job Openings</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, September 30, 14:00</date>
+<name>(United States) CB Consumer Confidence</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 30, 14:01</date>
+<name>(Australia) Cotality Dwelling Prices MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 30, 14:30</date>
+<name>(United States) Dallas Fed Services Revenues Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 14:30</date>
+<name>(United States) Dallas Fed Services Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 15:30</date>
+<name>(United States) 52-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 15:30</date>
+<name>(United Kingdom) BoE Breeden Speech</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, September 30, 16:00</date>
+<name>(El Salvador) Current Account</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 16:00</date>
+<name>(United States) Quarterly Grain Stocks - Soy</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 16:00</date>
+<name>(United States) Quarterly Grain Stocks - Corn</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 16:00</date>
+<name>(United States) Quarterly Grain Stocks - Wheat</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, September 30, 17:30</date>
+<name>(United States) Fed Goolsbee Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 30, 20:30</date>
+<name>(United States) API Crude Oil Stock Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 30, 21:45</date>
+<name>(New Zealand) Building Permits MoM</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, September 30, 23:00</date>
+<name>(Australia) S&amp;P Global Manufacturing PMI</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, September 30, 23:00</date>
+<name>(Australia) Ai Group Industry Index</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, September 30, 23:00</date>
+<name>(Australia) Ai Group Construction Index</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 30, 23:00</date>
+<name>(Australia) Ai Group Manufacturing Index</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, September 30, 23:10</date>
+<name>(United States) Fed Logan Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, September 30, 23:50</date>
+<name>(Japan) Tankan Small Manufacturers Index</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 30, 23:50</date>
+<name>(Japan) Tankan Large Non-Manufacturing Index</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 30, 23:50</date>
+<name>(Japan) Tankan Large All Industry Capex</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 30, 23:50</date>
+<name>(Japan) Tankan Large Manufacturing Outlook</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 30, 23:50</date>
+<name>(Japan) Tankan Non-Manufacturing Outlook</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, September 30, 23:50</date>
+<name>(Japan) Tankan Large Manufacturers Index</name>
+<impact>High</impact><currency>JPY</currency></event>
     </events>
 </response>
