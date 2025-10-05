@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, October 04, 00:00</date>
+       <event><date>2025, October 05, 00:00</date>
 <name>(China) National Day Golden Week</name>
-<impact>None</impact><currency>CNY</currency></event><event><date>2025, October 05, 00:00</date>
+<impact>None</impact><currency>CNY</currency></event><event><date>2025, October 06, 00:00</date>
 <name>(China) National Day Golden Week</name>
-<impact>None</impact><currency>CNY</currency></event>
+<impact>None</impact><currency>CNY</currency></event><event><date>2025, October 06, 00:00</date>
+<name>(Australia) TD-MI Inflation Gauge MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, October 06, 05:00</date>
+<name>(Estonia) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 05:00</date>
+<name>(Estonia) Industrial Production MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 07:00</date>
+<name>(Switzerland) Unemployment Rate</name>
+<impact>High</impact><currency>CHF</currency></event><event><date>2025, October 06, 07:00</date>
+<name>(Spain) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 07:00</date>
+<name>(Slovakia) Retail Sales MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 07:00</date>
+<name>(Slovakia) Retail Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 07:15</date>
+<name>(Euro Area) ECB Guindos Speech</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 06, 07:30</date>
+<name>(Euro Area) HCOB Construction PMI</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 07:30</date>
+<name>(France) HCOB Construction PMI</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 07:30</date>
+<name>(Germany) HCOB Construction PMI</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 07:30</date>
+<name>(Italy) HCOB Construction PMI</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 08:00</date>
+<name>(United Kingdom) New Car Sales YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, October 06, 08:00</date>
+<name>(Euro Area) ECB Lane Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 08:30</date>
+<name>(United Kingdom) S&amp;P Global Construction PMI</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, October 06, 09:00</date>
+<name>(Cyprus) Construction Output YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 09:00</date>
+<name>(Euro Area) Retail Sales MoM</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 06, 09:00</date>
+<name>(Euro Area) Retail Sales YoY</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 06, 09:30</date>
+<name>(Netherlands) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 09:30</date>
+<name>(Netherlands) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 10:00</date>
+<name>(Cyprus) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 10:00</date>
+<name>(Germany) New Car Registrations YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 10:00</date>
+<name>(Latvia) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 10:00</date>
+<name>(Latvia) Industrial Production MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 10:00</date>
+<name>(Luxembourg) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 10:00</date>
+<name>(Luxembourg) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 13:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 13:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 13:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 15:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 06, 15:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 06, 17:00</date>
+<name>(Euro Area) ECB President Lagarde Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 06, 17:30</date>
+<name>(United Kingdom) BoE Gov Bailey Speech</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, October 06, 21:00</date>
+<name>(New Zealand) NZIER Capacity Utilization</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 06, 21:00</date>
+<name>(New Zealand) NZIER Business Confidence</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 06, 23:30</date>
+<name>(Japan) Household Spending YoY</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, October 06, 23:30</date>
+<name>(Japan) Household Spending MoM</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, October 06, 23:50</date>
+<name>(Japan) Foreign Exchange Reserves</name>
+<impact>Low</impact><currency>JPY</currency></event>
     </events>
 </response>
