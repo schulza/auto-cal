@@ -1,135 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, October 07, 00:00</date>
-<name>(China) National Day Golden Week</name>
-<impact>None</impact><currency>CNY</currency></event><event><date>2025, October 07, 00:30</date>
-<name>(Australia) ANZ-Indeed Job Ads MoM</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, October 07, 02:00</date>
-<name>(China) Foreign Exchange Reserves</name>
-<impact>Low</impact><currency>CNY</currency></event><event><date>2025, October 07, 02:35</date>
-<name>(New Zealand) 1-Year Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 07, 02:35</date>
-<name>(New Zealand) 6-Month Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 07, 02:35</date>
-<name>(New Zealand) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 07, 03:35</date>
-<name>(Japan) 30-Year JGB Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 07, 04:30</date>
-<name>(Netherlands) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 04:30</date>
-<name>(Netherlands) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 05:00</date>
-<name>(Estonia) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 05:00</date>
-<name>(Estonia) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 05:00</date>
-<name>(Japan) Coincident Index</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 07, 05:00</date>
-<name>(Japan) Leading Economic Index</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 07, 06:00</date>
-<name>(Finland) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 06:00</date>
-<name>(Germany) Factory Orders MoM</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 07, 06:00</date>
-<name>(United Kingdom) Halifax House Price Index YoY</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, October 07, 06:00</date>
-<name>(United Kingdom) Halifax House Price Index MoM</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, October 07, 06:45</date>
-<name>(France) Foreign Exchange Reserves</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 06:45</date>
-<name>(France) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 06:45</date>
-<name>(France) Balance of Trade</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 07, 06:45</date>
-<name>(France) Imports</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 06:45</date>
-<name>(France) Exports</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 07:00</date>
-<name>(Austria) Wholesale Prices YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 07:00</date>
-<name>(Austria) Wholesale Prices MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 07:00</date>
-<name>(Switzerland) Foreign Exchange Reserves</name>
-<impact>Low</impact><currency>CHF</currency></event><event><date>2025, October 07, 08:40</date>
-<name>(Spain) 6-Month Letras Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 08:40</date>
-<name>(Spain) 12-Month Letras Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 09:00</date>
-<name>(Cyprus) Construction Output YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 09:00</date>
-<name>(United Kingdom) BBA Mortgage Rate</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, October 07, 09:00</date>
-<name>(United Kingdom) Treasury Gilt 2028 Tender</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, October 07, 09:30</date>
-<name>(Germany) 5-Year Bobl Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 07, 10:00</date>
-<name>(United States) LMI Logistics Managers Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 07, 12:00</date>
-<name>(New Zealand) Global Dairy Trade Price Index</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 07, 12:30</date>
-<name>(Canada) Imports</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, October 07, 12:30</date>
-<name>(Canada) Exports</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, October 07, 12:30</date>
-<name>(Canada) Balance of Trade</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, October 07, 12:30</date>
-<name>(United States) Imports</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 07, 12:30</date>
-<name>(United States) Exports</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 07, 12:30</date>
-<name>(United States) Balance of Trade</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 07, 12:55</date>
-<name>(United States) Redbook YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 07, 13:00</date>
-<name>(United States) Used Car Prices MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 07, 13:00</date>
-<name>(United States) Used Car Prices YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 07, 14:00</date>
-<name>(Canada) Ivey PMI s.a</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, October 07, 14:00</date>
-<name>(United States) Fed Bostic Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 07, 14:05</date>
-<name>(United States) Fed Bowman Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 07, 14:10</date>
-<name>(United States) RCM/TIPP Economic Optimism Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 07, 14:30</date>
-<name>(United States) Fed Miran Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 07, 15:00</date>
-<name>(United States) Consumer Inflation Expectations</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 07, 15:30</date>
-<name>(United States) Fed Kashkari Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 07, 16:10</date>
-<name>(Euro Area) ECB President Lagarde Speech</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 07, 17:00</date>
-<name>(United States) 3-Year Note Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 07, 19:00</date>
-<name>(United States) Consumer Credit Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 07, 20:00</date>
-<name>(El Salvador) Inflation Rate MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 07, 20:05</date>
-<name>(United States) Fed Miran Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 07, 20:30</date>
-<name>(United States) API Crude Oil Stock Change</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 07, 20:45</date>
-<name>(El Salvador) Inflation Rate YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 07, 23:30</date>
-<name>(Japan) Average Cash Earnings YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 07, 23:30</date>
-<name>(Japan) Overtime Pay YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 07, 23:50</date>
-<name>(Japan) Current Account</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, October 07, 23:50</date>
-<name>(Japan) Bank Lending YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 08, 00:00</date>
+       <event><date>2025, October 08, 00:00</date>
 <name>(China) National Day Golden Week</name>
 <impact>None</impact><currency>CNY</currency></event><event><date>2025, October 08, 00:00</date>
-<name>(Australia) RBA Annual Report 2025</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, October 08, 00:30</date>
+<name>(Japan) Reuters Tankan Index</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 08, 00:30</date>
 <name>(Australia) Building Permits MoM</name>
 <impact>Low</impact><currency>AUD</currency></event><event><date>2025, October 08, 00:30</date>
 <name>(Australia) Private House Approvals MoM</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, October 08, 02:00</date>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, October 08, 01:00</date>
 <name>(New Zealand) RBNZ Interest Rate Decision</name>
 <impact>Medium</impact><currency>NZD</currency></event><event><date>2025, October 08, 03:35</date>
 <name>(Japan) BoJ JGB Purchase</name>
@@ -137,7 +17,9 @@
 <name>(Japan) Eco Watchers Survey Current</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 08, 05:00</date>
 <name>(Japan) Eco Watchers Survey Outlook</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 08, 06:00</date>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 08, 05:00</date>
+<name>(Australia) RBA Annual Report 2025</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, October 08, 06:00</date>
 <name>(Germany) Industrial Production MoM</name>
 <impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 08, 06:00</date>
 <name>(Lithuania) Inflation Rate MoM</name>
@@ -152,7 +34,7 @@
 <impact>Low</impact><currency>GBP</currency></event><event><date>2025, October 08, 09:15</date>
 <name>(Euro Area) ECB Buch Speech</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 08, 09:30</date>
-<name>(Germany) 30-Year Bund Auction</name>
+<name>(Germany) 15-Year Bund Auction</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 08, 10:00</date>
 <name>(Germany) New Car Registrations YoY</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 08, 10:00</date>
@@ -217,6 +99,108 @@
 <name>(Japan) Foreign Bond Investment</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 08, 23:50</date>
 <name>(Japan) Stock Investment by Foreigners</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 09, 00:00</date>
+<name>(Australia) Consumer Inflation Expectations</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, October 09, 00:00</date>
+<name>(Euro Area) Eurogroup Meeting</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 03:35</date>
+<name>(Japan) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 09, 03:35</date>
+<name>(Japan) 5-Year JGB Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 09, 04:30</date>
+<name>(Netherlands) Household Consumption YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 06:00</date>
+<name>(Germany) Imports MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 06:00</date>
+<name>(Germany) Balance of Trade</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 09, 06:00</date>
+<name>(Germany) Exports MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 09, 06:00</date>
+<name>(Japan) Machine Tool Orders YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 09, 06:00</date>
+<name>(Lithuania) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 06:00</date>
+<name>(Lithuania) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 07:00</date>
+<name>(Slovakia) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 07:00</date>
+<name>(Austria) Bundesanleihe Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 07:00</date>
+<name>(Austria) Bundesanleihe 2023-2053/3 Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 09:00</date>
+<name>(Greece) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 09:00</date>
+<name>(Greece) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 09:00</date>
+<name>(Greece) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 09:00</date>
+<name>(Malta) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 10:00</date>
+<name>(Ireland) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 10:00</date>
+<name>(Ireland) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 10:00</date>
+<name>(Ireland) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 10:00</date>
+<name>(Ireland) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 10:00</date>
+<name>(Ireland) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 11:30</date>
+<name>(Euro Area) ECB Monetary Policy Meeting Accounts</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 09, 12:15</date>
+<name>(Canada) BoC Rogers Speech</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, October 09, 12:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
+<name>(United States) Fed Chair Powell Speech</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:35</date>
+<name>(United States) Fed Bowman Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 09, 14:00</date>
+<name>(United States) Wholesale Inventories MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 14:30</date>
+<name>(United States) EIA Natural Gas Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 15:00</date>
+<name>(Euro Area) ECB Lane Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 15:30</date>
+<name>(United States) 4-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 15:30</date>
+<name>(United States) 8-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 16:00</date>
+<name>(United States) 30-Year Mortgage Rate</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 16:00</date>
+<name>(United States) 15-Year Mortgage Rate</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 16:00</date>
+<name>(United States) WASDE Report</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 16:45</date>
+<name>(United States) Fed Barr Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 09, 17:00</date>
+<name>(United States) 30-Year Bond Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 19:45</date>
+<name>(United States) Fed Bowman Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 09, 20:30</date>
+<name>(United States) Fed Balance Sheet</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 21:30</date>
+<name>(New Zealand) Business NZ PMI</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, October 09, 22:00</date>
+<name>(Australia) RBA Bullock Speech</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, October 09, 22:00</date>
+<name>(Australia) RBA Kent Speech</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, October 09, 23:50</date>
+<name>(Japan) Bank Lending YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 09, 23:50</date>
+<name>(Japan) PPI MoM</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 09, 23:50</date>
+<name>(Japan) PPI YoY</name>
 <impact>Low</impact><currency>JPY</currency></event>
     </events>
 </response>
