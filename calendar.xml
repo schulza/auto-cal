@@ -1,109 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, October 09, 00:00</date>
-<name>(Australia) Consumer Inflation Expectations</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, October 09, 00:00</date>
-<name>(Euro Area) Eurogroup Meeting</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 03:35</date>
-<name>(Japan) 6-Month Bill Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 09, 03:35</date>
-<name>(Japan) 5-Year JGB Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 09, 04:30</date>
-<name>(Netherlands) Household Consumption YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 06:00</date>
-<name>(Germany) Imports MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 06:00</date>
-<name>(Germany) Balance of Trade</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 09, 06:00</date>
-<name>(Germany) Exports MoM</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 09, 06:00</date>
-<name>(Japan) Machine Tool Orders YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 09, 06:00</date>
-<name>(Lithuania) PPI MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 06:00</date>
-<name>(Lithuania) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 07:00</date>
-<name>(Slovakia) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 07:00</date>
-<name>(Austria) Bundesanleihe Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 07:00</date>
-<name>(Austria) Bundesanleihe 2023-2053/3 Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 09:00</date>
-<name>(Greece) Harmonised Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 09:00</date>
-<name>(Greece) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 09:00</date>
-<name>(Greece) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 09:00</date>
-<name>(Malta) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 10:00</date>
-<name>(Ireland) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 10:00</date>
-<name>(Ireland) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 10:00</date>
-<name>(Ireland) Harmonised Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 10:00</date>
-<name>(Ireland) Harmonised Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 10:00</date>
-<name>(Ireland) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 11:30</date>
-<name>(Euro Area) ECB Monetary Policy Meeting Accounts</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 09, 12:15</date>
-<name>(Canada) BoC Rogers Speech</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, October 09, 12:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:30</date>
-<name>(United States) Fed Chair Powell Speech</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 09, 12:35</date>
-<name>(United States) Fed Bowman Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 09, 14:00</date>
-<name>(United States) Wholesale Inventories MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 14:30</date>
-<name>(United States) EIA Natural Gas Stocks Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 15:00</date>
-<name>(Euro Area) ECB Lane Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 09, 15:30</date>
-<name>(United States) 4-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 15:30</date>
-<name>(United States) 8-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 16:00</date>
-<name>(United States) 30-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 16:00</date>
-<name>(United States) 15-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 16:00</date>
-<name>(United States) WASDE Report</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 16:45</date>
-<name>(United States) Fed Barr Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 09, 17:00</date>
-<name>(United States) 30-Year Bond Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 19:45</date>
-<name>(United States) Fed Bowman Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 09, 20:30</date>
-<name>(United States) Fed Balance Sheet</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 09, 21:30</date>
-<name>(New Zealand) Business NZ PMI</name>
-<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, October 09, 22:00</date>
-<name>(Australia) RBA Bullock Speech</name>
-<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, October 09, 22:00</date>
-<name>(Australia) RBA Kent Speech</name>
-<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, October 09, 23:50</date>
-<name>(Japan) Bank Lending YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 09, 23:50</date>
-<name>(Japan) PPI MoM</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 09, 23:50</date>
-<name>(Japan) PPI YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 10, 00:00</date>
+       <event><date>2025, October 10, 00:00</date>
 <name>(Ecuador) Independence of Guayaquil</name>
 <impact>None</impact><currency>USD</currency></event><event><date>2025, October 10, 00:00</date>
 <name>(Euro Area) ECOFIN Meetin</name>
@@ -185,6 +83,8 @@
 <name>(United States) Fed Musalem Speech</name>
 <impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 10, 18:00</date>
 <name>(United States) Monthly Budget Statement</name>
-<impact>Medium</impact><currency>USD</currency></event>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 11, 00:00</date>
+<name>(New Zealand) Local Elections</name>
+<impact>Low</impact><currency>NZD</currency></event>
     </events>
 </response>
