@@ -1,90 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, October 10, 00:00</date>
-<name>(Ecuador) Independence of Guayaquil</name>
-<impact>None</impact><currency>USD</currency></event><event><date>2025, October 10, 00:00</date>
-<name>(Euro Area) ECOFIN Meetin</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 03:35</date>
-<name>(Japan) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 10, 04:30</date>
-<name>(Netherlands) Manufacturing Production MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 04:30</date>
-<name>(Netherlands) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 05:00</date>
-<name>(Estonia) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 05:00</date>
-<name>(Finland) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 05:00</date>
-<name>(Finland) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 06:00</date>
-<name>(Lithuania) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 07:00</date>
-<name>(Austria) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 07:00</date>
-<name>(Slovakia) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 07:00</date>
-<name>(Switzerland) Consumer Confidence</name>
-<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, October 10, 08:00</date>
-<name>(Italy) Industrial Production MoM</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 10, 08:00</date>
-<name>(Italy) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 08:30</date>
-<name>(Slovenia) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 09:00</date>
-<name>(Cyprus) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 09:00</date>
-<name>(Greece) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 09:00</date>
-<name>(Malta) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 09:10</date>
-<name>(Italy) 12-Month BOT Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 10:00</date>
-<name>(Cyprus) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 10:00</date>
-<name>(Latvia) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 10:00</date>
-<name>(Portugal) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 10:00</date>
-<name>(Portugal) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 10:00</date>
-<name>(Portugal) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 12:30</date>
-<name>(Canada) Full Time Employment Chg</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, October 10, 12:30</date>
-<name>(Canada) Part Time Employment Chg</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, October 10, 12:30</date>
-<name>(Canada) Average Hourly Wages YoY</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, October 10, 12:30</date>
-<name>(Canada) Participation Rate</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, October 10, 12:30</date>
-<name>(Canada) Unemployment Rate</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, October 10, 12:30</date>
-<name>(Canada) Employment Change</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, October 10, 13:45</date>
-<name>(United States) Fed Goolsbee Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 10, 14:00</date>
-<name>(Kosovo) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 10, 14:00</date>
-<name>(United States) Michigan Current Conditions</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 10, 14:00</date>
-<name>(United States) Michigan Consumer Expectations</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 10, 14:00</date>
-<name>(United States) Michigan Inflation Expectations</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 10, 14:00</date>
-<name>(United States) Michigan Consumer Sentiment</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 10, 14:00</date>
-<name>(United States) Michigan 5 Year Inflation Expectations</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 10, 17:00</date>
-<name>(United States) Baker Hughes Total Rigs Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 10, 17:00</date>
-<name>(United States) Baker Hughes Oil Rig Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 10, 17:00</date>
-<name>(United States) Fed Musalem Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 10, 18:00</date>
-<name>(United States) Monthly Budget Statement</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 11, 00:00</date>
+       <event><date>2025, October 11, 00:00</date>
 <name>(New Zealand) Local Elections</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 12, 21:30</date>
+<name>(New Zealand) Services NZ PSI</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 12, 21:30</date>
+<name>(New Zealand) Composite NZ PCI</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 12, 21:45</date>
+<name>(New Zealand) Visitor Arrivals YoY</name>
 <impact>Low</impact><currency>NZD</currency></event>
     </events>
 </response>
