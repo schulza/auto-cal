@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, October 11, 00:00</date>
-<name>(New Zealand) Local Elections</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 12, 21:30</date>
+       <event><date>2025, October 12, 21:30</date>
 <name>(New Zealand) Services NZ PSI</name>
 <impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 12, 21:30</date>
 <name>(New Zealand) Composite NZ PCI</name>
 <impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 12, 21:45</date>
 <name>(New Zealand) Visitor Arrivals YoY</name>
-<impact>Low</impact><currency>NZD</currency></event>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 13, 00:00</date>
+<name>(Canada) Thanksgiving Day</name>
+<impact>None</impact><currency>CAD</currency></event><event><date>2025, October 13, 00:00</date>
+<name>(Japan) Health and Sports Day</name>
+<impact>None</impact><currency>JPY</currency></event><event><date>2025, October 13, 00:00</date>
+<name>(United States) Columbus Day</name>
+<impact>None</impact><currency>USD</currency></event><event><date>2025, October 13, 03:00</date>
+<name>(China) Imports YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, October 13, 03:00</date>
+<name>(China) Balance of Trade</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, October 13, 03:00</date>
+<name>(China) Exports YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, October 13, 06:00</date>
+<name>(Germany) Wholesale Prices YoY</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 13, 06:00</date>
+<name>(Germany) Wholesale Prices MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 13, 07:00</date>
+<name>(Slovakia) Construction Output YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 13, 09:30</date>
+<name>(Germany) 12-Month Bubill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 13, 10:00</date>
+<name>(Cyprus) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 13, 12:00</date>
+<name>(Germany) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 13, 13:00</date>
+<name>(Ecuador) Balance of Trade</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 13, 13:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 13, 13:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 13, 13:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 13, 13:00</date>
+<name>(Euro Area) ECB Buch Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 13, 14:00</date>
+<name>(Kosovo) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 13, 16:55</date>
+<name>(United States) Fed Paulson Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 13, 21:45</date>
+<name>(New Zealand) Electronic Retail Card Spending MoM</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 13, 21:45</date>
+<name>(New Zealand) Electronic Retail Card Spending YoY</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 13, 23:01</date>
+<name>(United Kingdom) BRC Retail Sales Monitor YoY</name>
+<impact>High</impact><currency>GBP</currency></event>
     </events>
 </response>
