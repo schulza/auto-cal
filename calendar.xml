@@ -1,18 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, October 18, 11:30</date>
-<name>(Euro Area) ECB Cipollone Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 18, 12:00</date>
-<name>(Germany) Bundesbank Nagel Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 18, 13:00</date>
-<name>(Euro Area) ECB President Lagarde Speech</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 18, 13:00</date>
-<name>(United Kingdom) BoE Gov Bailey Speech</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, October 19, 21:45</date>
+       <event><date>2025, October 19, 21:45</date>
 <name>(New Zealand) Inflation Rate QoQ</name>
 <impact>Medium</impact><currency>NZD</currency></event><event><date>2025, October 19, 21:45</date>
 <name>(New Zealand) Inflation Rate YoY</name>
-<impact>Low</impact><currency>NZD</currency></event>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 20, 00:00</date>
+<name>(China) Communist Party Fourth Plenum</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, October 20, 01:15</date>
+<name>(China) Loan Prime Rate 5Y</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, October 20, 01:15</date>
+<name>(China) Loan Prime Rate 1Y</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, October 20, 01:30</date>
+<name>(China) House Price Index YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, October 20, 02:00</date>
+<name>(China) Unemployment Rate</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, October 20, 02:00</date>
+<name>(China) Retail Sales YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, October 20, 02:00</date>
+<name>(China) GDP Growth Rate QoQ</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, October 20, 02:00</date>
+<name>(China) Industrial Capacity Utilization</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, October 20, 02:00</date>
+<name>(China) Industrial Production YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, October 20, 02:00</date>
+<name>(China) GDP Growth Rate YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, October 20, 02:00</date>
+<name>(China) Fixed Asset Investment (YTD) YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, October 20, 03:50</date>
+<name>(Japan) BoJ Takada Speech</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, October 20, 05:00</date>
+<name>(Estonia) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 05:00</date>
+<name>(Estonia) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 06:00</date>
+<name>(Germany) PPI YoY</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 20, 06:00</date>
+<name>(Germany) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 07:00</date>
+<name>(Slovakia) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 08:00</date>
+<name>(Euro Area) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 08:00</date>
+<name>(Euro Area) Current Account s.a</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 08:00</date>
+<name>(Italy) Construction Output YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 08:00</date>
+<name>(Euro Area) ECB Schnabel Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 09:00</date>
+<name>(Italy) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 09:00</date>
+<name>(Euro Area) Construction Output YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 09:30</date>
+<name>(Germany) 3-Month Bubill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 09:30</date>
+<name>(Germany) 9-Month Bubill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 09:30</date>
+<name>(Netherlands) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 09:30</date>
+<name>(Netherlands) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 09:45</date>
+<name>(European Union) EU Bond Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 09:45</date>
+<name>(European Union) 2033 EU-Bonds Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 09:45</date>
+<name>(European Union) 2028 EU-Bonds Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 10:00</date>
+<name>(Slovakia) Unemployment Rate</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 10:30</date>
+<name>(Portugal) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 11:00</date>
+<name>(Luxembourg) Unemployment Rate</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 12:30</date>
+<name>(Canada) PPI MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, October 20, 12:30</date>
+<name>(Canada) Raw Materials Prices MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, October 20, 12:30</date>
+<name>(Canada) PPI YoY</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, October 20, 12:30</date>
+<name>(Canada) Raw Materials Prices YoY</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, October 20, 13:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 13:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 13:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 14:00</date>
+<name>(United States) CB Leading Index MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 20, 14:30</date>
+<name>(Canada) BoC Business Outlook Survey</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, October 20, 15:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 20, 15:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 20, 18:00</date>
+<name>(Germany) Bundesbank Balz Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 20, 20:00</date>
+<name>(United States) Net Long-term TIC Flows</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 20, 20:00</date>
+<name>(United States) Foreign Bond Investment</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 20, 20:00</date>
+<name>(United States) Overall Net Capital Flows</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 20, 21:45</date>
+<name>(New Zealand) Balance of Trade</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, October 20, 21:45</date>
+<name>(New Zealand) Exports</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 20, 21:45</date>
+<name>(New Zealand) Imports</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 20, 23:45</date>
+<name>(Australia) RBA Jones Speech</name>
+<impact>Medium</impact><currency>AUD</currency></event>
     </events>
 </response>
