@@ -1,6 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       
+       <event><date>2025, October 27, 00:00</date>
+<name>(Ireland) October Bank Holiday</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, October 27, 00:00</date>
+<name>(New Zealand) Labor Day</name>
+<impact>None</impact><currency>NZD</currency></event><event><date>2025, October 27, 01:30</date>
+<name>(China) Industrial Profits (YTD) YoY</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, October 27, 06:00</date>
+<name>(Finland) Consumer Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 06:00</date>
+<name>(Finland) Business Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 07:00</date>
+<name>(China) FDI (YTD) YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, October 27, 07:00</date>
+<name>(Lithuania) Retail Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 08:00</date>
+<name>(Switzerland) Myfxbook USDCHF Sentiment</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, October 27, 08:00</date>
+<name>(Australia) Myfxbook AUDUSD Sentiment</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, October 27, 08:00</date>
+<name>(Japan) Myfxbook USDJPY Sentiment</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, October 27, 08:00</date>
+<name>(European Union) Myfxbook EURUSD Sentiment</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 27, 08:00</date>
+<name>(United Kingdom) Myfxbook GBPUSD Sentiment</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, October 27, 08:00</date>
+<name>(Canada) Myfxbook USDCAD Sentiment</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, October 27, 08:00</date>
+<name>(New Zealand) Myfxbook NZDUSD Sentiment</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, October 27, 08:15</date>
+<name>(Australia) RBA Bullock Speech</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, October 27, 08:15</date>
+<name>(Euro Area) ECB Elderson Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 08:30</date>
+<name>(Slovenia) Business Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 09:00</date>
+<name>(Euro Area) M3 Money Supply YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 09:00</date>
+<name>(Euro Area) Loans to Households YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 09:00</date>
+<name>(Euro Area) Loans to Companies YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 09:00</date>
+<name>(Germany) Ifo Current Conditions</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 09:00</date>
+<name>(Germany) Ifo Expectations</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 09:00</date>
+<name>(Germany) Ifo Business Climate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 27, 09:40</date>
+<name>(Euro Area) ECB Tuominen Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 11:00</date>
+<name>(Greece) Total Credit YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 11:00</date>
+<name>(United Kingdom) CBI Distributive Trades</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, October 27, 11:00</date>
+<name>(Belgium) 2030 OLO Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 11:00</date>
+<name>(Belgium) 2033 OLO Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 11:00</date>
+<name>(Belgium) 2035 OLO Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 12:30</date>
+<name>(United States) Durable Goods Orders ex Defense MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, October 27, 12:30</date>
+<name>(United States) Non Defense Goods Orders Ex Air</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 27, 12:30</date>
+<name>(United States) Durable Goods Orders Ex Transp MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, October 27, 12:30</date>
+<name>(United States) Durable Goods Orders MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, October 27, 14:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 14:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 14:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 27, 14:30</date>
+<name>(United States) Dallas Fed Manufacturing Index</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 27, 15:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 27, 15:30</date>
+<name>(United States) 2-Year Note Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 27, 15:30</date>
+<name>(United Kingdom) BoE Oakes Speech</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, October 27, 17:00</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 27, 17:00</date>
+<name>(United States) 5-Year Note Auction</name>
+<impact>Low</impact><currency>USD</currency></event>
     </events>
 </response>
