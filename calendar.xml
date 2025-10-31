@@ -1,271 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, October 30, 00:00</date>
-<name>(New Zealand) ANZ Business Confidence</name>
-<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, October 30, 00:30</date>
-<name>(Australia) Export Prices QoQ</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, October 30, 00:30</date>
-<name>(Australia) Import Prices QoQ</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, October 30, 02:30</date>
-<name>(Japan) BoJ Gov Ueda Speech</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, October 30, 03:00</date>
-<name>(Japan) BoJ Interest Rate Decision</name>
-<impact>High</impact><currency>JPY</currency></event><event><date>2025, October 30, 03:00</date>
-<name>(Japan) BoJ Quarterly Outlook Report</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, October 30, 05:30</date>
-<name>(Netherlands) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 06:00</date>
-<name>(Finland) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 06:00</date>
-<name>(Finland) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 06:00</date>
-<name>(Finland) GDP YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 06:30</date>
-<name>(France) GDP Growth Rate YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 06:30</date>
-<name>(France) GDP Growth Rate QoQ</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 06:30</date>
-<name>(France) Household Consumption MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 07:00</date>
-<name>(Lithuania) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 07:00</date>
-<name>(Lithuania) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Austria) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Austria) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Austria) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Austria) PPI MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Austria) ATB Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Slovakia) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Slovakia) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Spain) Core Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Spain) Inflation Rate MoM</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Spain) Harmonised Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Spain) Inflation Rate YoY</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Spain) Harmonised Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Switzerland) KOF Leading Indicators</name>
-<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, October 30, 08:00</date>
-<name>(Austria) 6-Month ATB Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:55</date>
-<name>(Germany) Unemployed Persons</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:55</date>
-<name>(Germany) Unemployment Rate</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 08:55</date>
-<name>(Germany) Unemployment Change</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) North Rhine Westphalia CPI YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) Bavaria CPI YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) Bavaria CPI MoM</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) North Rhine Westphalia CPI MoM</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) Saxony CPI YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) Saxony CPI MoM</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) Brandenburg CPI YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) Brandenburg CPI MoM</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) Hesse CPI YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) Hesse CPI MoM</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) Baden Wuerttemberg CPI YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) Baden Wuerttemberg CPI MoM</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) GDP Growth Rate QoQ</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Germany) GDP Growth Rate YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Italy) GDP Growth Rate YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Italy) GDP Growth Rate QoQ</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:00</date>
-<name>(Malta) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:30</date>
-<name>(Portugal) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:30</date>
-<name>(Portugal) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:30</date>
-<name>(Portugal) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:30</date>
-<name>(Portugal) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:30</date>
-<name>(Slovenia) Harmonised Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:30</date>
-<name>(Slovenia) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 09:30</date>
-<name>(Slovenia) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Italy) Unemployment Rate</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Cyprus) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Cyprus) Unemployment Rate</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Euro Area) Economic Sentiment</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Euro Area) Industrial Sentiment</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Euro Area) GDP Growth Rate YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Euro Area) Services Sentiment</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Euro Area) GDP Growth Rate QoQ</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Euro Area) Selling Price Expectations</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Euro Area) Consumer Inflation Expectations</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Euro Area) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Euro Area) Unemployment Rate</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Greece) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Greece) Unemployment Rate</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(Montenegro) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:00</date>
-<name>(United Kingdom) Treasury Gilt 2030 Auction</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, October 30, 10:10</date>
-<name>(Italy) 10-Year BTP Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:10</date>
-<name>(Italy) 5-Year BTP Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:30</date>
-<name>(Belgium) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 10:30</date>
-<name>(Belgium) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 11:00</date>
-<name>(Portugal) Retail Sales YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 11:00</date>
-<name>(Portugal) Retail Sales MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 11:00</date>
-<name>(Ireland) Harmonised Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 11:00</date>
-<name>(Ireland) Harmonised Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 11:00</date>
-<name>(Italy) Industrial Sales YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 11:00</date>
-<name>(Italy) Industrial Sales MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 12:00</date>
-<name>(Spain) Business Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) GDP Sales QoQ</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) GDP Price Index QoQ</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) GDP Growth Rate QoQ</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Real Consumer Spending QoQ</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) Core PCE Prices QoQ</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 30, 12:30</date>
-<name>(United States) PCE Prices QoQ</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 30, 13:00</date>
-<name>(Germany) Inflation Rate MoM</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, October 30, 13:00</date>
-<name>(Germany) Inflation Rate YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 13:00</date>
-<name>(Germany) Harmonised Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 13:00</date>
-<name>(Germany) Harmonised Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 13:15</date>
-<name>(Euro Area) Marginal Lending Rate</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, October 30, 13:15</date>
-<name>(Euro Area) Deposit Facility Rate</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 13:15</date>
-<name>(Euro Area) ECB Interest Rate Decision</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 13:45</date>
-<name>(Euro Area) ECB Press Conference</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, October 30, 13:55</date>
-<name>(United States) Fed Bowman Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 30, 14:30</date>
-<name>(United States) EIA Natural Gas Stocks Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 30, 14:30</date>
-<name>(United States) NY Fed Treasury Purchases TIPS 7.5 to 30 yrs</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 30, 15:30</date>
-<name>(United States) 4-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 30, 15:30</date>
-<name>(United States) 8-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 30, 16:00</date>
-<name>(United States) 30-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 30, 16:00</date>
-<name>(United States) 15-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 30, 16:00</date>
-<name>(Canada) 2-Year Bond Auction</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, October 30, 17:15</date>
-<name>(United States) Fed Logan Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 30, 20:30</date>
-<name>(United States) Fed Balance Sheet</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, October 30, 21:00</date>
-<name>(New Zealand) ANZ Roy Morgan Consumer Confidence</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, October 30, 23:30</date>
-<name>(Japan) Tokyo CPI Ex Food and Energy YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 30, 23:30</date>
-<name>(Japan) Tokyo Core CPI YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 30, 23:30</date>
-<name>(Japan) Tokyo CPI YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 30, 23:30</date>
-<name>(Japan) Jobs/applications ratio</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 30, 23:30</date>
-<name>(Japan) Unemployment Rate</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, October 30, 23:50</date>
-<name>(Japan) Retail Sales MoM</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 30, 23:50</date>
-<name>(Japan) Industrial Production MoM</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, October 30, 23:50</date>
-<name>(Japan) Industrial Production YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, October 30, 23:50</date>
-<name>(Japan) Retail Sales YoY</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, October 31, 00:00</date>
+       <event><date>2025, October 31, 00:00</date>
 <name>(Slovenia) Reformation Day</name>
 <impact>None</impact><currency>EUR</currency></event><event><date>2025, October 31, 00:30</date>
 <name>(Australia) PPI YoY</name>
@@ -372,8 +108,6 @@
 <impact>Medium</impact><currency>CAD</currency></event><event><date>2025, October 31, 12:30</date>
 <name>(Canada) GDP MoM</name>
 <impact>Medium</impact><currency>CAD</currency></event><event><date>2025, October 31, 12:30</date>
-<name>(Canada) Average Weekly Earnings YoY</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, October 31, 12:30</date>
 <name>(United States) PCE Price Index MoM</name>
 <impact>Medium</impact><currency>USD</currency></event><event><date>2025, October 31, 12:30</date>
 <name>(United States) Personal Spending MoM</name>
@@ -407,6 +141,18 @@
 <name>(United States) Baker Hughes Total Rigs Count</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, October 31, 17:00</date>
 <name>(United States) Baker Hughes Oil Rig Count</name>
-<impact>Low</impact><currency>USD</currency></event>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 01, 00:00</date>
+<name>(Belgium) All Saints&apos; Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 01, 00:00</date>
+<name>(France) All Saints&apos; day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 01, 00:00</date>
+<name>(Italy) All Saints&apos; Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 01, 00:00</date>
+<name>(Luxembourg) All Saints&apos; Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 01, 00:00</date>
+<name>(Portugal) All Saints&apos; Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 01, 00:00</date>
+<name>(Spain) All Saints&apos; Day</name>
+<impact>None</impact><currency>EUR</currency></event>
     </events>
 </response>
