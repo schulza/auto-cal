@@ -1,22 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, November 01, 00:00</date>
-<name>(Belgium) All Saints&apos; Day</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 01, 00:00</date>
-<name>(France) All Saints&apos; day</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 01, 00:00</date>
-<name>(Italy) All Saints&apos; Day</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 01, 00:00</date>
-<name>(Luxembourg) All Saints&apos; Day</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 01, 00:00</date>
-<name>(Portugal) All Saints&apos; Day</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 01, 00:00</date>
-<name>(Spain) All Saints&apos; Day</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 02, 21:45</date>
+       <event><date>2025, November 02, 21:45</date>
 <name>(New Zealand) Building Permits MoM</name>
 <impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 02, 22:00</date>
 <name>(Australia) S&amp;P Global Manufacturing PMI</name>
-<impact>High</impact><currency>AUD</currency></event>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, November 03, 00:00</date>
+<name>(Ecuador) Independence of Cuenca</name>
+<impact>None</impact><currency>USD</currency></event><event><date>2025, November 03, 00:00</date>
+<name>(Japan) Culture Day</name>
+<impact>None</impact><currency>JPY</currency></event><event><date>2025, November 03, 00:00</date>
+<name>(Australia) TD-MI Inflation Gauge MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 03, 00:30</date>
+<name>(Australia) Building Permits MoM</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, November 03, 00:30</date>
+<name>(Australia) Private House Approvals MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 03, 00:30</date>
+<name>(Australia) ANZ-Indeed Job Ads MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 03, 00:30</date>
+<name>(Australia) Household Spending MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 03, 00:30</date>
+<name>(Australia) Household Spending YoY</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 03, 01:01</date>
+<name>(Ireland) AIB Manufacturing PMI</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 01:45</date>
+<name>(China) RatingDog Manufacturing PMI</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, November 03, 05:30</date>
+<name>(Australia) Commodity Prices YoY</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 03, 05:30</date>
+<name>(Netherlands) Retail Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 06:00</date>
+<name>(Netherlands) NEVI Manufacturing PMI</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 07:30</date>
+<name>(Switzerland) Inflation Rate MoM</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, November 03, 07:30</date>
+<name>(Switzerland) Inflation Rate YoY</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, November 03, 08:00</date>
+<name>(Switzerland) Myfxbook USDCHF Sentiment</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, November 03, 08:00</date>
+<name>(Australia) Myfxbook AUDUSD Sentiment</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, November 03, 08:00</date>
+<name>(Japan) Myfxbook USDJPY Sentiment</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, November 03, 08:00</date>
+<name>(European Union) Myfxbook EURUSD Sentiment</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 03, 08:00</date>
+<name>(United Kingdom) Myfxbook GBPUSD Sentiment</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 03, 08:00</date>
+<name>(Canada) Myfxbook USDCAD Sentiment</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, November 03, 08:00</date>
+<name>(New Zealand) Myfxbook NZDUSD Sentiment</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, November 03, 08:15</date>
+<name>(Spain) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 03, 08:20</date>
+<name>(Austria) Unemployment Rate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 03, 08:20</date>
+<name>(Austria) Unemployed Persons</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 08:30</date>
+<name>(Switzerland) procure.ch Manufacturing PMI</name>
+<impact>High</impact><currency>CHF</currency></event><event><date>2025, November 03, 08:45</date>
+<name>(Italy) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 03, 08:50</date>
+<name>(France) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 03, 08:55</date>
+<name>(Germany) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 03, 09:00</date>
+<name>(Euro Area) HCOB Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 03, 09:00</date>
+<name>(Greece) S&amp;P Global Manufacturing PMI</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 03, 09:30</date>
+<name>(United Kingdom) S&amp;P Global Manufacturing PMI</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 03, 09:30</date>
+<name>(Netherlands) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 09:30</date>
+<name>(Netherlands) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 10:00</date>
+<name>(Cyprus) Retail Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 10:45</date>
+<name>(European Union) EU Bond Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 10:45</date>
+<name>(European Union) 2054 EU-Bond Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 10:45</date>
+<name>(European Union) 2035 EU-Bond Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 11:00</date>
+<name>(Latvia) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 11:00</date>
+<name>(Latvia) Industrial Production MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 11:00</date>
+<name>(Spain) New Car Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 12:00</date>
+<name>(Euro Area) ECB Lane Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 13:01</date>
+<name>(Australia) Cotality Dwelling Prices MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 03, 14:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 14:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 14:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 03, 14:30</date>
+<name>(Canada) S&amp;P Global Manufacturing PMI</name>
+<impact>High</impact><currency>CAD</currency></event><event><date>2025, November 03, 14:45</date>
+<name>(United States) S&amp;P Global Manufacturing PMI</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 03, 15:00</date>
+<name>(United States) Construction Spending MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 03, 15:00</date>
+<name>(United States) Construction Spending MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 03, 15:00</date>
+<name>(United States) ISM Manufacturing Prices</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 03, 15:00</date>
+<name>(United States) ISM Manufacturing PMI</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 03, 15:00</date>
+<name>(United States) ISM Manufacturing New Orders</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 03, 15:00</date>
+<name>(United States) ISM Manufacturing Employment</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 03, 15:00</date>
+<name>(United States) Total Vehicle Sales</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 03, 16:00</date>
+<name>(United States) Total Household Debt</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 03, 16:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 03, 16:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 03, 17:00</date>
+<name>(United States) Fed Daly Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 03, 17:30</date>
+<name>(Canada) BoC Macklem Speech</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, November 03, 19:00</date>
+<name>(United States) Fed Cook Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 03, 20:00</date>
+<name>(United States) Treasury Refunding Financing Estimates</name>
+<impact>Low</impact><currency>USD</currency></event>
     </events>
 </response>
