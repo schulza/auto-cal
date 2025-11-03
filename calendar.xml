@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, November 02, 21:45</date>
-<name>(New Zealand) Building Permits MoM</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 02, 22:00</date>
-<name>(Australia) S&amp;P Global Manufacturing PMI</name>
-<impact>High</impact><currency>AUD</currency></event><event><date>2025, November 03, 00:00</date>
+       <event><date>2025, November 03, 00:00</date>
 <name>(Ecuador) Independence of Cuenca</name>
 <impact>None</impact><currency>USD</currency></event><event><date>2025, November 03, 00:00</date>
 <name>(Japan) Culture Day</name>
@@ -129,6 +125,114 @@
 <name>(United States) Fed Cook Speech</name>
 <impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 03, 20:00</date>
 <name>(United States) Treasury Refunding Financing Estimates</name>
-<impact>Low</impact><currency>USD</currency></event>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 04, 00:00</date>
+<name>(Canada) 2025/26 Federal Budget</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, November 04, 00:30</date>
+<name>(Japan) S&amp;P Global Manufacturing PMI</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 04, 01:35</date>
+<name>(New Zealand) 1-Year Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 04, 01:35</date>
+<name>(New Zealand) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 04, 01:35</date>
+<name>(New Zealand) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 04, 03:30</date>
+<name>(Australia) RBA Interest Rate Decision</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, November 04, 04:30</date>
+<name>(Australia) RBA Press Conference</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, November 04, 07:40</date>
+<name>(Euro Area) ECB President Lagarde Speech</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 04, 07:45</date>
+<name>(France) Budget Balance</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 08:00</date>
+<name>(France) New Car Registrations YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 08:00</date>
+<name>(Spain) Unemployment Change</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 04, 09:30</date>
+<name>(Slovenia) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 09:40</date>
+<name>(Spain) 6-Month Letras Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 09:40</date>
+<name>(Spain) 12-Month Letras Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 09:45</date>
+<name>(Euro Area) ECB President Lagarde Speech</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 04, 10:00</date>
+<name>(United Kingdom) Treasury Gilt 2029 Auction</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 04, 10:30</date>
+<name>(Germany) 2-Year Schatz Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 11:00</date>
+<name>(United States) LMI Logistics Managers Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 04, 11:00</date>
+<name>(Belgium) TCs Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 11:00</date>
+<name>(Belgium) Long TC Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 11:00</date>
+<name>(Belgium) Short TC Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 11:30</date>
+<name>(Portugal) Budget Balance</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 11:35</date>
+<name>(United States) Fed Bowman Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 04, 13:30</date>
+<name>(United States) Imports</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 04, 13:30</date>
+<name>(United States) Exports</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 04, 13:30</date>
+<name>(United States) Balance of Trade</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 04, 13:30</date>
+<name>(United States) Balance of Trade</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 04, 13:30</date>
+<name>(United States) Imports</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 04, 13:30</date>
+<name>(United States) Exports</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 04, 13:55</date>
+<name>(United States) Redbook YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 04, 15:00</date>
+<name>(United States) Factory Orders ex Transportation</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 04, 15:00</date>
+<name>(United States) Factory Orders MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 04, 15:00</date>
+<name>(New Zealand) Global Dairy Trade Price Index</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 04, 15:00</date>
+<name>(United States) JOLTs Job Openings</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 04, 15:00</date>
+<name>(United States) JOLTs Job Quits</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 04, 15:00</date>
+<name>(United States) Factory Orders ex Transportation</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 04, 15:00</date>
+<name>(United States) Factory Orders MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 04, 15:10</date>
+<name>(United States) RCM/TIPP Economic Optimism Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 04, 15:30</date>
+<name>(United States) NY Fed Treasury Purchases 10 to 22.5 yrs</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 04, 17:00</date>
+<name>(Italy) New Car Registrations YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 17:00</date>
+<name>(Belgium) New Car Registrations YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 04, 20:00</date>
+<name>(New Zealand) RBNZ Financial Stability Report</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, November 04, 21:30</date>
+<name>(United States) API Crude Oil Stock Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 04, 21:45</date>
+<name>(New Zealand) Participation Rate</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 04, 21:45</date>
+<name>(New Zealand) Labour Costs Index QoQ</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 04, 21:45</date>
+<name>(New Zealand) Unemployment Rate</name>
+<impact>High</impact><currency>NZD</currency></event><event><date>2025, November 04, 21:45</date>
+<name>(New Zealand) Labour Costs Index YoY</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 04, 21:45</date>
+<name>(New Zealand) Employment Change QoQ</name>
+<impact>High</impact><currency>NZD</currency></event><event><date>2025, November 04, 22:00</date>
+<name>(Australia) S&amp;P Global Services PMI</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, November 04, 22:00</date>
+<name>(Australia) S&amp;P Global Composite PMI</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 04, 22:00</date>
+<name>(Australia) Ai Group Industry Index</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, November 04, 22:00</date>
+<name>(Australia) Ai Group Manufacturing Index</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 04, 22:00</date>
+<name>(Australia) Ai Group Construction Index</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 04, 23:50</date>
+<name>(Japan) BoJ Monetary Policy Meeting Minutes</name>
+<impact>Medium</impact><currency>JPY</currency></event>
     </events>
 </response>
