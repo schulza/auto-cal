@@ -1,93 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, November 11, 00:00</date>
-<name>(Belgium) Armistice Day</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 11, 00:00</date>
-<name>(Canada) Remembrance Day</name>
-<impact>None</impact><currency>CAD</currency></event><event><date>2025, November 11, 00:00</date>
-<name>(United States) Veterans Day</name>
-<impact>None</impact><currency>USD</currency></event><event><date>2025, November 11, 00:01</date>
-<name>(United Kingdom) BRC Retail Sales Monitor YoY</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 11, 00:30</date>
-<name>(Australia) NAB Business Confidence</name>
-<impact>High</impact><currency>AUD</currency></event><event><date>2025, November 11, 01:35</date>
-<name>(New Zealand) 1-Year Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 11, 01:35</date>
-<name>(New Zealand) 6-Month Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 11, 01:35</date>
-<name>(New Zealand) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 11, 02:00</date>
-<name>(New Zealand) Business Inflation Expectations</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 11, 02:45</date>
-<name>(El Salvador) Inflation Rate MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 11, 02:45</date>
-<name>(El Salvador) Inflation Rate YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 11, 03:35</date>
-<name>(Japan) 30-Year JGB Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 11, 05:00</date>
-<name>(Japan) Eco Watchers Survey Current</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 11, 05:00</date>
-<name>(Japan) Eco Watchers Survey Outlook</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 11, 05:30</date>
-<name>(Netherlands) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 05:30</date>
-<name>(Netherlands) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 07:00</date>
-<name>(Lithuania) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 07:00</date>
-<name>(Lithuania) PPI MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 07:00</date>
-<name>(United Kingdom) Claimant Count Change</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 11, 07:00</date>
-<name>(United Kingdom) HMRC Payrolls Change</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 11, 07:00</date>
-<name>(United Kingdom) Average Earnings excl. Bonus (3Mo/Yr)</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 11, 07:00</date>
-<name>(United Kingdom) Unemployment Rate</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 11, 07:00</date>
-<name>(United Kingdom) Employment Change</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 11, 07:00</date>
-<name>(United Kingdom) Average Earnings incl. Bonus (3Mo/Yr)</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 11, 07:40</date>
-<name>(China) Vehicle Sales YoY</name>
-<impact>Low</impact><currency>CNY</currency></event><event><date>2025, November 11, 08:00</date>
-<name>(Slovakia) Construction Output YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 08:20</date>
-<name>(Euro Area) ECB President Lagarde Speech</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 11, 08:30</date>
-<name>(China) Outstanding Loan Growth YoY</name>
-<impact>Low</impact><currency>CNY</currency></event><event><date>2025, November 11, 08:30</date>
-<name>(China) Total Social Financing</name>
-<impact>Low</impact><currency>CNY</currency></event><event><date>2025, November 11, 08:30</date>
-<name>(China) New Yuan Loans</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, November 11, 08:30</date>
-<name>(China) M2 Money Supply YoY</name>
-<impact>Low</impact><currency>CNY</currency></event><event><date>2025, November 11, 09:30</date>
-<name>(Netherlands) DSL July 2035 Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 09:40</date>
-<name>(Spain) 9-Month Letras Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 09:40</date>
-<name>(Spain) 3-Month Letras Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 10:00</date>
-<name>(Euro Area) ZEW Economic Sentiment Index</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 11, 10:00</date>
-<name>(Germany) ZEW Current Conditions</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 10:00</date>
-<name>(Germany) ZEW Economic Sentiment Index</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 11, 11:00</date>
-<name>(Latvia) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 11:00</date>
-<name>(United States) NFIB Business Optimism Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 11, 11:00</date>
-<name>(Belgium) TCs Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 11:00</date>
-<name>(Belgium) Long TC Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 11, 13:15</date>
-<name>(United States) ADP Employment Change Weekly</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, November 11, 22:15</date>
-<name>(Australia) RBA Jones Speech</name>
-<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, November 12, 00:00</date>
+       <event><date>2025, November 12, 00:00</date>
 <name>(Japan) Reuters Tankan Index</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 12, 00:00</date>
 <name>(Euro Area) Eurogroup Meeting</name>
@@ -113,7 +27,15 @@
 <name>(Germany) Wholesale Prices YoY</name>
 <impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 12, 07:00</date>
 <name>(Germany) Wholesale Prices MoM</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 12, 09:00</date>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 12, 08:30</date>
+<name>(China) Outstanding Loan Growth YoY</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, November 12, 08:30</date>
+<name>(China) Total Social Financing</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, November 12, 08:30</date>
+<name>(China) New Yuan Loans</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, November 12, 08:30</date>
+<name>(China) M2 Money Supply YoY</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, November 12, 09:00</date>
 <name>(Italy) Industrial Production YoY</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 12, 09:00</date>
 <name>(Italy) Industrial Production MoM</name>
@@ -123,7 +45,11 @@
 <name>(Montenegro) Harmonised Inflation Rate YoY</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 12, 10:00</date>
 <name>(Montenegro) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 12, 10:10</date>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 12, 10:00</date>
+<name>(Switzerland) 2047 Bond Auction</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, November 12, 10:00</date>
+<name>(Switzerland) 2037 Bond Auction</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, November 12, 10:10</date>
 <name>(Italy) 12-Month BOT Auction</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 12, 10:30</date>
 <name>(Germany) 30-Year Bund Auction</name>
@@ -151,9 +77,7 @@
 <name>(Germany) Current Account</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 12, 13:30</date>
 <name>(Canada) Building Permits MoM</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, November 12, 13:55</date>
-<name>(United States) Redbook YoY</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 12, 14:20</date>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, November 12, 14:20</date>
 <name>(United States) Fed Williams Speech</name>
 <impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 12, 15:00</date>
 <name>(United States) Fed Paulson Speech</name>
@@ -185,6 +109,214 @@
 <name>(Japan) PPI YoY</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 12, 23:50</date>
 <name>(Japan) PPI MoM</name>
-<impact>Low</impact><currency>JPY</currency></event>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 13, 00:00</date>
+<name>(Montenegro) National Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 13, 00:00</date>
+<name>(Australia) Consumer Inflation Expectations</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 13, 00:00</date>
+<name>(Euro Area) ECOFIN Meeting</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 00:01</date>
+<name>(United Kingdom) RICS House Price Balance</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 13, 00:30</date>
+<name>(Australia) Employment Change</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, November 13, 00:30</date>
+<name>(Australia) Part Time Employment Chg</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 13, 00:30</date>
+<name>(Australia) Unemployment Rate</name>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, November 13, 00:30</date>
+<name>(Australia) Participation Rate</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 13, 00:30</date>
+<name>(Australia) Full Time Employment Chg</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, November 13, 03:35</date>
+<name>(Japan) 5-Year JGB Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 13, 06:30</date>
+<name>(France) Unemployment Rate</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) GDP YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) Balance of Trade</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) Goods Trade Balance Non-EU</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) Business Investment YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) Construction Orders YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) Business Investment QoQ</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) Goods Trade Balance</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) GDP MoM</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) Construction Output YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) GDP 3-Month Avg</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) GDP Growth Rate QoQ</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) GDP Growth Rate YoY</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) Industrial Production MoM</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) Manufacturing Production YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) Industrial Production YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:00</date>
+<name>(United Kingdom) Manufacturing Production MoM</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 13, 07:30</date>
+<name>(Switzerland) Producer &amp; Import Prices YoY</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, November 13, 07:30</date>
+<name>(Switzerland) Producer &amp; Import Prices MoM</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, November 13, 08:00</date>
+<name>(Lithuania) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 08:00</date>
+<name>(Slovakia) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 08:00</date>
+<name>(Slovakia) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 08:00</date>
+<name>(Slovakia) Core Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 08:00</date>
+<name>(Slovakia) Core Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 09:00</date>
+<name>(France) IEA Oil Market Report</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 13, 09:00</date>
+<name>(Euro Area) ECB Economic Bulletin</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 13, 09:30</date>
+<name>(Latvia) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 09:30</date>
+<name>(United Kingdom) Labour Productivity QoQ</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 13, 09:30</date>
+<name>(Belgium) Industrial Production MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 09:30</date>
+<name>(Belgium) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 10:00</date>
+<name>(Euro Area) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 10:00</date>
+<name>(Euro Area) Industrial Production MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 13, 10:00</date>
+<name>(Euro Area) ECB Buch Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 10:10</date>
+<name>(Italy) BTP Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 10:10</date>
+<name>(Italy) 7-Year BTP Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 10:10</date>
+<name>(Italy) 30-Year BTP Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 10:10</date>
+<name>(Italy) 3-Year BTP Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 10:30</date>
+<name>(Euro Area) ECB Donnery Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 11:00</date>
+<name>(Ireland) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 11:00</date>
+<name>(Ireland) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 11:00</date>
+<name>(Ireland) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 11:00</date>
+<name>(Ireland) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 11:30</date>
+<name>(Portugal) Private Consumption YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 11:30</date>
+<name>(Portugal) Economic Activity YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 12:00</date>
+<name>(United Kingdom) NIESR Monthly GDP Tracker</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 13, 13:00</date>
+<name>(Euro Area) ECB Elderson Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Continuing Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Initial Jobless Claims</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Jobless Claims 4-week Average</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) CPI</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) CPI s.a</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Core Inflation Rate MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Inflation Rate MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Inflation Rate YoY</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 13:30</date>
+<name>(United States) Core Inflation Rate YoY</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 13, 15:15</date>
+<name>(Euro Area) ECB Machado Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 13, 16:30</date>
+<name>(United States) 4-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 16:30</date>
+<name>(United States) 8-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(United States) EIA Gasoline Production Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(United States) EIA Distillate Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(United States) EIA Gasoline Stocks Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(United States) EIA Distillate Fuel Production Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(United States) EIA Crude Oil Imports Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(United States) EIA Crude Oil Stocks Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(United States) EIA Cushing Crude Oil Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(United States) EIA Heating Oil Stocks Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(United States) EIA Refinery Crude Runs Change</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(United States) 30-Year Mortgage Rate</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(United States) 15-Year Mortgage Rate</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 17:00</date>
+<name>(Canada) 2-Year Bond Auction</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, November 13, 17:20</date>
+<name>(United States) Fed Hammack Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 13, 18:00</date>
+<name>(United States) 30-Year Bond Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 19:00</date>
+<name>(United States) Monthly Budget Statement</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 13, 21:30</date>
+<name>(New Zealand) Business NZ PMI</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, November 13, 21:30</date>
+<name>(United States) Fed Balance Sheet</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 13, 22:10</date>
+<name>(Australia) RBA McPhee Speech</name>
+<impact>Medium</impact><currency>AUD</currency></event>
     </events>
 </response>
