@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, November 15, 13:30</date>
-<name>(Euro Area) ECB Schnabel Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 16, 21:30</date>
+       <event><date>2025, November 16, 21:30</date>
 <name>(New Zealand) Composite NZ PCI</name>
 <impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 16, 21:30</date>
 <name>(New Zealand) Services NZ PSI</name>
@@ -21,6 +19,98 @@
 <name>(Japan) GDP Growth Annualized</name>
 <impact>Medium</impact><currency>JPY</currency></event><event><date>2025, November 16, 23:50</date>
 <name>(Japan) GDP Growth Rate QoQ</name>
-<impact>High</impact><currency>JPY</currency></event>
+<impact>High</impact><currency>JPY</currency></event><event><date>2025, November 17, 00:00</date>
+<name>(Slovakia) Struggle for Freedom and Democracy Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, November 17, 03:35</date>
+<name>(Japan) 10-Year Index-Linked JGB Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 17, 04:30</date>
+<name>(Japan) Capacity Utilization MoM</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 17, 04:30</date>
+<name>(Japan) Industrial Production YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 17, 04:30</date>
+<name>(Japan) Industrial Production MoM</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 17, 07:00</date>
+<name>(China) FDI (YTD) YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, November 17, 08:00</date>
+<name>(Switzerland) GDP Growth Rate QoQ</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, November 17, 08:00</date>
+<name>(Switzerland) Myfxbook USDCHF Sentiment</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, November 17, 08:00</date>
+<name>(Australia) Myfxbook AUDUSD Sentiment</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, November 17, 08:00</date>
+<name>(Japan) Myfxbook USDJPY Sentiment</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, November 17, 08:00</date>
+<name>(European Union) Myfxbook EURUSD Sentiment</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 17, 08:00</date>
+<name>(United Kingdom) Myfxbook GBPUSD Sentiment</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 17, 08:00</date>
+<name>(Canada) Myfxbook USDCAD Sentiment</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, November 17, 08:00</date>
+<name>(New Zealand) Myfxbook NZDUSD Sentiment</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, November 17, 08:15</date>
+<name>(Euro Area) ECB Guindos Speech</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 17, 09:00</date>
+<name>(Italy) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 09:00</date>
+<name>(Italy) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 09:00</date>
+<name>(Italy) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 09:00</date>
+<name>(Italy) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 09:00</date>
+<name>(European Union) European Commission Autumn Forecasts</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 17, 09:30</date>
+<name>(Netherlands) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 09:30</date>
+<name>(Netherlands) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 10:30</date>
+<name>(Germany) 12-Month Bubill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 13:30</date>
+<name>(Canada) New Motor Vehicle Sales</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, November 17, 13:30</date>
+<name>(Canada) Inflation Rate MoM</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, November 17, 13:30</date>
+<name>(Canada) Foreign Securities Purchases by Canadians</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, November 17, 13:30</date>
+<name>(Canada) Foreign Securities Purchases</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, November 17, 13:30</date>
+<name>(Canada) CPI Trimmed-Mean YoY</name>
+<impact>High</impact><currency>CAD</currency></event><event><date>2025, November 17, 13:30</date>
+<name>(Canada) Core Inflation Rate MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, November 17, 13:30</date>
+<name>(Canada) Inflation Rate YoY</name>
+<impact>High</impact><currency>CAD</currency></event><event><date>2025, November 17, 13:30</date>
+<name>(Canada) Core Inflation Rate YoY</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, November 17, 13:30</date>
+<name>(Canada) CPI Median YoY</name>
+<impact>High</impact><currency>CAD</currency></event><event><date>2025, November 17, 13:30</date>
+<name>(United States) NY Empire State Manufacturing Index</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 17, 14:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 14:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 14:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 14:00</date>
+<name>(United States) Fed Williams Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 17, 14:30</date>
+<name>(United States) Fed Jefferson Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 17, 14:45</date>
+<name>(Euro Area) ECB Lane Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 16:00</date>
+<name>(Euro Area) ECB Cipollone Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 17, 16:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 17, 16:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 17, 17:00</date>
+<name>(United States) NOPA Crush Report</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 17, 18:00</date>
+<name>(United States) Monthly Budget Statement</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 17, 18:00</date>
+<name>(United States) Fed Kashkari Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 17, 20:35</date>
+<name>(United States) Fed Waller Speech</name>
+<impact>Medium</impact><currency>USD</currency></event>
     </events>
 </response>
