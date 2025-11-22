@@ -1,94 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, November 21, 00:01</date>
-<name>(United Kingdom) GfK Consumer Confidence</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 21, 02:00</date>
-<name>(New Zealand) Credit Card Spending YoY</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 21, 03:35</date>
-<name>(Japan) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 21, 07:00</date>
-<name>(China) FDI (YTD) YoY</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, November 21, 07:00</date>
-<name>(Lithuania) Industrial Production MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 21, 07:00</date>
-<name>(Lithuania) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 21, 07:00</date>
-<name>(United Kingdom) Public Sector Net Borrowing Ex Banks</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 21, 07:00</date>
-<name>(United Kingdom) Retail Sales ex Fuel MoM</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 21, 07:00</date>
-<name>(United Kingdom) Retail Sales ex Fuel YoY</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 21, 07:00</date>
-<name>(United Kingdom) Retail Sales MoM</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 21, 07:00</date>
-<name>(United Kingdom) Retail Sales YoY</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, November 21, 07:45</date>
-<name>(France) Business Climate Indicator</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 21, 07:45</date>
-<name>(France) Business Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 21, 08:00</date>
-<name>(Euro Area) ECB Guindos Speech</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 21, 08:30</date>
+       <event><date>2025, November 22, 11:00</date>
 <name>(Euro Area) ECB President Lagarde Speech</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 21, 09:30</date>
-<name>(Slovenia) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 21, 10:00</date>
-<name>(Spain) Consumer Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 21, 10:00</date>
-<name>(Euro area) Negotiated Wage Growth</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 21, 10:00</date>
-<name>(Slovenia) Unemployment Rate</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 21, 11:00</date>
-<name>(Ireland) Wholesale Prices MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 21, 11:00</date>
-<name>(Ireland) Wholesale Prices YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 21, 11:30</date>
-<name>(Euro Area) ECB Machado Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 21, 11:30</date>
-<name>(Euro Area) ECB Guindos Speech</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 21, 12:30</date>
-<name>(United States) Fed Williams Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 21, 12:40</date>
-<name>(Switzerland) SNB Schlegel Speech</name>
-<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, November 21, 13:30</date>
-<name>(Canada) New Housing Price Index MoM</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, November 21, 13:30</date>
-<name>(Canada) Retail Sales Ex Autos MoM</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, November 21, 13:30</date>
-<name>(Canada) Retail Sales YoY</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, November 21, 13:30</date>
-<name>(Canada) Retail Sales MoM</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, November 21, 13:30</date>
-<name>(Canada) Retail Sales MoM</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, November 21, 13:30</date>
-<name>(United States) Fed Barr Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 21, 13:45</date>
-<name>(United States) Fed Jefferson Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 21, 14:00</date>
-<name>(United States) Fed Logan Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 21, 15:00</date>
-<name>(United States) Wholesale Inventories MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 21, 15:00</date>
-<name>(United States) Michigan Consumer Sentiment</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, November 21, 15:00</date>
-<name>(United States) Michigan Inflation Expectations</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 21, 15:00</date>
-<name>(United States) Michigan 5 Year Inflation Expectations</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 21, 15:00</date>
-<name>(United States) Michigan Current Conditions</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 21, 15:00</date>
-<name>(United States) Michigan Consumer Expectations</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 21, 15:30</date>
-<name>(Canada) Senior Loan Officer Survey</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, November 21, 18:00</date>
-<name>(United States) Baker Hughes Oil Rig Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 21, 18:00</date>
-<name>(United States) Baker Hughes Total Rigs Count</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 21, 21:00</date>
-<name>(El Salvador) Balance of Trade</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 22, 11:00</date>
-<name>(Euro Area) ECB President Lagarde Speech</name>
-<impact>Low</impact><currency>EUR</currency></event>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 22, 16:55</date>
+<name>(United States) Fed Collins Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 23, 00:00</date>
+<name>(Japan) Labor Thanksgiving Day</name>
+<impact>None</impact><currency>JPY</currency></event>
     </events>
 </response>
