@@ -1,12 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, November 22, 11:00</date>
-<name>(Euro Area) ECB President Lagarde Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 22, 16:55</date>
-<name>(United States) Fed Collins Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 23, 00:00</date>
+       <event><date>2025, November 23, 00:00</date>
 <name>(Japan) Labor Thanksgiving Day</name>
-<impact>None</impact><currency>JPY</currency></event>
+<impact>None</impact><currency>JPY</currency></event><event><date>2025, November 24, 06:00</date>
+<name>(Finland) Export Prices YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 06:00</date>
+<name>(Finland) Import Prices YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 06:00</date>
+<name>(Finland) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 07:30</date>
+<name>(Switzerland) Non Farm Payrolls</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, November 24, 08:00</date>
+<name>(Australia) Myfxbook AUDUSD Sentiment</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, November 24, 08:00</date>
+<name>(Switzerland) Myfxbook USDCHF Sentiment</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, November 24, 08:00</date>
+<name>(Japan) Myfxbook USDJPY Sentiment</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, November 24, 08:00</date>
+<name>(European Union) Myfxbook EURUSD Sentiment</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 24, 08:00</date>
+<name>(United Kingdom) Myfxbook GBPUSD Sentiment</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 24, 08:00</date>
+<name>(Canada) Myfxbook USDCAD Sentiment</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, November 24, 08:00</date>
+<name>(New Zealand) Myfxbook NZDUSD Sentiment</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, November 24, 09:00</date>
+<name>(Germany) Ifo Expectations</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 09:00</date>
+<name>(Germany) Ifo Business Climate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 24, 09:00</date>
+<name>(Germany) Ifo Current Conditions</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 09:30</date>
+<name>(Slovenia) Business Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 11:00</date>
+<name>(Kosovo) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 11:00</date>
+<name>(Latvia) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 11:00</date>
+<name>(Latvia) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 11:00</date>
+<name>(Euro Area) ECB Cipollone Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 12:45</date>
+<name>(Euro Area) ECB Elderson Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 13:30</date>
+<name>(United States) Chicago Fed National Activity Index</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 24, 13:30</date>
+<name>(Canada) Manufacturing Sales MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, November 24, 13:30</date>
+<name>(United States) Chicago Fed National Activity Index</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 24, 14:00</date>
+<name>(Belgium) Business Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 14:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 14:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 14:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 14:45</date>
+<name>(Euro Area) ECB President Lagarde Speech</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 24, 15:30</date>
+<name>(United States) Dallas Fed Manufacturing Index</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 24, 16:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 24, 16:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 24, 18:00</date>
+<name>(United States) 2-Year Note Auction</name>
+<impact>Low</impact><currency>USD</currency></event>
     </events>
 </response>
