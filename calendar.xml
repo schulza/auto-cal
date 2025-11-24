@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, November 23, 00:00</date>
-<name>(Japan) Labor Thanksgiving Day</name>
-<impact>None</impact><currency>JPY</currency></event><event><date>2025, November 24, 06:00</date>
+       <event><date>2025, November 24, 06:00</date>
 <name>(Finland) Export Prices YoY</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 24, 06:00</date>
 <name>(Finland) Import Prices YoY</name>
@@ -67,6 +65,118 @@
 <name>(United States) 3-Month Bill Auction</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, November 24, 18:00</date>
 <name>(United States) 2-Year Note Auction</name>
-<impact>Low</impact><currency>USD</currency></event>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 01:35</date>
+<name>(New Zealand) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 25, 01:35</date>
+<name>(New Zealand) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 25, 01:35</date>
+<name>(New Zealand) 1-Year Bill Auction</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 25, 05:00</date>
+<name>(European Union) New Car Registrations YoY</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 25, 06:00</date>
+<name>(Finland) Unemployment Rate</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 07:00</date>
+<name>(Germany) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 07:00</date>
+<name>(Germany) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 07:45</date>
+<name>(France) Consumer Confidence</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 25, 08:00</date>
+<name>(Spain) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 09:30</date>
+<name>(Slovenia) Tourist Arrivals YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 10:00</date>
+<name>(Spain) Consumer Confidence</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 25, 10:00</date>
+<name>(United Kingdom) Treasury Gilt 2031 Auction</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, November 25, 10:10</date>
+<name>(Italy) 2-Year BTP Short Term Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 10:10</date>
+<name>(Italy) BTP€i Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 10:10</date>
+<name>(Italy) 5-Year BTP€i Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 10:30</date>
+<name>(Germany) 5-Year Bobl Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 11:00</date>
+<name>(Luxembourg) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 11:00</date>
+<name>(United Kingdom) CBI Distributive Trades</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 25, 11:00</date>
+<name>(Ireland) Average Weekly Earnings YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 13:15</date>
+<name>(United States) ADP Employment Change Weekly</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) Retail Sales MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) Retail Sales Ex Autos MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) Retail Sales YoY</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) Retail Sales Ex Gas/Autos MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) Retail Sales Control Group MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) PPI Ex Food, Energy and Trade YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) Core PPI YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) Core PPI MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) PPI YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) PPI Ex Food, Energy and Trade MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) PPI MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(United States) PPI</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 13:30</date>
+<name>(Canada) Wholesale Sales MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, November 25, 13:55</date>
+<name>(United States) Redbook YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 14:00</date>
+<name>(United States) House Price Index MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 14:00</date>
+<name>(United States) S&amp;P/Case-Shiller Home Price MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 14:00</date>
+<name>(United States) S&amp;P/Case-Shiller Home Price YoY</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 25, 14:00</date>
+<name>(United States) House Price Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 14:00</date>
+<name>(United States) House Price Index YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 14:00</date>
+<name>(Euro Area) ECB Donnery Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 14:00</date>
+<name>(Euro Area) ECB Cipollone Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 25, 15:00</date>
+<name>(United States) Business Inventories MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 25, 15:00</date>
+<name>(United States) Retail Inventories Ex Autos MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 15:00</date>
+<name>(United States) Pending Home Sales YoY</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 25, 15:00</date>
+<name>(United States) Richmond Fed Manufacturing Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 15:00</date>
+<name>(United States) CB Consumer Confidence</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 25, 15:00</date>
+<name>(United States) Richmond Fed Manufacturing Shipments Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 15:00</date>
+<name>(United States) Pending Home Sales MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, November 25, 15:00</date>
+<name>(United States) Richmond Fed Services Revenues Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 15:30</date>
+<name>(United States) Dallas Fed Services Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 15:30</date>
+<name>(United States) Dallas Fed Services Revenues Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 16:30</date>
+<name>(United States) 52-Week Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 18:00</date>
+<name>(United States) Money Supply</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 18:00</date>
+<name>(United States) 2-Year FRN Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 18:00</date>
+<name>(United States) 5-Year Note Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, November 25, 21:30</date>
+<name>(United States) API Crude Oil Stock Change</name>
+<impact>Medium</impact><currency>USD</currency></event>
     </events>
 </response>
