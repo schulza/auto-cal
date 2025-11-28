@@ -1,129 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, November 27, 00:00</date>
-<name>(New Zealand) ANZ Business Confidence</name>
-<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, November 27, 00:00</date>
-<name>(United States) Thanksgiving Day</name>
-<impact>None</impact><currency>USD</currency></event><event><date>2025, November 27, 00:30</date>
-<name>(Australia) Building Capital Expenditure QoQ</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 27, 00:30</date>
-<name>(Australia) Private Capital Expenditure QoQ</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 27, 00:30</date>
-<name>(Australia) Plant Machinery Capital Expenditure QoQ</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, November 27, 01:30</date>
-<name>(China) Industrial Profits (YTD) YoY</name>
-<impact>Low</impact><currency>CNY</currency></event><event><date>2025, November 27, 01:30</date>
-<name>(Japan) BoJ Noguchi Speech</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, November 27, 03:35</date>
-<name>(Japan) BoJ JGB Purchase</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 27, 05:30</date>
-<name>(Netherlands) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 06:00</date>
-<name>(Finland) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 06:00</date>
-<name>(Finland) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 07:00</date>
-<name>(Germany) GfK Consumer Confidence</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 27, 07:00</date>
-<name>(Lithuania) Retail Sales YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 08:00</date>
-<name>(Austria) ATB Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 08:00</date>
-<name>(Slovakia) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 08:00</date>
-<name>(Slovakia) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 08:30</date>
-<name>(Euro Area) ECB Cipollone Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 09:00</date>
-<name>(Euro Area) Loans to Households YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 09:00</date>
-<name>(Euro Area) Loans to Companies YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 09:00</date>
-<name>(Euro Area) M3 Money Supply YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 09:00</date>
-<name>(Italy) Consumer Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 27, 09:00</date>
-<name>(Italy) Business Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 27, 09:30</date>
-<name>(Portugal) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 09:30</date>
-<name>(Portugal) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 09:30</date>
-<name>(Slovenia) Retail Sales YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 09:30</date>
-<name>(Slovenia) Retail Sales MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:00</date>
-<name>(Spain) Consumer Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:00</date>
-<name>(Italy) Industrial Sales YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:00</date>
-<name>(Italy) Industrial Sales MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:00</date>
-<name>(Euro Area) Selling Price Expectations</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:00</date>
-<name>(Euro Area) Economic Sentiment</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:00</date>
-<name>(Euro Area) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:00</date>
-<name>(Euro Area) Consumer Inflation Expectations</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:00</date>
-<name>(Euro Area) Industrial Sentiment</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:00</date>
-<name>(Euro Area) Services Sentiment</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:00</date>
-<name>(Montenegro) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:00</date>
-<name>(Malta) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:10</date>
-<name>(Italy) 5-Year BTP Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:10</date>
-<name>(Italy) 10-Year BTP Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:30</date>
-<name>(Belgium) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 10:30</date>
-<name>(Belgium) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 11:00</date>
-<name>(Greece) Total Credit YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 11:00</date>
-<name>(Euro Area) ECB Guindos Speech</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, November 27, 12:00</date>
-<name>(Spain) Business Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 27, 12:30</date>
-<name>(Euro Area) ECB Monetary Policy Meeting Accounts</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 27, 13:30</date>
-<name>(Canada) Current Account</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, November 27, 13:30</date>
-<name>(Canada) Average Weekly Earnings YoY</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, November 27, 14:00</date>
-<name>(Euro Area) ECB Tuominen Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 15:45</date>
-<name>(Euro Area) ECB Machado Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 27, 21:00</date>
-<name>(New Zealand) ANZ Roy Morgan Consumer Confidence</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 27, 23:30</date>
-<name>(Japan) Tokyo CPI YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 27, 23:30</date>
-<name>(Japan) Unemployment Rate</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, November 27, 23:30</date>
-<name>(Japan) Jobs/applications ratio</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 27, 23:30</date>
-<name>(Japan) Tokyo Core CPI YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 27, 23:30</date>
-<name>(Japan) Tokyo CPI Ex Food and Energy YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 27, 23:50</date>
-<name>(Japan) Industrial Production MoM</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, November 27, 23:50</date>
-<name>(Japan) Foreign Bond Investment</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 27, 23:50</date>
-<name>(Japan) Stock Investment by Foreigners</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 27, 23:50</date>
-<name>(Japan) Industrial Production YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 27, 23:50</date>
-<name>(Japan) Retail Sales YoY</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, November 27, 23:50</date>
-<name>(Japan) Retail Sales MoM</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, November 28, 00:01</date>
+       <event><date>2025, November 28, 00:01</date>
 <name>(Ireland) Consumer Confidence</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 28, 00:01</date>
 <name>(United Kingdom) Car Production YoY</name>
@@ -159,11 +37,7 @@
 <name>(Germany) Import Prices MoM</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 28, 07:00</date>
 <name>(Germany) Import Prices YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 28, 07:00</date>
-<name>(United Kingdom) Nationwide Housing Prices MoM</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 28, 07:00</date>
-<name>(United Kingdom) Nationwide Housing Prices YoY</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, November 28, 07:30</date>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 28, 07:30</date>
 <name>(Switzerland) Retail Sales MoM</name>
 <impact>High</impact><currency>CHF</currency></event><event><date>2025, November 28, 07:30</date>
 <name>(Switzerland) Retail Sales YoY</name>
@@ -260,6 +134,8 @@
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 28, 09:30</date>
 <name>(Slovenia) Inflation Rate MoM</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 28, 10:00</date>
+<name>(Spain) Consumer Confidence</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, November 28, 10:00</date>
 <name>(Malta) PPI YoY</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, November 28, 10:00</date>
 <name>(Belgium) GDP Growth Rate QoQ</name>
