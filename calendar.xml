@@ -11,6 +11,120 @@
 <name>(New Zealand) Building Permits MoM</name>
 <impact>Low</impact><currency>NZD</currency></event><event><date>2025, November 30, 23:50</date>
 <name>(Japan) Capital Spending YoY</name>
-<impact>Medium</impact><currency>JPY</currency></event>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 01, 00:00</date>
+<name>(Portugal) Restoration of Independence Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 01, 00:00</date>
+<name>(Australia) TD-MI Inflation Gauge MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 01, 00:30</date>
+<name>(Australia) ANZ-Indeed Job Ads MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 01, 00:30</date>
+<name>(Australia) Business Inventories QoQ</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 01, 00:30</date>
+<name>(Australia) Company Gross Profits QoQ</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, December 01, 01:05</date>
+<name>(Japan) BoJ Gov Ueda Speech</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 01, 05:30</date>
+<name>(Australia) Commodity Prices YoY</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 01, 05:30</date>
+<name>(Netherlands) Retail Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 06:00</date>
+<name>(Estonia) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 06:00</date>
+<name>(Estonia) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 07:00</date>
+<name>(Lithuania) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 07:00</date>
+<name>(Lithuania) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 07:30</date>
+<name>(Switzerland) Retail Sales MoM</name>
+<impact>High</impact><currency>CHF</currency></event><event><date>2025, December 01, 07:30</date>
+<name>(Switzerland) Retail Sales YoY</name>
+<impact>High</impact><currency>CHF</currency></event><event><date>2025, December 01, 08:00</date>
+<name>(Austria) Unemployed Persons</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 08:00</date>
+<name>(Austria) Unemployment Rate</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, December 01, 08:00</date>
+<name>(Australia) Myfxbook AUDUSD Sentiment</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, December 01, 08:00</date>
+<name>(Switzerland) Myfxbook USDCHF Sentiment</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, December 01, 08:00</date>
+<name>(Japan) Myfxbook USDJPY Sentiment</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 01, 08:00</date>
+<name>(European Union) Myfxbook EURUSD Sentiment</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 01, 08:00</date>
+<name>(United Kingdom) Myfxbook GBPUSD Sentiment</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 01, 08:00</date>
+<name>(Canada) Myfxbook USDCAD Sentiment</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, December 01, 08:00</date>
+<name>(New Zealand) Myfxbook NZDUSD Sentiment</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, December 01, 08:30</date>
+<name>(Switzerland) procure.ch Manufacturing PMI</name>
+<impact>High</impact><currency>CHF</currency></event><event><date>2025, December 01, 09:30</date>
+<name>(Netherlands) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 09:30</date>
+<name>(Netherlands) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 09:30</date>
+<name>(United Kingdom) Mortgage Lending</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 01, 09:30</date>
+<name>(United Kingdom) Net Lending to Individuals MoM</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 01, 09:30</date>
+<name>(United Kingdom) M4 Money Supply MoM</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 01, 09:30</date>
+<name>(United Kingdom) BoE Consumer Credit</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 01, 09:30</date>
+<name>(United Kingdom) Mortgage Approvals</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 01, 10:00</date>
+<name>(Cyprus) Retail Sales YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 10:00</date>
+<name>(Cyprus) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 10:00</date>
+<name>(Cyprus) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 10:30</date>
+<name>(Germany) 9-Month Bubill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 10:30</date>
+<name>(Germany) 3-Month Bubill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 10:45</date>
+<name>(European Union) EU Bond Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 10:45</date>
+<name>(European Union) 2032 EU-Bonds Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 10:45</date>
+<name>(European Union) 2041 EU-Bonds Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 11:00</date>
+<name>(Ireland) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 11:00</date>
+<name>(Ireland) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 13:01</date>
+<name>(Australia) Cotality Dwelling Prices MoM</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 01, 14:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 14:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 14:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 01, 15:00</date>
+<name>(United States) Construction Spending MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 01, 15:00</date>
+<name>(United States) ISM Manufacturing Prices</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 01, 15:00</date>
+<name>(United States) ISM Manufacturing Employment</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 01, 15:00</date>
+<name>(United States) Construction Spending MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 01, 15:00</date>
+<name>(United States) ISM Manufacturing New Orders</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 01, 15:00</date>
+<name>(United States) ISM Manufacturing PMI</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 01, 16:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 01, 16:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 01, 21:45</date>
+<name>(New Zealand) Export Prices QoQ</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 01, 21:45</date>
+<name>(New Zealand) Import Prices QoQ</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 01, 21:45</date>
+<name>(New Zealand) Terms of Trade QoQ</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 01, 23:50</date>
+<name>(Japan) Monetary Base YoY</name>
+<impact>Low</impact><currency>JPY</currency></event>
     </events>
 </response>
