@@ -1,121 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, December 04, 00:30</date>
-<name>(Australia) Imports MoM</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 04, 00:30</date>
-<name>(Australia) Balance of Trade</name>
-<impact>High</impact><currency>AUD</currency></event><event><date>2025, December 04, 00:30</date>
-<name>(Australia) Exports MoM</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 04, 00:30</date>
-<name>(Australia) Household Spending YoY</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 04, 00:30</date>
-<name>(Australia) Household Spending MoM</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 04, 03:35</date>
-<name>(Japan) 30-Year JGB Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 04, 06:00</date>
-<name>(Estonia) Industrial Production MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 06:00</date>
-<name>(Estonia) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 08:00</date>
-<name>(Austria) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 08:00</date>
-<name>(Austria) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 08:00</date>
-<name>(Switzerland) Unemployment Rate</name>
-<impact>High</impact><currency>CHF</currency></event><event><date>2025, December 04, 08:00</date>
-<name>(Slovakia) Retail Sales YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 08:00</date>
-<name>(Slovakia) Retail Sales MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 08:30</date>
-<name>(Switzerland) procure.ch Manufacturing PMI</name>
-<impact>High</impact><currency>CHF</currency></event><event><date>2025, December 04, 09:00</date>
-<name>(United Kingdom) New Car Sales YoY</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 04, 09:30</date>
-<name>(United Kingdom) DMP 3M Output Price Expectations</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 04, 09:30</date>
-<name>(United Kingdom) DMP 1Y CPI Expectations</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, December 04, 09:40</date>
-<name>(Spain) Obligacion Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 09:40</date>
-<name>(Spain) Index-Linked Obligacion Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 09:40</date>
-<name>(Spain) 5-Year Bonos Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 10:00</date>
-<name>(Cyprus) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 10:00</date>
-<name>(Cyprus) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 10:00</date>
-<name>(Euro Area) Retail Sales MoM</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, December 04, 10:00</date>
-<name>(Euro Area) Retail Sales YoY</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, December 04, 10:00</date>
-<name>(France) Index-Linked OAT Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 10:00</date>
-<name>(France) 2035 OAT Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 10:00</date>
-<name>(France) 2041 OAT Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 10:00</date>
-<name>(France) 2055 OAT Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 11:00</date>
-<name>(Ireland) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 11:00</date>
-<name>(Ireland) GNP YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 11:00</date>
-<name>(Ireland) GNP QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 11:00</date>
-<name>(Ireland) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 11:00</date>
-<name>(Ireland) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 11:00</date>
-<name>(Latvia) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 11:00</date>
-<name>(Latvia) Industrial Production MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 12:30</date>
-<name>(United States) Challenger Job Cuts</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 04, 13:00</date>
-<name>(Euro Area) ECB Cipollone Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 13:30</date>
-<name>(United States) Balance of Trade</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 04, 13:30</date>
-<name>(United States) Imports</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 04, 13:30</date>
-<name>(United States) Exports</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 04, 13:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 04, 13:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 04, 13:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 04, 15:00</date>
-<name>(Canada) Ivey PMI s.a</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, December 04, 15:00</date>
-<name>(Euro Area) ECB Lane Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 04, 15:30</date>
-<name>(United States) EIA Natural Gas Stocks Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 04, 16:30</date>
-<name>(United States) 8-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 04, 16:30</date>
-<name>(United States) 4-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 04, 17:00</date>
-<name>(United States) 15-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 04, 17:00</date>
-<name>(United States) 30-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 04, 17:00</date>
-<name>(United States) Fed Bowman Speech</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 04, 18:00</date>
-<name>(Euro Area) ECB Guindos Speech</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, December 04, 21:30</date>
-<name>(United States) Fed Balance Sheet</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 04, 23:00</date>
-<name>(Japan) Reuters Tankan Index</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 04, 23:30</date>
-<name>(Japan) Household Spending YoY</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 04, 23:30</date>
-<name>(Japan) Household Spending MoM</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 04, 23:50</date>
-<name>(Japan) Foreign Exchange Reserves</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 05, 03:35</date>
+       <event><date>2025, December 05, 03:35</date>
 <name>(Japan) 3-Month Bill Auction</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 05, 05:00</date>
 <name>(Japan) Coincident Index</name>
@@ -144,6 +30,8 @@
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 05, 07:45</date>
 <name>(France) Foreign Exchange Reserves</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 05, 08:00</date>
+<name>(Japan) Reuters Tankan Index</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 05, 08:00</date>
 <name>(Austria) Wholesale Prices YoY</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 05, 08:00</date>
 <name>(Austria) Wholesale Prices MoM</name>
@@ -171,8 +59,6 @@
 <name>(Euro Area) Employment Change YoY</name>
 <impact>High</impact><currency>EUR</currency></event><event><date>2025, December 05, 10:00</date>
 <name>(Euro Area) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 05, 10:00</date>
-<name>(Germany) New Car Registrations YoY</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 05, 10:00</date>
 <name>(Greece) GDP Growth Rate YoY</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 05, 10:00</date>
@@ -206,8 +92,6 @@
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, December 05, 14:00</date>
 <name>(United States) Used Car Prices MoM</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, December 05, 15:00</date>
-<name>(United States) Factory Orders ex Transportation</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 05, 15:00</date>
 <name>(United States) PCE Price Index MoM</name>
 <impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 05, 15:00</date>
 <name>(United States) Personal Spending MoM</name>
@@ -220,8 +104,6 @@
 <impact>High</impact><currency>USD</currency></event><event><date>2025, December 05, 15:00</date>
 <name>(United States) Core PCE Price Index YoY</name>
 <impact>High</impact><currency>USD</currency></event><event><date>2025, December 05, 15:00</date>
-<name>(United States) Factory Orders MoM</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 05, 15:00</date>
 <name>(United States) Factory Orders MoM</name>
 <impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 05, 15:00</date>
 <name>(United States) Michigan Consumer Expectations</name>
