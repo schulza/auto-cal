@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, December 07, 08:00</date>
+       <event><date>2025, December 07, 03:00</date>
 <name>(China) Foreign Exchange Reserves</name>
 <impact>Low</impact><currency>CNY</currency></event><event><date>2025, December 07, 23:00</date>
 <name>(Japan) Reuters Tankan Index</name>
@@ -25,6 +25,78 @@
 <name>(Japan) GDP Capital Expenditure QoQ</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 07, 23:50</date>
 <name>(Japan) GDP Growth Annualized</name>
-<impact>Medium</impact><currency>JPY</currency></event>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 08, 00:00</date>
+<name>(Austria) Feast of the Immaculate Conception</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 08, 00:00</date>
+<name>(Malta) Feast of the Immaculate Conception</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 08, 00:00</date>
+<name>(Portugal) Feast of the Immaculate Conception</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 08, 03:00</date>
+<name>(China) Imports YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, December 08, 03:00</date>
+<name>(China) Exports YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, December 08, 03:00</date>
+<name>(China) Balance of Trade</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, December 08, 05:00</date>
+<name>(Japan) Eco Watchers Survey Outlook</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 08, 05:00</date>
+<name>(Japan) Eco Watchers Survey Current</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 08, 07:00</date>
+<name>(Finland) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 07:00</date>
+<name>(Germany) Industrial Production MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 08, 07:00</date>
+<name>(Lithuania) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 07:00</date>
+<name>(Lithuania) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 08:00</date>
+<name>(Switzerland) Consumer Confidence</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, December 08, 08:00</date>
+<name>(Australia) Myfxbook AUDUSD Sentiment</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, December 08, 08:00</date>
+<name>(Switzerland) Myfxbook USDCHF Sentiment</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, December 08, 08:00</date>
+<name>(Japan) Myfxbook USDJPY Sentiment</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 08, 08:00</date>
+<name>(European Union) Myfxbook EURUSD Sentiment</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 08, 08:00</date>
+<name>(United Kingdom) Myfxbook GBPUSD Sentiment</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 08, 08:00</date>
+<name>(Canada) Myfxbook USDCAD Sentiment</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, December 08, 08:00</date>
+<name>(New Zealand) Myfxbook NZDUSD Sentiment</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, December 08, 09:30</date>
+<name>(Netherlands) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 09:30</date>
+<name>(Netherlands) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 10:00</date>
+<name>(Greece) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 10:30</date>
+<name>(Germany) 12-Month Bubill Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 11:00</date>
+<name>(Latvia) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 11:00</date>
+<name>(Latvia) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 11:00</date>
+<name>(Luxembourg) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 11:00</date>
+<name>(Luxembourg) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 14:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 14:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 14:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 15:00</date>
+<name>(Euro Area) ECB Cipollone Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 08, 16:00</date>
+<name>(United States) Consumer Inflation Expectations</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 08, 16:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 08, 16:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 08, 18:00</date>
+<name>(United States) 3-Year Note Auction</name>
+<impact>Low</impact><currency>USD</currency></event>
     </events>
 </response>
