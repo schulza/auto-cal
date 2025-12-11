@@ -1,125 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, December 10, 00:30</date>
-<name>(Australia) RBA Chart Pack</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 10, 01:30</date>
-<name>(China) Inflation Rate YoY</name>
-<impact>High</impact><currency>CNY</currency></event><event><date>2025, December 10, 01:30</date>
-<name>(China) PPI YoY</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 10, 01:30</date>
-<name>(China) Inflation Rate MoM</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 10, 05:30</date>
-<name>(Netherlands) Manufacturing Production MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 06:00</date>
-<name>(Estonia) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 06:00</date>
-<name>(Finland) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 07:00</date>
-<name>(Lithuania) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 07:45</date>
-<name>(Euro Area) ECB Machado Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 08:00</date>
-<name>(Austria) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 08:00</date>
-<name>(Slovakia) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 09:00</date>
-<name>(Italy) Industrial Production MoM</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 10, 09:00</date>
-<name>(Italy) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 09:30</date>
-<name>(Slovenia) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 10:00</date>
-<name>(Malta) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 10:00</date>
-<name>(United Kingdom) Treasury Gilt 2035 Auction</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 10, 10:00</date>
-<name>(Cyprus) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 10:00</date>
-<name>(Greece) Industrial Production YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 10:00</date>
-<name>(Spain) Consumer Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 10, 10:00</date>
-<name>(Switzerland) Bond Auction</name>
-<impact>Low</impact><currency>CHF</currency></event><event><date>2025, December 10, 10:10</date>
-<name>(Italy) 12-Month BOT Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 10:55</date>
-<name>(Euro Area) ECB President Lagarde Speech</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 10, 11:00</date>
-<name>(Latvia) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 11:00</date>
-<name>(Portugal) Balance of Trade</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 12:00</date>
-<name>(United States) MBA 30-Year Mortgage Rate</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 10, 12:00</date>
-<name>(United States) MBA Purchase Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 12:00</date>
-<name>(United States) MBA Mortgage Applications</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 12:00</date>
-<name>(United States) MBA Mortgage Refinance Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 12:00</date>
-<name>(United States) MBA Mortgage Market Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 12:30</date>
-<name>(Euro Area) ECB Donnery Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 13:30</date>
-<name>(United States) Employment Cost - Wages QoQ</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 10, 13:30</date>
-<name>(United States) Employment Cost Index QoQ</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 10, 13:30</date>
-<name>(United States) Employment Cost - Benefits QoQ</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 10, 14:00</date>
-<name>(Kosovo) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 10, 14:45</date>
-<name>(Canada) BoC Interest Rate Decision</name>
-<impact>High</impact><currency>CAD</currency></event><event><date>2025, December 10, 15:30</date>
-<name>(Canada) BoC Press Conference</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, December 10, 15:30</date>
-<name>(United States) EIA Gasoline Stocks Change</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 10, 15:30</date>
-<name>(United States) EIA Gasoline Production Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 15:30</date>
-<name>(United States) EIA Distillate Fuel Production Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 15:30</date>
-<name>(United States) EIA Crude Oil Imports Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 15:30</date>
-<name>(United States) EIA Crude Oil Stocks Change</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 10, 15:30</date>
-<name>(United States) EIA Cushing Crude Oil Stocks Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 15:30</date>
-<name>(United States) EIA Distillate Stocks Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 15:30</date>
-<name>(United States) EIA Heating Oil Stocks Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 15:30</date>
-<name>(United States) EIA Refinery Crude Runs Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 16:30</date>
-<name>(United States) 17-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 19:00</date>
-<name>(United States) Fed Interest Rate Decision</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 10, 19:00</date>
-<name>(United States) FOMC Economic Projections</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 10, 19:00</date>
-<name>(United States) Interest Rate Projection - 1st Yr</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 19:00</date>
-<name>(United States) Interest Rate Projection - 2nd Yr</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 19:00</date>
-<name>(United States) Interest Rate Projection - 3rd Yr</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 19:00</date>
-<name>(United States) Interest Rate Projection - Current</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 19:00</date>
-<name>(United States) Interest Rate Projection - Longer</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 10, 19:00</date>
-<name>(United States) Monthly Budget Statement</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 10, 19:30</date>
-<name>(United States) Fed Press Conference</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 10, 21:45</date>
-<name>(New Zealand) Manufacturing Sales YoY</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 10, 23:50</date>
-<name>(Japan) Stock Investment by Foreigners</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 10, 23:50</date>
-<name>(Japan) Foreign Bond Investment</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 10, 23:50</date>
-<name>(Japan) BSI Large Manufacturing QoQ</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 11, 00:00</date>
+       <event><date>2025, December 11, 00:00</date>
 <name>(Euro Area) Eurogroup Meeting</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 11, 00:01</date>
 <name>(United Kingdom) RICS House Price Balance</name>
@@ -203,6 +85,114 @@
 <name>(New Zealand) Electronic Retail Card Spending YoY</name>
 <impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 11, 21:45</date>
 <name>(New Zealand) Electronic Retail Card Spending MoM</name>
-<impact>Low</impact><currency>NZD</currency></event>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 12, 00:00</date>
+<name>(Euro Area) ECOFIN Meeting</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 03:35</date>
+<name>(Japan) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 12, 04:30</date>
+<name>(Japan) Capacity Utilization MoM</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 12, 04:30</date>
+<name>(Japan) Industrial Production YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 12, 04:30</date>
+<name>(Japan) Industrial Production MoM</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 12, 05:30</date>
+<name>(Netherlands) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 06:00</date>
+<name>(Finland) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(China) Vehicle Sales YoY</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(Germany) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(Germany) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(Germany) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(Germany) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(United Kingdom) Industrial Production MoM</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(United Kingdom) Manufacturing Production MoM</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(United Kingdom) Industrial Production YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(United Kingdom) Manufacturing Production YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(United Kingdom) GDP 3-Month Avg</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(United Kingdom) GDP MoM</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(United Kingdom) GDP YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(United Kingdom) Goods Trade Balance</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(United Kingdom) Goods Trade Balance Non-EU</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(United Kingdom) Balance of Trade</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 12, 07:00</date>
+<name>(United Kingdom) Construction Output YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 12, 07:45</date>
+<name>(France) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 07:45</date>
+<name>(France) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 07:45</date>
+<name>(France) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 07:45</date>
+<name>(France) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 08:00</date>
+<name>(China) Total Social Financing</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, December 12, 08:00</date>
+<name>(China) M2 Money Supply YoY</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, December 12, 08:00</date>
+<name>(China) Outstanding Loan Growth YoY</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, December 12, 08:00</date>
+<name>(China) New Yuan Loans</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 12, 08:00</date>
+<name>(Spain) Core Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 08:00</date>
+<name>(Spain) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 08:00</date>
+<name>(Spain) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 08:00</date>
+<name>(Spain) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 08:00</date>
+<name>(Spain) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 09:30</date>
+<name>(Belgium) Industrial Production MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 09:30</date>
+<name>(Belgium) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 10:00</date>
+<name>(Montenegro) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 10:00</date>
+<name>(Montenegro) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 10:00</date>
+<name>(Montenegro) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 11:00</date>
+<name>(Portugal) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 11:00</date>
+<name>(Portugal) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 12:00</date>
+<name>(United Kingdom) NIESR Monthly GDP Tracker</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 12, 13:00</date>
+<name>(Germany) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 13:00</date>
+<name>(United States) Fed Paulson Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 12, 13:30</date>
+<name>(Canada) Wholesale Sales MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 12, 13:30</date>
+<name>(Canada) Capacity Utilization</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 12, 13:30</date>
+<name>(Canada) Building Permits MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 12, 13:30</date>
+<name>(Canada) New Motor Vehicle Sales</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 12, 13:30</date>
+<name>(United States) Fed Hammack Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 12, 15:35</date>
+<name>(United States) Fed Goolsbee Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 12, 18:00</date>
+<name>(United States) Baker Hughes Total Rigs Count</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 12, 18:00</date>
+<name>(United States) Baker Hughes Oil Rig Count</name>
+<impact>Low</impact><currency>USD</currency></event>
     </events>
 </response>
