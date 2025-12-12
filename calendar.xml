@@ -1,91 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, December 11, 00:00</date>
-<name>(Euro Area) Eurogroup Meeting</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 11, 00:01</date>
-<name>(United Kingdom) RICS House Price Balance</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 11, 00:30</date>
-<name>(Australia) Part Time Employment Chg</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 11, 00:30</date>
-<name>(Australia) Participation Rate</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 11, 00:30</date>
-<name>(Australia) Full Time Employment Chg</name>
-<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, December 11, 00:30</date>
-<name>(Australia) Employment Change</name>
-<impact>High</impact><currency>AUD</currency></event><event><date>2025, December 11, 00:30</date>
-<name>(Australia) Unemployment Rate</name>
-<impact>High</impact><currency>AUD</currency></event><event><date>2025, December 11, 03:35</date>
-<name>(Japan) 20-Year JGB Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 11, 08:00</date>
-<name>(Slovakia) Construction Output YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 11, 08:30</date>
-<name>(Switzerland) SNB Interest Rate Decision</name>
-<impact>High</impact><currency>CHF</currency></event><event><date>2025, December 11, 09:00</date>
-<name>(France) IEA Oil Market Report</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 11, 09:00</date>
-<name>(United Kingdom) BOE Kroszner Speech</name>
-<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 11, 10:00</date>
-<name>(Malta) Unemployment Rate</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 11, 10:10</date>
-<name>(Italy) BTP Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 11, 10:10</date>
-<name>(Italy) 3-Year BTP Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 11, 10:10</date>
-<name>(Italy) 5-Year BTP Auction</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 11, 11:00</date>
-<name>(Ireland) Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 11, 11:00</date>
-<name>(Ireland) Harmonised Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 11, 11:00</date>
-<name>(Ireland) Inflation Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 11, 11:00</date>
-<name>(Ireland) Harmonised Inflation Rate MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 11, 13:00</date>
-<name>(Ecuador) Balance of Trade</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 11, 13:30</date>
-<name>(Canada) Balance of Trade</name>
-<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, December 11, 13:30</date>
-<name>(Canada) Imports</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 11, 13:30</date>
-<name>(Canada) Exports</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 11, 13:30</date>
-<name>(United States) Balance of Trade</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 11, 13:30</date>
-<name>(United States) Imports</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 11, 13:30</date>
-<name>(United States) Exports</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 11, 13:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 11, 13:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 11, 13:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 11, 15:00</date>
-<name>(United States) Wholesale Inventories MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 11, 15:30</date>
-<name>(United States) EIA Natural Gas Stocks Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 11, 16:30</date>
-<name>(United States) 4-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 11, 16:30</date>
-<name>(United States) 8-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 11, 17:00</date>
-<name>(Canada) 2-Year Bond Auction</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 11, 17:00</date>
-<name>(United States) 30-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 11, 17:00</date>
-<name>(United States) 15-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 11, 18:00</date>
-<name>(United States) 30-Year Bond Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 11, 21:30</date>
-<name>(New Zealand) Business NZ PMI</name>
-<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, December 11, 21:30</date>
-<name>(United States) Fed Balance Sheet</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 11, 21:45</date>
-<name>(New Zealand) Electronic Retail Card Spending YoY</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 11, 21:45</date>
-<name>(New Zealand) Electronic Retail Card Spending MoM</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 12, 00:00</date>
+       <event><date>2025, December 12, 00:00</date>
 <name>(Euro Area) ECOFIN Meeting</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 03:35</date>
 <name>(Japan) 3-Month Bill Auction</name>
@@ -100,8 +16,6 @@
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 06:00</date>
 <name>(Finland) Current Account</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 07:00</date>
-<name>(China) Vehicle Sales YoY</name>
-<impact>Low</impact><currency>CNY</currency></event><event><date>2025, December 12, 07:00</date>
 <name>(Germany) Harmonised Inflation Rate YoY</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 12, 07:00</date>
 <name>(Germany) Harmonised Inflation Rate MoM</name>
