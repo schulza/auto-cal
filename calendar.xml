@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, December 13, 13:00</date>
-<name>(Euro Area) ECB Cipollone Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 14, 21:30</date>
+       <event><date>2025, December 14, 21:30</date>
 <name>(New Zealand) Services NZ PSI</name>
 <impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 14, 21:30</date>
 <name>(New Zealand) Composite NZ PCI</name>
@@ -19,6 +17,116 @@
 <name>(Japan) Tankan Large Non-Manufacturing Index</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 14, 23:50</date>
 <name>(Japan) Tankan Large Manufacturers Index</name>
-<impact>High</impact><currency>JPY</currency></event>
+<impact>High</impact><currency>JPY</currency></event><event><date>2025, December 15, 01:30</date>
+<name>(China) House Price Index YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 15, 02:00</date>
+<name>(China) Retail Sales YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, December 15, 02:00</date>
+<name>(China) Industrial Production YoY</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, December 15, 02:00</date>
+<name>(China) Fixed Asset Investment (YTD) YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 15, 02:00</date>
+<name>(China) Unemployment Rate</name>
+<impact>High</impact><currency>CNY</currency></event><event><date>2025, December 15, 04:30</date>
+<name>(Japan) Tertiary Industry Index MoM</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 15, 06:00</date>
+<name>(Finland) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 06:00</date>
+<name>(Finland) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 06:00</date>
+<name>(Finland) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 06:00</date>
+<name>(Finland) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 07:00</date>
+<name>(China) FDI (YTD) YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 15, 07:00</date>
+<name>(Germany) Wholesale Prices MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 15, 07:00</date>
+<name>(Germany) Wholesale Prices YoY</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 15, 07:00</date>
+<name>(Switzerland) SECO Economic Forecasts</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, December 15, 07:30</date>
+<name>(Switzerland) Producer &amp; Import Prices MoM</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, December 15, 07:30</date>
+<name>(Switzerland) Producer &amp; Import Prices YoY</name>
+<impact>Low</impact><currency>CHF</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(Lithuania) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(Slovakia) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(Slovakia) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(Slovakia) Core Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(Slovakia) Core Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(Switzerland) Myfxbook USDCHF Sentiment</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(Australia) Myfxbook AUDUSD Sentiment</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(Japan) Myfxbook USDJPY Sentiment</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(European Union) Myfxbook EURUSD Sentiment</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(United Kingdom) Myfxbook GBPUSD Sentiment</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(Canada) Myfxbook USDCAD Sentiment</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, December 15, 08:00</date>
+<name>(New Zealand) Myfxbook NZDUSD Sentiment</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, December 15, 09:30</date>
+<name>(Latvia) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 10:00</date>
+<name>(Belgium) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 10:00</date>
+<name>(Euro Area) Industrial Production YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 10:00</date>
+<name>(Euro Area) Industrial Production MoM</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 15, 10:00</date>
+<name>(Greece) Construction Output YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 13:15</date>
+<name>(Canada) Housing Starts</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, December 15, 13:30</date>
+<name>(Canada) Manufacturing Sales MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 15, 13:30</date>
+<name>(Canada) Core Inflation Rate MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 15, 13:30</date>
+<name>(Canada) Core Inflation Rate YoY</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, December 15, 13:30</date>
+<name>(Canada) CPI Trimmed-Mean YoY</name>
+<impact>High</impact><currency>CAD</currency></event><event><date>2025, December 15, 13:30</date>
+<name>(Canada) Inflation Rate YoY</name>
+<impact>High</impact><currency>CAD</currency></event><event><date>2025, December 15, 13:30</date>
+<name>(Canada) CPI Median YoY</name>
+<impact>High</impact><currency>CAD</currency></event><event><date>2025, December 15, 13:30</date>
+<name>(United States) NY Empire State Manufacturing Index</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 15, 13:30</date>
+<name>(Canada) Inflation Rate MoM</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, December 15, 14:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 14:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 14:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 14:30</date>
+<name>(United States) Fed Miran Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 15, 15:00</date>
+<name>(Kosovo) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 15, 15:00</date>
+<name>(United States) NAHB Housing Market Index</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 15, 15:30</date>
+<name>(United States) Fed Williams Speech</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 15, 16:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 15, 16:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 15, 17:00</date>
+<name>(United States) NOPA Crush Report</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 15, 21:45</date>
+<name>(New Zealand) Food Inflation YoY</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 15, 23:30</date>
+<name>(Australia) Westpac Consumer Confidence Index</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, December 15, 23:30</date>
+<name>(Australia) Westpac Consumer Confidence Change</name>
+<impact>High</impact><currency>AUD</currency></event>
     </events>
 </response>
