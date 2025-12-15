@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, December 14, 21:30</date>
-<name>(New Zealand) Services NZ PSI</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 14, 21:30</date>
-<name>(New Zealand) Composite NZ PCI</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 14, 23:50</date>
-<name>(Japan) Tankan Large All Industry Capex</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 14, 23:50</date>
-<name>(Japan) Tankan Non-Manufacturing Outlook</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 14, 23:50</date>
-<name>(Japan) Tankan Small Manufacturers Index</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 14, 23:50</date>
-<name>(Japan) Tankan Large Manufacturing Outlook</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 14, 23:50</date>
-<name>(Japan) Tankan Large Non-Manufacturing Index</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 14, 23:50</date>
-<name>(Japan) Tankan Large Manufacturers Index</name>
-<impact>High</impact><currency>JPY</currency></event><event><date>2025, December 15, 01:30</date>
+       <event><date>2025, December 15, 01:30</date>
 <name>(China) House Price Index YoY</name>
 <impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 15, 02:00</date>
 <name>(China) Retail Sales YoY</name>
@@ -127,6 +111,150 @@
 <name>(Australia) Westpac Consumer Confidence Index</name>
 <impact>Medium</impact><currency>AUD</currency></event><event><date>2025, December 15, 23:30</date>
 <name>(Australia) Westpac Consumer Confidence Change</name>
-<impact>High</impact><currency>AUD</currency></event>
+<impact>High</impact><currency>AUD</currency></event><event><date>2025, December 16, 00:00</date>
+<name>(New Zealand) Half Year Economic and Fiscal Update</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, December 16, 02:00</date>
+<name>(New Zealand) Credit Card Spending YoY</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 16, 07:00</date>
+<name>(United Kingdom) Average Earnings excl. Bonus (3Mo/Yr)</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 16, 07:00</date>
+<name>(United Kingdom) Average Earnings incl. Bonus (3Mo/Yr)</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 16, 07:00</date>
+<name>(United Kingdom) Claimant Count Change</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 16, 07:00</date>
+<name>(United Kingdom) Employment Change</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, December 16, 07:00</date>
+<name>(United Kingdom) Unemployment Rate</name>
+<impact>High</impact><currency>GBP</currency></event><event><date>2025, December 16, 07:00</date>
+<name>(United Kingdom) HMRC Payrolls Change</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 16, 09:00</date>
+<name>(Italy) Harmonised Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 16, 09:00</date>
+<name>(Italy) Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 16, 09:00</date>
+<name>(Italy) Inflation Rate YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 16, 09:00</date>
+<name>(Italy) Harmonised Inflation Rate MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 16, 10:00</date>
+<name>(Italy) Balance of Trade</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 16, 10:00</date>
+<name>(Euro Area) Balance of Trade</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 16, 10:00</date>
+<name>(Euro Area) ZEW Economic Sentiment Index</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 16, 10:00</date>
+<name>(Germany) ZEW Current Conditions</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 16, 10:00</date>
+<name>(Germany) ZEW Economic Sentiment Index</name>
+<impact>High</impact><currency>EUR</currency></event><event><date>2025, December 16, 10:00</date>
+<name>(United Kingdom) Treasury Gilt 2031 Auction</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 16, 12:00</date>
+<name>(New Zealand) Global Dairy Trade Price Index</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 16, 13:00</date>
+<name>(United States) Building Permits</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 13:00</date>
+<name>(United States) Building Permits MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 13:00</date>
+<name>(United States) Building Permits</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 13:00</date>
+<name>(United States) Building Permits MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 13:15</date>
+<name>(United States) ADP Employment Change Weekly</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Building Permits</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Housing Starts MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Building Permits MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Housing Starts</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Nonfarm Payrolls Private</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Government Payrolls</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Non Farm Payrolls</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Average Weekly Hours</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Average Hourly Earnings MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Manufacturing Payrolls</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Average Hourly Earnings YoY</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Retail Sales Control Group MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Retail Sales Ex Gas/Autos MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Retail Sales MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Retail Sales YoY</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Retail Sales Ex Autos MoM</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Building Permits</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Housing Starts</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Building Permits MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Housing Starts MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Average Hourly Earnings YoY</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) U-6 Unemployment Rate</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Average Weekly Hours</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Average Hourly Earnings MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Nonfarm Payrolls Private</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Participation Rate</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Non Farm Payrolls</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Unemployment Rate</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Government Payrolls</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Manufacturing Payrolls</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) NY Fed Services Activity Index</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Building Permits MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Housing Starts MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Housing Starts</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(United States) Building Permits</name>
+<impact>High</impact><currency>USD</currency></event><event><date>2025, December 16, 13:30</date>
+<name>(Euro Area) ECB Machado Speech</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 16, 13:55</date>
+<name>(United States) Redbook YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 15:00</date>
+<name>(United States) Business Inventories MoM</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 15:00</date>
+<name>(United States) Retail Inventories Ex Autos MoM</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 16, 18:00</date>
+<name>(Canada) BoC Macklem Speech</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, December 16, 21:00</date>
+<name>(New Zealand) Westpac Consumer Confidence</name>
+<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 16, 21:30</date>
+<name>(United States) API Crude Oil Stock Change</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 16, 21:45</date>
+<name>(New Zealand) Current Account</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, December 16, 23:50</date>
+<name>(Japan) Machinery Orders MoM</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 16, 23:50</date>
+<name>(Japan) Imports YoY</name>
+<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 16, 23:50</date>
+<name>(Japan) Machinery Orders YoY</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 16, 23:50</date>
+<name>(Japan) Exports YoY</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 16, 23:50</date>
+<name>(Japan) Balance of Trade</name>
+<impact>High</impact><currency>JPY</currency></event>
     </events>
 </response>
