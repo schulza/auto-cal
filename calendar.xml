@@ -1,135 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, December 18, 00:00</date>
-<name>(Australia) Consumer Inflation Expectations</name>
-<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 18, 03:35</date>
-<name>(Japan) 3-Month Bill Auction</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 18, 05:30</date>
-<name>(Netherlands) Unemployment Rate</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 18, 07:00</date>
-<name>(China) FDI (YTD) YoY</name>
-<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 18, 07:00</date>
-<name>(Switzerland) Balance of Trade</name>
-<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, December 18, 07:45</date>
-<name>(France) Business Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 18, 07:45</date>
-<name>(France) Business Climate Indicator</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 18, 10:00</date>
-<name>(Belgium) Consumer Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 18, 10:00</date>
-<name>(Euro Area) Construction Output YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 18, 10:00</date>
-<name>(Euro Area) ECB Buch Speech</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 18, 11:00</date>
-<name>(Portugal) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 18, 11:00</date>
-<name>(Portugal) PPI MoM</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 18, 11:30</date>
-<name>(Portugal) Economic Activity YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 18, 11:30</date>
-<name>(Portugal) Private Consumption YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 18, 12:00</date>
-<name>(Canada) CFIB Business Barometer</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 18, 12:00</date>
-<name>(United Kingdom) BoE Interest Rate Decision</name>
-<impact>High</impact><currency>GBP</currency></event><event><date>2025, December 18, 12:00</date>
-<name>(United Kingdom) MPC Meeting Minutes</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 18, 12:00</date>
-<name>(United Kingdom) BoE MPC Vote Cut</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 18, 12:00</date>
-<name>(United Kingdom) BoE MPC Vote Hike</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 18, 12:00</date>
-<name>(United Kingdom) BoE MPC Vote Unchanged</name>
-<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 18, 13:15</date>
-<name>(Euro Area) Marginal Lending Rate</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 18, 13:15</date>
-<name>(Euro Area) Deposit Facility Rate</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, December 18, 13:15</date>
-<name>(Euro Area) ECB Interest Rate Decision</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) CPI</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) CPI s.a</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Inflation Rate MoM</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Core Inflation Rate MoM</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Core Inflation Rate YoY</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Inflation Rate YoY</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Philadelphia Fed Manufacturing Index</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Philly Fed Prices Paid</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Philly Fed New Orders</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Philly Fed Business Conditions</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Philly Fed CAPEX Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(United States) Philly Fed Employment</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 13:30</date>
-<name>(Canada) Average Weekly Earnings YoY</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 18, 13:45</date>
-<name>(Euro Area) ECB Press Conference</name>
-<impact>High</impact><currency>EUR</currency></event><event><date>2025, December 18, 14:45</date>
-<name>(Euro Area) ECB Staff Macroeconomic Projections</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 18, 15:00</date>
-<name>(United States) CB Leading Index MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 15:00</date>
-<name>(United States) CB Leading Index MoM</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 15:30</date>
-<name>(United States) EIA Natural Gas Stocks Change</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 16:00</date>
-<name>(United States) Kansas Fed Manufacturing Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 16:00</date>
-<name>(United States) Kansas Fed Composite Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 16:30</date>
-<name>(United States) 4-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 16:30</date>
-<name>(United States) 8-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 17:00</date>
-<name>(Canada) 10-Year Bond Auction</name>
-<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 18, 17:00</date>
-<name>(United States) 30-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 17:00</date>
-<name>(United States) 15-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 18:00</date>
-<name>(United States) 5-Year TIPS Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 21:00</date>
-<name>(New Zealand) ANZ Roy Morgan Consumer Confidence</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 18, 21:00</date>
-<name>(United States) Foreign Bond Investment</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 21:00</date>
-<name>(United States) Net Long-term TIC Flows</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 18, 21:00</date>
-<name>(United States) Overall Net Capital Flows</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 21:30</date>
-<name>(United States) Fed Balance Sheet</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 18, 21:45</date>
-<name>(New Zealand) Exports</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 18, 21:45</date>
-<name>(New Zealand) Balance of Trade</name>
-<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, December 18, 21:45</date>
-<name>(New Zealand) Imports</name>
-<impact>Low</impact><currency>NZD</currency></event><event><date>2025, December 18, 23:30</date>
-<name>(Japan) Core Inflation Rate YoY</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 18, 23:30</date>
-<name>(Japan) Inflation Rate Ex-Food and Energy YoY</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 18, 23:30</date>
-<name>(Japan) Inflation Rate YoY</name>
-<impact>High</impact><currency>JPY</currency></event><event><date>2025, December 18, 23:30</date>
-<name>(Japan) Inflation Rate MoM</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 19, 00:00</date>
+       <event><date>2025, December 19, 00:00</date>
 <name>(New Zealand) ANZ Business Confidence</name>
 <impact>Medium</impact><currency>NZD</currency></event><event><date>2025, December 19, 00:01</date>
 <name>(United Kingdom) GfK Consumer Confidence</name>
@@ -149,11 +21,15 @@
 <name>(East Timor) Inflation Rate YoY</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, December 19, 02:30</date>
 <name>(Japan) BOJ Gov Ueda Speech</name>
-<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 19, 03:00</date>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 19, 03:30</date>
 <name>(Japan) BoJ Interest Rate Decision</name>
 <impact>High</impact><currency>JPY</currency></event><event><date>2025, December 19, 05:30</date>
 <name>(Netherlands) Consumer Confidence</name>
-<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 19, 07:00</date>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 19, 05:30</date>
+<name>(Australia) Commodity Prices YoY</name>
+<impact>Low</impact><currency>AUD</currency></event><event><date>2025, December 19, 07:00</date>
+<name>(China) FDI (YTD) YoY</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 19, 07:00</date>
 <name>(Germany) PPI MoM</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 19, 07:00</date>
 <name>(Germany) PPI YoY</name>
@@ -210,6 +86,10 @@
 <impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 19, 11:00</date>
 <name>(Luxembourg) Balance of Trade</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 19, 11:30</date>
+<name>(Portugal) Economic Activity YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 19, 11:30</date>
+<name>(Portugal) Private Consumption YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 19, 11:30</date>
 <name>(Portugal) Current Account</name>
 <impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 19, 12:00</date>
 <name>(Euro Area) ECB Cipollone Speech</name>
@@ -253,6 +133,10 @@
 <name>(United States) Baker Hughes Total Rigs Count</name>
 <impact>Low</impact><currency>USD</currency></event><event><date>2025, December 19, 18:00</date>
 <name>(United States) Baker Hughes Oil Rig Count</name>
-<impact>Low</impact><currency>USD</currency></event>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 20, 01:15</date>
+<name>(China) Loan Prime Rate 1Y</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 20, 01:15</date>
+<name>(China) Loan Prime Rate 5Y</name>
+<impact>Medium</impact><currency>CNY</currency></event>
     </events>
 </response>
