@@ -1,8 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, December 20, 02:00</date>
-<name>(United States) US President Trump Speech</name>
-<impact>High</impact><currency>USD</currency></event>
+       <event><date>2025, December 22, 00:00</date>
+<name>(China) National People&apos;s Congress Standing Committee</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, December 22, 01:15</date>
+<name>(China) Loan Prime Rate 1Y</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 22, 01:15</date>
+<name>(China) Loan Prime Rate 5Y</name>
+<impact>Medium</impact><currency>CNY</currency></event><event><date>2025, December 22, 06:00</date>
+<name>(Estonia) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 06:00</date>
+<name>(Estonia) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 06:00</date>
+<name>(Finland) Export Prices YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 06:00</date>
+<name>(Finland) Import Prices YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 06:00</date>
+<name>(Finland) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 07:00</date>
+<name>(United Kingdom) Current Account</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 22, 07:00</date>
+<name>(United Kingdom) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 22, 07:00</date>
+<name>(United Kingdom) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 22, 07:00</date>
+<name>(United Kingdom) Business Investment QoQ</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 22, 07:00</date>
+<name>(United Kingdom) Business Investment YoY</name>
+<impact>Low</impact><currency>GBP</currency></event><event><date>2025, December 22, 08:00</date>
+<name>(Switzerland) Myfxbook USDCHF Sentiment</name>
+<impact>Medium</impact><currency>CHF</currency></event><event><date>2025, December 22, 08:00</date>
+<name>(Australia) Myfxbook AUDUSD Sentiment</name>
+<impact>Medium</impact><currency>AUD</currency></event><event><date>2025, December 22, 08:00</date>
+<name>(Japan) Myfxbook USDJPY Sentiment</name>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 22, 08:00</date>
+<name>(European Union) Myfxbook EURUSD Sentiment</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 22, 08:00</date>
+<name>(United Kingdom) Myfxbook GBPUSD Sentiment</name>
+<impact>Medium</impact><currency>GBP</currency></event><event><date>2025, December 22, 08:00</date>
+<name>(Canada) Myfxbook USDCAD Sentiment</name>
+<impact>Medium</impact><currency>CAD</currency></event><event><date>2025, December 22, 08:00</date>
+<name>(New Zealand) Myfxbook NZDUSD Sentiment</name>
+<impact>Medium</impact><currency>NZD</currency></event><event><date>2025, December 22, 09:00</date>
+<name>(Greece) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 09:00</date>
+<name>(Spain) Balance of Trade</name>
+<impact>Medium</impact><currency>EUR</currency></event><event><date>2025, December 22, 09:00</date>
+<name>(Italy) PPI YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 09:00</date>
+<name>(Italy) PPI MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 10:00</date>
+<name>(Slovenia) Unemployment Rate</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 11:00</date>
+<name>(Ireland) Wholesale Prices MoM</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 11:00</date>
+<name>(Ireland) Wholesale Prices YoY</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 11:00</date>
+<name>(Luxembourg) Unemployment Rate</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 13:30</date>
+<name>(United States) Chicago Fed National Activity Index</name>
+<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 22, 13:30</date>
+<name>(Canada) Raw Materials Prices YoY</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 22, 13:30</date>
+<name>(Canada) PPI YoY</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 22, 13:30</date>
+<name>(Canada) PPI MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 22, 13:30</date>
+<name>(Canada) Raw Materials Prices MoM</name>
+<impact>Low</impact><currency>CAD</currency></event><event><date>2025, December 22, 14:00</date>
+<name>(France) 6-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 14:00</date>
+<name>(France) 12-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 14:00</date>
+<name>(France) 3-Month BTF Auction</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 22, 14:20</date>
+<name>(United States) NY Fed Bill Purchases 4 to 12 months</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 22, 16:30</date>
+<name>(United States) 6-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 22, 16:30</date>
+<name>(United States) 3-Month Bill Auction</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 22, 18:00</date>
+<name>(El Salvador) Balance of Trade</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 22, 18:00</date>
+<name>(El Salvador) GDP Growth Rate QoQ</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 22, 18:00</date>
+<name>(El Salvador) GDP Growth Rate YoY</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 22, 18:00</date>
+<name>(United States) 2-Year Note Auction</name>
+<impact>Low</impact><currency>USD</currency></event>
     </events>
 </response>
