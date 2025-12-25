@@ -1,87 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <response error="false" message="">
     <events>
-       <event><date>2025, December 24, 00:00</date>
-<name>(Estonia) Christmas Eve</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(Finland) Christmas Eve</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(France) Christmas Eve</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(Germany) Christmas Eve</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(Italy) Christmas Eve</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(Latvia) Christmas Eve</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(Lithuania) Christmas Eve</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(Luxembourg) Christmas Eve</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(Netherlands) Christmas Eve</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(Slovakia) Christmas Eve</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(Slovenia) Christmas</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(Spain) Christmas Eve</name>
-<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(Switzerland) Christmas Eve</name>
-<impact>None</impact><currency>CHF</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(United Kingdom) Christmas Eve</name>
-<impact>None</impact><currency>GBP</currency></event><event><date>2025, December 24, 00:00</date>
-<name>(China) National People&apos;s Congress Standing Committee</name>
-<impact>Low</impact><currency>CNY</currency></event><event><date>2025, December 24, 03:35</date>
-<name>(Japan) BoJ JGB Purchase</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 24, 04:15</date>
-<name>(Belgium) PPI YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 24, 05:00</date>
-<name>(Japan) Leading Economic Index</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 24, 05:00</date>
-<name>(Japan) Coincident Index</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 24, 05:30</date>
-<name>(Netherlands) GDP Growth Rate QoQ</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 24, 05:30</date>
-<name>(Netherlands) GDP Growth Rate YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 24, 09:30</date>
-<name>(Slovenia) Tourist Arrivals YoY</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 24, 09:30</date>
-<name>(Slovenia) Business Confidence</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 24, 11:00</date>
-<name>(Netherlands) Current Account</name>
-<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 24, 12:00</date>
-<name>(United States) MBA Mortgage Refinance Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 24, 12:00</date>
-<name>(United States) MBA Mortgage Applications</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 24, 12:00</date>
-<name>(United States) MBA Mortgage Market Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 24, 12:00</date>
-<name>(United States) MBA 30-Year Mortgage Rate</name>
-<impact>Medium</impact><currency>USD</currency></event><event><date>2025, December 24, 12:00</date>
-<name>(United States) MBA Purchase Index</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 24, 13:30</date>
-<name>(United States) Jobless Claims 4-week Average</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 24, 13:30</date>
-<name>(United States) Continuing Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 24, 13:30</date>
-<name>(United States) Initial Jobless Claims</name>
-<impact>High</impact><currency>USD</currency></event><event><date>2025, December 24, 15:30</date>
-<name>(United States) 7-Year Note Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 24, 16:30</date>
-<name>(United States) 4-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 24, 16:30</date>
-<name>(United States) 17-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 24, 16:30</date>
-<name>(United States) 8-Week Bill Auction</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 24, 17:00</date>
-<name>(United States) 30-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 24, 17:00</date>
-<name>(United States) 15-Year Mortgage Rate</name>
-<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 24, 23:50</date>
-<name>(Japan) Foreign Bond Investment</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 24, 23:50</date>
-<name>(Japan) Stock Investment by Foreigners</name>
-<impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 25, 00:00</date>
+       <event><date>2025, December 25, 00:00</date>
 <name>(Australia) Christmas</name>
 <impact>None</impact><currency>AUD</currency></event><event><date>2025, December 25, 00:00</date>
 <name>(Austria) Christmas</name>
@@ -161,6 +81,62 @@
 <name>(Japan) Retail Sales MoM</name>
 <impact>Low</impact><currency>JPY</currency></event><event><date>2025, December 25, 23:50</date>
 <name>(Japan) Retail Sales YoY</name>
-<impact>Medium</impact><currency>JPY</currency></event>
+<impact>Medium</impact><currency>JPY</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Australia) Boxing Day</name>
+<impact>None</impact><currency>AUD</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Austria) Saint Stephen&apos;s Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Canada) Boxing Day</name>
+<impact>None</impact><currency>CAD</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Cyprus) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Estonia) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Finland) Saint Stephen&apos;s Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(France) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Germany) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Greece) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Ireland) Saint Stephen&apos;s Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Italy) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Latvia) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Lithuania) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Luxembourg) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Malta) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Netherlands) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(New Zealand) Boxing Day</name>
+<impact>None</impact><currency>NZD</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Slovakia) Saint Stephen&apos;s Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Slovenia) Independence and Unity Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Spain) Boxing Day</name>
+<impact>None</impact><currency>EUR</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(Switzerland) Boxing Day</name>
+<impact>None</impact><currency>CHF</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(United Kingdom) Boxing Day</name>
+<impact>None</impact><currency>GBP</currency></event><event><date>2025, December 26, 00:00</date>
+<name>(China) National People&apos;s Congress Standing Committee</name>
+<impact>Low</impact><currency>CNY</currency></event><event><date>2025, December 26, 00:01</date>
+<name>(Ireland) Consumer Confidence</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 26, 10:00</date>
+<name>(Montenegro) Balance of Trade</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 26, 11:00</date>
+<name>(Luxembourg) Current Account</name>
+<impact>Low</impact><currency>EUR</currency></event><event><date>2025, December 26, 18:00</date>
+<name>(United States) Baker Hughes Oil Rig Count</name>
+<impact>Low</impact><currency>USD</currency></event><event><date>2025, December 26, 18:00</date>
+<name>(United States) Baker Hughes Total Rigs Count</name>
+<impact>Low</impact><currency>USD</currency></event>
     </events>
 </response>
